@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IDC Mosaic - Imaging Data Commons</title>
+    <meta name="description" content="Interactive mosaic showcasing the diversity of cancer imaging data available in the NCI Imaging Data Commons">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Imaging Data Commons Mosaic</h1>
+        <p class="subtitle">
+            Explore the diversity of publicly available cancer imaging data.
+            Click any tile to view the full series in the
+            <a href="https://portal.imaging.datacommons.cancer.gov/" target="_blank">IDC viewer</a>.
+        </p>
+        <div class="controls">
+            <label>
+                Grid size:
+                <select id="grid-select">
+                    <option value="4">4×4</option>
+                    <option value="6">6×6</option>
+                    <option value="8" selected>8×8</option>
+                    <option value="10">10×10</option>
+                    <option value="12">12×12</option>
+                </select>
+            </label>
+            <span id="stats"></span>
+        </div>
+    </header>
+
+    <main>
+        <div id="mosaic" class="mosaic-grid"></div>
+        <div id="loading" class="loading-indicator">Loading tiles...</div>
+        <div id="error" class="error-message" style="display: none;"></div>
+    </main>
+
+    <footer>
+        <p>
+            Data from <a href="https://portal.imaging.datacommons.cancer.gov/" target="_blank">NCI Imaging Data Commons</a>
+            | <a href="https://github.com/ImagingDataCommons/idc-mosaic" target="_blank">Source Code</a>
+        </p>
+    </footer>
+
+    <script src="js/mosaic.js"></script>
+</body>
+</html>
