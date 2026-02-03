@@ -118,12 +118,21 @@ main {
     cursor: pointer;
     position: relative;
     transition: transform 0.2s ease, box-shadow 0.2s ease, z-index 0s;
+    overflow: hidden;
 }
 
 .tile:hover {
     transform: scale(1.08);
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.8);
     z-index: 100;
+}
+
+/* Canvas for segmentation overlay */
+.tile-canvas {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
 }
 
 /* Loading shimmer animation */
