@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-03T18:35:02.866239+00:00",
+  "generated": "2026-02-05T22:06:43.223863+00:00",
   "idc_version": "v23",
   "total_tiles": 4,
   "dicomweb_base_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb",
@@ -291,7 +291,8 @@
               87
             ]
           }
-        ]
+        ],
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.311682441613979936168816266896926957374&SeriesInstanceUIDs=1.2.276.0.7230010.3.1.3.313263360.20080.1706324443.111183"
       }
     },
     {
@@ -510,7 +511,8 @@
               87
             ]
           }
-        ]
+        ],
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.173915578949237777457751540269574149998&SeriesInstanceUIDs=1.2.276.0.7230010.3.1.3.313263360.10942.1706326539.259251"
       }
     },
     {
@@ -749,7 +751,8 @@
               87
             ]
           }
-        ]
+        ],
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.56837608165656136951937732085012338868&SeriesInstanceUIDs=1.2.276.0.7230010.3.1.3.313263360.12245.1706316569.935347"
       }
     },
     {
@@ -1018,7 +1021,8 @@
               87
             ]
           }
-        ]
+        ],
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.118863448556736872911736557774&SeriesInstanceUIDs=1.2.276.0.7230010.3.1.3.313263360.31785.1706328669.592763"
       }
     }
   ]

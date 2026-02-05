@@ -1,2 +1,0 @@
-[console_scripts]
-idc-mosaic = idc_mosaic.generator:main

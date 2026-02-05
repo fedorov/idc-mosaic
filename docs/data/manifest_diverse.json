@@ -1,0 +1,1449 @@
+{
+  "generated": "2026-02-05T21:41:17.567223+00:00",
+  "idc_version": "v23",
+  "total_tiles": 144,
+  "dicomweb_base_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb",
+  "has_segmentations": false,
+  "tiles": [
+    {
+      "index": 0,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.290182155316391599087399924372059755333/series/1.3.6.1.4.1.14519.5.2.1.39815453926962969565673898618822669832/instances/1.3.6.1.4.1.14519.5.2.1.320937324372183782249915194140857303094/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.290182155316391599087399924372059755333&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.39815453926962969565673898618822669832",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "ispy2",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.39815453926962969565673898618822669832",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.290182155316391599087399924372059755333"
+    },
+    {
+      "index": 1,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.154366012466631731872831505498666873669/series/1.2.840.113654.2.55.153040851708357718911636339730610533225/instances/1.2.840.113654.2.55.329880073796115478343856190974175470206/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.154366012466631731872831505498666873669&SeriesInstanceUIDs=1.2.840.113654.2.55.153040851708357718911636339730610533225",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.153040851708357718911636339730610533225",
+      "study_uid": "1.2.840.113654.2.55.154366012466631731872831505498666873669"
+    },
+    {
+      "index": 2,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.826.0.1.3680043.8.498.85938202124180867159454831213786521063/series/1.2.826.0.1.3680043.8.498.45850754885289609251940203196190907388/instances/1.2.826.0.1.3680043.8.498.27954155830640880091920946214943342061/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.826.0.1.3680043.8.498.85938202124180867159454831213786521063&SeriesInstanceUIDs=1.2.826.0.1.3680043.8.498.45850754885289609251940203196190907388",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "breast_cancer_screening_dbt",
+      "series_uid": "1.2.826.0.1.3680043.8.498.45850754885289609251940203196190907388",
+      "study_uid": "1.2.826.0.1.3680043.8.498.85938202124180867159454831213786521063"
+    },
+    {
+      "index": 3,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.301655239289029777257950169407587597724/series/1.3.6.1.4.1.14519.5.2.1.240594458850466117147748824407892041023/instances/1.3.6.1.4.1.14519.5.2.1.274968878611659818878308307142421574929/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.301655239289029777257950169407587597724&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.240594458850466117147748824407892041023",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "advanced_mri_breast_lesions",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.240594458850466117147748824407892041023",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.301655239289029777257950169407587597724"
+    },
+    {
+      "index": 4,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6834.5010.203833475056831128472930077085/series/1.3.6.1.4.1.14519.5.2.1.6834.5010.176108798087792725856984977458/instances/1.3.6.1.4.1.14519.5.2.1.6834.5010.215219676309900856532904602488/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6834.5010.203833475056831128472930077085&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6834.5010.176108798087792725856984977458",
+      "modality": "CT",
+      "body_part": "LUNG",
+      "collection": "4d_lung",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6834.5010.176108798087792725856984977458",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6834.5010.203833475056831128472930077085"
+    },
+    {
+      "index": 5,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.258084955956601980875553644558/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.267464464683954695628455278415/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.173284197937671306160762776188/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.258084955956601980875553644558&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.267464464683954695628455278415",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.267464464683954695628455278415",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.258084955956601980875553644558"
+    },
+    {
+      "index": 6,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.75143072134895561349634985800048625586/series/1.3.6.1.4.1.5962.99.1.3098162289.616392133.1738264982641.4.0/instances/1.3.6.1.4.1.5962.99.1.3098162289.616392133.1738264982641.17.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.75143072134895561349634985800048625586/series/1.3.6.1.4.1.5962.99.1.3098162289.616392133.1738264982641.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "ccdi_mci",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.3098162289.616392133.1738264982641.4.0",
+      "study_uid": "2.25.75143072134895561349634985800048625586"
+    },
+    {
+      "index": 7,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.1706.4004.207910840338133857686572076027/series/1.3.6.1.4.1.14519.5.2.1.1706.4004.214250361996779776204393189488/instances/1.3.6.1.4.1.14519.5.2.1.1706.4004.116025095185506797887036808085/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1706.4004.207910840338133857686572076027&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1706.4004.214250361996779776204393189488",
+      "modality": "CT",
+      "body_part": "KIDNEY",
+      "collection": "tcga_kirc",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.1706.4004.214250361996779776204393189488",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.1706.4004.207910840338133857686572076027"
+    },
+    {
+      "index": 8,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.304173324464989888986948074399369355412/series/1.2.840.113654.2.55.143782654184599003351817429696440014984/instances/1.2.840.113654.2.55.251563202167680938307784166866048588372/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.304173324464989888986948074399369355412&SeriesInstanceUIDs=1.2.840.113654.2.55.143782654184599003351817429696440014984",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.143782654184599003351817429696440014984",
+      "study_uid": "1.2.840.113654.2.55.304173324464989888986948074399369355412"
+    },
+    {
+      "index": 9,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.266055889432162500033776730307872787474/series/1.2.840.113654.2.55.191799249253140881204098557903994360981/instances/1.2.840.113654.2.55.230948481462527372232827871887643538394/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.266055889432162500033776730307872787474&SeriesInstanceUIDs=1.2.840.113654.2.55.191799249253140881204098557903994360981",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.191799249253140881204098557903994360981",
+      "study_uid": "1.2.840.113654.2.55.266055889432162500033776730307872787474"
+    },
+    {
+      "index": 10,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.216883535371131722511763207949034029473/series/1.2.840.113654.2.55.2127887107064966063222570446399806370/instances/1.2.840.113654.2.55.98077777199854108389485798896716444977/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.216883535371131722511763207949034029473&SeriesInstanceUIDs=1.2.840.113654.2.55.2127887107064966063222570446399806370",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.2127887107064966063222570446399806370",
+      "study_uid": "1.2.840.113654.2.55.216883535371131722511763207949034029473"
+    },
+    {
+      "index": 11,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.2135.6389.208726542343815060273775888581/series/1.3.6.1.4.1.14519.5.2.1.2135.6389.330162648490889065166386622829/instances/1.3.6.1.4.1.14519.5.2.1.2135.6389.652107718818839668144996252708/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.208726542343815060273775888581&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.330162648490889065166386622829",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "victre",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.330162648490889065166386622829",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.208726542343815060273775888581"
+    },
+    {
+      "index": 12,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.4164.240403245818317701099865307670/series/1.3.6.1.4.1.14519.5.2.1.7695.4164.297406378421675694461804659704/instances/1.3.6.1.4.1.14519.5.2.1.7695.4164.150683867080527196579926121345/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.240403245818317701099865307670&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.297406378421675694461804659704",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "acrin_6698",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.297406378421675694461804659704",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.240403245818317701099865307670"
+    },
+    {
+      "index": 13,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.178842995005729382273563220942544357400/series/1.3.6.1.4.1.5962.99.1.143176172.1319096644.1640820716012.2.0/instances/1.3.6.1.4.1.5962.99.1.143176172.1319096644.1640820716012.21.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.178842995005729382273563220942544357400/series/1.3.6.1.4.1.5962.99.1.143176172.1319096644.1640820716012.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "cptac_brca",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.143176172.1319096644.1640820716012.2.0",
+      "study_uid": "2.25.178842995005729382273563220942544357400"
+    },
+    {
+      "index": 14,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.1700.705201094821299947803343566883/series/1.3.6.1.4.1.14519.5.2.1.7695.1700.106333995504992654972758512282/instances/1.3.6.1.4.1.14519.5.2.1.7695.1700.390711045906510655600999293818/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.1700.705201094821299947803343566883&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.1700.106333995504992654972758512282",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "ispy1",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.1700.106333995504992654972758512282",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.1700.705201094821299947803343566883"
+    },
+    {
+      "index": 15,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.336305312162019436323881692238929678819/series/1.3.6.1.4.1.14519.5.2.1.21868325285526372468837244745551768141/instances/1.3.6.1.4.1.14519.5.2.1.308333226891280109826755235663824072362/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.336305312162019436323881692238929678819&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.21868325285526372468837244745551768141",
+      "modality": "CT",
+      "body_part": "CHESTABDOMEN",
+      "collection": "cmb_ov",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.21868325285526372468837244745551768141",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.336305312162019436323881692238929678819"
+    },
+    {
+      "index": 16,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.101817281239566332941003848602431703362/series/1.2.840.113654.2.55.23150721485606788250283468223933284930/instances/1.2.840.113654.2.55.101779401221526584620684796533667628204/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.101817281239566332941003848602431703362&SeriesInstanceUIDs=1.2.840.113654.2.55.23150721485606788250283468223933284930",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.23150721485606788250283468223933284930",
+      "study_uid": "1.2.840.113654.2.55.101817281239566332941003848602431703362"
+    },
+    {
+      "index": 17,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.286294678903084400224109234035375725182/series/1.2.840.113654.2.55.10844678086741629810988091986419609207/instances/1.2.840.113654.2.55.123540115502314243564559063225665503824/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.286294678903084400224109234035375725182&SeriesInstanceUIDs=1.2.840.113654.2.55.10844678086741629810988091986419609207",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.10844678086741629810988091986419609207",
+      "study_uid": "1.2.840.113654.2.55.286294678903084400224109234035375725182"
+    },
+    {
+      "index": 18,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.49247088708828811444298805644704545133/series/1.3.6.1.4.1.5962.99.1.1978869839.2105735490.1719965821007.4.0/instances/1.3.6.1.4.1.5962.99.1.1978869839.2105735490.1719965821007.24.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.49247088708828811444298805644704545133/series/1.3.6.1.4.1.5962.99.1.1978869839.2105735490.1719965821007.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "gtex",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.1978869839.2105735490.1719965821007.4.0",
+      "study_uid": "2.25.49247088708828811444298805644704545133"
+    },
+    {
+      "index": 19,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.826.0.1.3680043.8.498.12631868264878076665029213063916735887/series/1.2.826.0.1.3680043.8.498.29085674275243970652564423924379673580/instances/1.2.826.0.1.3680043.8.498.81567449962569291902651959484630217492/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.826.0.1.3680043.8.498.12631868264878076665029213063916735887&SeriesInstanceUIDs=1.2.826.0.1.3680043.8.498.29085674275243970652564423924379673580",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "breast_cancer_screening_dbt",
+      "series_uid": "1.2.826.0.1.3680043.8.498.29085674275243970652564423924379673580",
+      "study_uid": "1.2.826.0.1.3680043.8.498.12631868264878076665029213063916735887"
+    },
+    {
+      "index": 20,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.324307979463128009690179375818456981068/series/1.2.840.113654.2.55.171852051633994528482149606070677997223/instances/1.2.840.113654.2.55.172505440941712356958976393382702183542/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.324307979463128009690179375818456981068&SeriesInstanceUIDs=1.2.840.113654.2.55.171852051633994528482149606070677997223",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.171852051633994528482149606070677997223",
+      "study_uid": "1.2.840.113654.2.55.324307979463128009690179375818456981068"
+    },
+    {
+      "index": 21,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.20902874324323328790968571161206478132/series/1.3.6.1.4.1.14519.5.2.1.10575609385899720593952708917619241048/instances/1.3.6.1.4.1.14519.5.2.1.174557758014359845121962535660596984063/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.20902874324323328790968571161206478132&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.10575609385899720593952708917619241048",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "ispy2",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.10575609385899720593952708917619241048",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.20902874324323328790968571161206478132"
+    },
+    {
+      "index": 22,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.107585207391736789836749351453503518449/series/1.3.6.1.4.1.14519.5.2.1.264673777273731104288172814236055933951/instances/1.3.6.1.4.1.14519.5.2.1.269058112561078070061473314071733543003/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.107585207391736789836749351453503518449&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.264673777273731104288172814236055933951",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "advanced_mri_breast_lesions",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.264673777273731104288172814236055933951",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.107585207391736789836749351453503518449"
+    },
+    {
+      "index": 23,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.1700.285035680611707743209864589305/series/1.3.6.1.4.1.14519.5.2.1.7695.1700.618496156502183011239958580407/instances/1.3.6.1.4.1.14519.5.2.1.7695.1700.121242596533387644036101811065/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.1700.285035680611707743209864589305&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.1700.618496156502183011239958580407",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "ispy1",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.1700.618496156502183011239958580407",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.1700.285035680611707743209864589305"
+    },
+    {
+      "index": 24,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.4221.6935.426128494841328910968307987520/series/1.3.6.1.4.1.14519.5.2.1.4221.6935.557205775848984007443006626110/instances/1.3.6.1.4.1.14519.5.2.1.4221.6935.253443670575591337336873057717/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.4221.6935.426128494841328910968307987520&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.4221.6935.557205775848984007443006626110",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "cc_radiomics_phantom_2",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.4221.6935.557205775848984007443006626110",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.4221.6935.426128494841328910968307987520"
+    },
+    {
+      "index": 25,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.416228089112256667540287035815/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.354815995358204038850902427895/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.195782572951947298916200935499/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.416228089112256667540287035815&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.354815995358204038850902427895",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.354815995358204038850902427895",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.416228089112256667540287035815"
+    },
+    {
+      "index": 26,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.88459717613799211564138544766992320285/series/1.2.840.113654.2.55.282748496165878875962322625996948719976/instances/1.2.840.113654.2.55.158447886639990382838269318083252194053/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.88459717613799211564138544766992320285&SeriesInstanceUIDs=1.2.840.113654.2.55.282748496165878875962322625996948719976",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.282748496165878875962322625996948719976",
+      "study_uid": "1.2.840.113654.2.55.88459717613799211564138544766992320285"
+    },
+    {
+      "index": 27,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.184766809658719409880757941166867820371/series/1.2.840.113654.2.55.184525930731630930915193349138531237599/instances/1.2.840.113654.2.55.330941644690273636854768749277774935002/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.184766809658719409880757941166867820371&SeriesInstanceUIDs=1.2.840.113654.2.55.184525930731630930915193349138531237599",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.184525930731630930915193349138531237599",
+      "study_uid": "1.2.840.113654.2.55.184766809658719409880757941166867820371"
+    },
+    {
+      "index": 28,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6655.2359.177809645025129565912150275312/series/1.3.6.1.4.1.14519.5.2.1.6655.2359.318630183033939036312133158740/instances/1.3.6.1.4.1.14519.5.2.1.6655.2359.256758139127736707408445350348/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6655.2359.177809645025129565912150275312&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6655.2359.318630183033939036312133158740",
+      "modality": "CT",
+      "body_part": "UNKNOWN",
+      "collection": "lung_pet_ct_dx",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6655.2359.318630183033939036312133158740",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6655.2359.177809645025129565912150275312"
+    },
+    {
+      "index": 29,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.153815851697310884995762265916871713305/series/1.3.6.1.4.1.5962.99.1.2114567310.697384940.1638497139854.2.0/instances/1.3.6.1.4.1.5962.99.1.2114567310.697384940.1638497139854.29.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.153815851697310884995762265916871713305/series/1.3.6.1.4.1.5962.99.1.2114567310.697384940.1638497139854.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_prad",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2114567310.697384940.1638497139854.2.0",
+      "study_uid": "2.25.153815851697310884995762265916871713305"
+    },
+    {
+      "index": 30,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.49481482266021094779687774688283369124/series/1.2.840.113654.2.55.144869059243757889354430081566893163289/instances/1.2.840.113654.2.55.304478107224309091142738324427178779910/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.49481482266021094779687774688283369124&SeriesInstanceUIDs=1.2.840.113654.2.55.144869059243757889354430081566893163289",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.144869059243757889354430081566893163289",
+      "study_uid": "1.2.840.113654.2.55.49481482266021094779687774688283369124"
+    },
+    {
+      "index": 31,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7311.5101.842202017753844903394688327839/series/1.3.6.1.4.1.14519.5.2.1.7311.5101.260281246624399245731199456478/instances/1.3.6.1.4.1.14519.5.2.1.7311.5101.290719986966394604427127453824/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.842202017753844903394688327839&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.260281246624399245731199456478",
+      "modality": "MR",
+      "body_part": "PROSTATE",
+      "collection": "prostatex",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.260281246624399245731199456478",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.842202017753844903394688327839"
+    },
+    {
+      "index": 32,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.211781905655173490986371786268359978418/series/1.2.840.113654.2.55.43568584136331932769402251860269988657/instances/1.2.840.113654.2.55.163331079028286764341349413929187645519/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.211781905655173490986371786268359978418&SeriesInstanceUIDs=1.2.840.113654.2.55.43568584136331932769402251860269988657",
+      "modality": "CT",
+      "body_part": "UNKNOWN",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.43568584136331932769402251860269988657",
+      "study_uid": "1.2.840.113654.2.55.211781905655173490986371786268359978418"
+    },
+    {
+      "index": 33,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.254890943151162277974814027685938159331/series/1.2.840.113654.2.55.294062821808936281686070734275074750552/instances/1.2.840.113654.2.55.100350757812064024669243381038003380949/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.254890943151162277974814027685938159331&SeriesInstanceUIDs=1.2.840.113654.2.55.294062821808936281686070734275074750552",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.294062821808936281686070734275074750552",
+      "study_uid": "1.2.840.113654.2.55.254890943151162277974814027685938159331"
+    },
+    {
+      "index": 34,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.287362937418306160621095333908/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.227876287261531869575252635075/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.324444140304780896497730998925/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.287362937418306160621095333908&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.227876287261531869575252635075",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.227876287261531869575252635075",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.287362937418306160621095333908"
+    },
+    {
+      "index": 35,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.3023.4002.854535301267212524418038882932/series/1.3.6.1.4.1.14519.5.2.1.3023.4002.133884353600945438855130923837/instances/1.3.6.1.4.1.14519.5.2.1.3023.4002.151930991902993974739890633072/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.3023.4002.854535301267212524418038882932&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.3023.4002.133884353600945438855130923837",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "tcga_brca",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.3023.4002.133884353600945438855130923837",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.3023.4002.854535301267212524418038882932"
+    },
+    {
+      "index": 36,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.2406.486348559302040358879470377663/series/1.3.6.1.4.1.14519.5.2.1.7009.2406.216497972820170703844431097100/instances/1.3.6.1.4.1.14519.5.2.1.7009.2406.332282963101115767103795503467/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.486348559302040358879470377663&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.216497972820170703844431097100",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "acrin_contralateral_breast_mr",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.216497972820170703844431097100",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.486348559302040358879470377663"
+    },
+    {
+      "index": 37,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.192955981324053108359568578078617857061/series/1.2.840.113654.2.55.209198670507517040306033546239857876580/instances/1.2.840.113654.2.55.95474133028764169399336469856667280273/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.192955981324053108359568578078617857061&SeriesInstanceUIDs=1.2.840.113654.2.55.209198670507517040306033546239857876580",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.209198670507517040306033546239857876580",
+      "study_uid": "1.2.840.113654.2.55.192955981324053108359568578078617857061"
+    },
+    {
+      "index": 38,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.239271034324612430779626691500917704445/series/1.3.6.1.4.1.14519.5.2.1.7872243293347339016182210086753657110/instances/1.3.6.1.4.1.14519.5.2.1.161069483740823913125501550681140274317/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.239271034324612430779626691500917704445&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7872243293347339016182210086753657110",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "advanced_mri_breast_lesions",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7872243293347339016182210086753657110",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.239271034324612430779626691500917704445"
+    },
+    {
+      "index": 39,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.305742016356718557550350833302147637601/series/1.3.6.1.4.1.5962.99.1.1457016577.531980478.1637839589121.2.0/instances/1.3.6.1.4.1.5962.99.1.1457016577.531980478.1637839589121.8.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.305742016356718557550350833302147637601/series/1.3.6.1.4.1.5962.99.1.1457016577.531980478.1637839589121.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_lgg",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.1457016577.531980478.1637839589121.2.0",
+      "study_uid": "2.25.305742016356718557550350833302147637601"
+    },
+    {
+      "index": 40,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.248211038924367380094448768621460657789/series/1.3.6.1.4.1.14519.5.2.1.192895045628611928705197042763623792489/instances/1.3.6.1.4.1.14519.5.2.1.74756653975151016070323893415642690347/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.248211038924367380094448768621460657789&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.192895045628611928705197042763623792489",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "duke_breast_cancer_mri",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.192895045628611928705197042763623792489",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.248211038924367380094448768621460657789"
+    },
+    {
+      "index": 41,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6834.5010.289542241411749333409234325260/series/1.3.6.1.4.1.14519.5.2.1.6834.5010.131492239513712907081877848114/instances/1.3.6.1.4.1.14519.5.2.1.6834.5010.290793347081036549870838473235/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6834.5010.289542241411749333409234325260&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6834.5010.131492239513712907081877848114",
+      "modality": "CT",
+      "body_part": "LUNG",
+      "collection": "4d_lung",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6834.5010.131492239513712907081877848114",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6834.5010.289542241411749333409234325260"
+    },
+    {
+      "index": 42,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.99.1071.53998771183294565541632798608247/series/1.3.6.1.4.1.14519.5.2.1.99.1071.22020239107850677375448768177860/instances/1.3.6.1.4.1.14519.5.2.1.99.1071.27526661587072497681411231374292/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.53998771183294565541632798608247&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.22020239107850677375448768177860",
+      "modality": "CR",
+      "body_part": "CHEST",
+      "collection": "covid_19_ny_sbu",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.22020239107850677375448768177860",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.53998771183294565541632798608247"
+    },
+    {
+      "index": 43,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.9590.100.1.2.95871781313602130625772540590805889693/series/1.3.6.1.4.1.9590.100.1.2.43403648313396026338770630771140875718/instances/1.3.6.1.4.1.9590.100.1.2.370484422111451083517666625791327923172/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.9590.100.1.2.95871781313602130625772540590805889693&SeriesInstanceUIDs=1.3.6.1.4.1.9590.100.1.2.43403648313396026338770630771140875718",
+      "modality": "MG",
+      "body_part": "Left Breast",
+      "collection": "cbis_ddsm",
+      "series_uid": "1.3.6.1.4.1.9590.100.1.2.43403648313396026338770630771140875718",
+      "study_uid": "1.3.6.1.4.1.9590.100.1.2.95871781313602130625772540590805889693"
+    },
+    {
+      "index": 44,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.284275562227726488110299245198/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.121736057308146736951174327861/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.273575030306117777615244783421/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.284275562227726488110299245198&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.121736057308146736951174327861",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.121736057308146736951174327861",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.284275562227726488110299245198"
+    },
+    {
+      "index": 45,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.250015117311084665094921339425239278112/series/1.2.840.113654.2.55.81726374202434995091821039265162871041/instances/1.2.840.113654.2.55.269778124137914872459345896427100547080/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.250015117311084665094921339425239278112&SeriesInstanceUIDs=1.2.840.113654.2.55.81726374202434995091821039265162871041",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.81726374202434995091821039265162871041",
+      "study_uid": "1.2.840.113654.2.55.250015117311084665094921339425239278112"
+    },
+    {
+      "index": 46,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.2406.527389150859495604814980829673/series/1.3.6.1.4.1.14519.5.2.1.7009.2406.199731274148161411718726571216/instances/1.3.6.1.4.1.14519.5.2.1.7009.2406.655184216397632023126254957642/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.527389150859495604814980829673&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.199731274148161411718726571216",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "acrin_contralateral_breast_mr",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.199731274148161411718726571216",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.527389150859495604814980829673"
+    },
+    {
+      "index": 47,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.36229482606798133577323007525872664860/series/1.2.840.113654.2.55.88386380898194049522258289111342465370/instances/1.2.840.113654.2.55.166759157633496925049725907979589088000/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.36229482606798133577323007525872664860&SeriesInstanceUIDs=1.2.840.113654.2.55.88386380898194049522258289111342465370",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.88386380898194049522258289111342465370",
+      "study_uid": "1.2.840.113654.2.55.36229482606798133577323007525872664860"
+    },
+    {
+      "index": 48,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.249238832475187473099529306664433635029/series/1.2.840.113654.2.55.296113344246013599419061097139864728013/instances/1.2.840.113654.2.55.311290048443383857367142936782138942439/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.249238832475187473099529306664433635029&SeriesInstanceUIDs=1.2.840.113654.2.55.296113344246013599419061097139864728013",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.296113344246013599419061097139864728013",
+      "study_uid": "1.2.840.113654.2.55.249238832475187473099529306664433635029"
+    },
+    {
+      "index": 49,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.118089965907701259607213177353/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.224015791924051785125783417169/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.195704704863339843434695155299/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.118089965907701259607213177353&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.224015791924051785125783417169",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.224015791924051785125783417169",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.118089965907701259607213177353"
+    },
+    {
+      "index": 50,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.4164.739883614491930666038160315660/series/1.3.6.1.4.1.14519.5.2.1.7695.4164.157835370464598080038545458704/instances/1.3.6.1.4.1.14519.5.2.1.7695.4164.139953378397236011951359386345/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.739883614491930666038160315660&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.157835370464598080038545458704",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "acrin_6698",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.157835370464598080038545458704",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.739883614491930666038160315660"
+    },
+    {
+      "index": 51,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.3643244048224515097856646908363223286/series/1.3.6.1.4.1.14519.5.2.1.146652780492265848498214219114166217047/instances/1.3.6.1.4.1.14519.5.2.1.325509432396639702239013164331046689294/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.3643244048224515097856646908363223286&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.146652780492265848498214219114166217047",
+      "modality": "CT",
+      "body_part": "CHESTABDPELVIS",
+      "collection": "cmb_lca",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.146652780492265848498214219114166217047",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.3643244048224515097856646908363223286"
+    },
+    {
+      "index": 52,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.543430664673696605908403646890/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.298269303831279640327908601951/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.149710002371559673815825451716/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.543430664673696605908403646890&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.298269303831279640327908601951",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.298269303831279640327908601951",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.543430664673696605908403646890"
+    },
+    {
+      "index": 53,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.211262337576165549943357067533345510687/series/1.3.6.1.4.1.14519.5.2.1.284235969321612786757272321904108031270/instances/1.3.6.1.4.1.14519.5.2.1.230586142332503634109116833657056963856/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.211262337576165549943357067533345510687&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.284235969321612786757272321904108031270",
+      "modality": "CT",
+      "body_part": "SPINE",
+      "collection": "cmb_mel",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.284235969321612786757272321904108031270",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.211262337576165549943357067533345510687"
+    },
+    {
+      "index": 54,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7311.5101.117114220245003484913021511572/series/1.3.6.1.4.1.14519.5.2.1.7311.5101.115912047535453510958003647582/instances/1.3.6.1.4.1.14519.5.2.1.7311.5101.272334970638616162907188671046/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.117114220245003484913021511572&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.115912047535453510958003647582",
+      "modality": "MR",
+      "body_part": "PROSTATE",
+      "collection": "prostatex",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.115912047535453510958003647582",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.117114220245003484913021511572"
+    },
+    {
+      "index": 55,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.156620251105113143874699259112/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.310920844399374339171964927279/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.296784242882335638900041397748/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.156620251105113143874699259112&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.310920844399374339171964927279",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.310920844399374339171964927279",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.156620251105113143874699259112"
+    },
+    {
+      "index": 56,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.113753986684862557114457126266423055158/series/1.2.840.113654.2.55.170277035395433209714621247626817976197/instances/1.2.840.113654.2.55.335827257158297738717773123382340833810/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.113753986684862557114457126266423055158&SeriesInstanceUIDs=1.2.840.113654.2.55.170277035395433209714621247626817976197",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.170277035395433209714621247626817976197",
+      "study_uid": "1.2.840.113654.2.55.113753986684862557114457126266423055158"
+    },
+    {
+      "index": 57,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.333105300760929104013614887584680265046/series/1.2.840.113654.2.55.211633634235686244674965805312923322692/instances/1.2.840.113654.2.55.149583332176134380253154479914357747082/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.333105300760929104013614887584680265046&SeriesInstanceUIDs=1.2.840.113654.2.55.211633634235686244674965805312923322692",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.211633634235686244674965805312923322692",
+      "study_uid": "1.2.840.113654.2.55.333105300760929104013614887584680265046"
+    },
+    {
+      "index": 58,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.826.0.1.3680043.8.498.67822371707083373629398841720150469479/series/1.2.826.0.1.3680043.8.498.13142748441812252902397660436285041656/instances/1.2.826.0.1.3680043.8.498.97266399938864584326779267721619125585/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.826.0.1.3680043.8.498.67822371707083373629398841720150469479&SeriesInstanceUIDs=1.2.826.0.1.3680043.8.498.13142748441812252902397660436285041656",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "breast_cancer_screening_dbt",
+      "series_uid": "1.2.826.0.1.3680043.8.498.13142748441812252902397660436285041656",
+      "study_uid": "1.2.826.0.1.3680043.8.498.67822371707083373629398841720150469479"
+    },
+    {
+      "index": 59,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.279772168936740672808395327186679812588/series/1.3.6.1.4.1.5962.99.1.1497243383.2078529604.1637879815927.2.0/instances/1.3.6.1.4.1.5962.99.1.1497243383.2078529604.1637879815927.8.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.279772168936740672808395327186679812588/series/1.3.6.1.4.1.5962.99.1.1497243383.2078529604.1637879815927.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_lgg",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.1497243383.2078529604.1637879815927.2.0",
+      "study_uid": "2.25.279772168936740672808395327186679812588"
+    },
+    {
+      "index": 60,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.235414180726345940087238051699101814559/series/1.2.840.113654.2.55.285421061725989674346479245755725718063/instances/1.2.840.113654.2.55.240516503681851700197195703199489832362/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.235414180726345940087238051699101814559&SeriesInstanceUIDs=1.2.840.113654.2.55.285421061725989674346479245755725718063",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.285421061725989674346479245755725718063",
+      "study_uid": "1.2.840.113654.2.55.235414180726345940087238051699101814559"
+    },
+    {
+      "index": 61,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.128189638437753431485348928817033399679/series/1.2.840.113654.2.55.305330528111732561525684123540324572694/instances/1.2.840.113654.2.55.78529765782778433997764141299829433745/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.128189638437753431485348928817033399679&SeriesInstanceUIDs=1.2.840.113654.2.55.305330528111732561525684123540324572694",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.305330528111732561525684123540324572694",
+      "study_uid": "1.2.840.113654.2.55.128189638437753431485348928817033399679"
+    },
+    {
+      "index": 62,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6450.4002.155856231925238279250135085477/series/1.3.6.1.4.1.14519.5.2.1.6450.4002.246376574203599302535933215914/instances/1.3.6.1.4.1.14519.5.2.1.6450.4002.170095474629513307372980518895/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6450.4002.155856231925238279250135085477&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6450.4002.246376574203599302535933215914",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "tcga_brca",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6450.4002.246376574203599302535933215914",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6450.4002.155856231925238279250135085477"
+    },
+    {
+      "index": 63,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.826.0.1.3680043.8.498.45956551966002800049648598816551099674/series/1.2.826.0.1.3680043.8.498.10614065687617608911095793512373356979/instances/1.2.826.0.1.3680043.8.498.12399202211564001140409178706660996661/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.826.0.1.3680043.8.498.45956551966002800049648598816551099674&SeriesInstanceUIDs=1.2.826.0.1.3680043.8.498.10614065687617608911095793512373356979",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "breast_cancer_screening_dbt",
+      "series_uid": "1.2.826.0.1.3680043.8.498.10614065687617608911095793512373356979",
+      "study_uid": "1.2.826.0.1.3680043.8.498.45956551966002800049648598816551099674"
+    },
+    {
+      "index": 64,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.207098006104755451582377395087679708797/series/1.3.6.1.4.1.5962.99.1.2206054664.305086385.1720193005832.4.0/instances/1.3.6.1.4.1.5962.99.1.2206054664.305086385.1720193005832.17.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.207098006104755451582377395087679708797/series/1.3.6.1.4.1.5962.99.1.2206054664.305086385.1720193005832.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "gtex",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2206054664.305086385.1720193005832.4.0",
+      "study_uid": "2.25.207098006104755451582377395087679708797"
+    },
+    {
+      "index": 65,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6450.4004.214433844359304602383649136509/series/1.3.6.1.4.1.14519.5.2.1.6450.4004.311290403196445537009025786747/instances/1.3.6.1.4.1.14519.5.2.1.6450.4004.711640751199040959528346507045/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6450.4004.214433844359304602383649136509&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6450.4004.311290403196445537009025786747",
+      "modality": "CT",
+      "body_part": "KIDNEY",
+      "collection": "tcga_kirc",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6450.4004.311290403196445537009025786747",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6450.4004.214433844359304602383649136509"
+    },
+    {
+      "index": 66,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.2135.6389.153699982696823029011602224659/series/1.3.6.1.4.1.14519.5.2.1.2135.6389.190333276525462363731099401653/instances/1.3.6.1.4.1.14519.5.2.1.2135.6389.460030206250280394868724717117/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.153699982696823029011602224659&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.190333276525462363731099401653",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "victre",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.190333276525462363731099401653",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.153699982696823029011602224659"
+    },
+    {
+      "index": 67,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.14483103183284284700667374494794091209/series/1.3.6.1.4.1.14519.5.2.1.272180206802348931217988835950196734397/instances/1.3.6.1.4.1.14519.5.2.1.77122901827462329724046465089373041022/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.14483103183284284700667374494794091209&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.272180206802348931217988835950196734397",
+      "modality": "US",
+      "body_part": "UNKNOWN",
+      "collection": "prostate_mri_us_biopsy",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.272180206802348931217988835950196734397",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.14483103183284284700667374494794091209"
+    },
+    {
+      "index": 68,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.60710849612050129975471227198034828908/series/1.2.840.113654.2.55.264159235798853593247754085555116018868/instances/1.2.840.113654.2.55.295480789711771959852709841329695422357/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.60710849612050129975471227198034828908&SeriesInstanceUIDs=1.2.840.113654.2.55.264159235798853593247754085555116018868",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.264159235798853593247754085555116018868",
+      "study_uid": "1.2.840.113654.2.55.60710849612050129975471227198034828908"
+    },
+    {
+      "index": 69,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.115977794607489368453984499096937499602/series/1.3.6.1.4.1.5962.99.1.820376621.41353702.1727397262381.4.0/instances/1.3.6.1.4.1.5962.99.1.820376621.41353702.1727397262381.17.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.115977794607489368453984499096937499602/series/1.3.6.1.4.1.5962.99.1.820376621.41353702.1727397262381.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "ccdi_mci",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.820376621.41353702.1727397262381.4.0",
+      "study_uid": "2.25.115977794607489368453984499096937499602"
+    },
+    {
+      "index": 70,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.216429860418405948910963762135669444312/series/1.3.6.1.4.1.5962.99.1.3291758705.1034293710.1639674331249.2.0/instances/1.3.6.1.4.1.5962.99.1.3291758705.1034293710.1639674331249.36.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.216429860418405948910963762135669444312/series/1.3.6.1.4.1.5962.99.1.3291758705.1034293710.1639674331249.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_skcm",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.3291758705.1034293710.1639674331249.2.0",
+      "study_uid": "2.25.216429860418405948910963762135669444312"
+    },
+    {
+      "index": 71,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.3344.4020.704683349444267042104742975614/series/1.3.6.1.4.1.14519.5.2.1.3344.4020.144205543279916263412523396266/instances/1.3.6.1.4.1.14519.5.2.1.3344.4020.568009286593236408019533876750/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.3344.4020.704683349444267042104742975614&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.3344.4020.144205543279916263412523396266",
+      "modality": "CT",
+      "body_part": "UTERUS",
+      "collection": "tcga_ucec",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.3344.4020.144205543279916263412523396266",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.3344.4020.704683349444267042104742975614"
+    },
+    {
+      "index": 72,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.130736355151735086140022928736184996764/series/1.2.840.113654.2.55.265094675532989627265044354736165117778/instances/1.2.840.113654.2.55.206549515946438101799201013663892740214/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.130736355151735086140022928736184996764&SeriesInstanceUIDs=1.2.840.113654.2.55.265094675532989627265044354736165117778",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.265094675532989627265044354736165117778",
+      "study_uid": "1.2.840.113654.2.55.130736355151735086140022928736184996764"
+    },
+    {
+      "index": 73,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.826.0.1.3680043.8.498.66966492420231768533481560336203263961/series/1.2.826.0.1.3680043.8.498.96147928241643639930642416930913633198/instances/1.2.826.0.1.3680043.8.498.53485843459622334672772814347767612660/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.826.0.1.3680043.8.498.66966492420231768533481560336203263961&SeriesInstanceUIDs=1.2.826.0.1.3680043.8.498.96147928241643639930642416930913633198",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "breast_cancer_screening_dbt",
+      "series_uid": "1.2.826.0.1.3680043.8.498.96147928241643639930642416930913633198",
+      "study_uid": "1.2.826.0.1.3680043.8.498.66966492420231768533481560336203263961"
+    },
+    {
+      "index": 74,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.2406.212660085705401353416830966895/series/1.3.6.1.4.1.14519.5.2.1.7009.2406.274308694427315099855616195504/instances/1.3.6.1.4.1.14519.5.2.1.7009.2406.249737902097493188273192337495/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.212660085705401353416830966895&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.274308694427315099855616195504",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "acrin_contralateral_breast_mr",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.274308694427315099855616195504",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.212660085705401353416830966895"
+    },
+    {
+      "index": 75,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.83673707463940508655800163502314124123/series/1.3.6.1.4.1.14519.5.2.1.242971765648694845252667161617186394388/instances/1.3.6.1.4.1.14519.5.2.1.211326442046953950346003585679551587038/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.83673707463940508655800163502314124123&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.242971765648694845252667161617186394388",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "varepop_apollo",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.242971765648694845252667161617186394388",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.83673707463940508655800163502314124123"
+    },
+    {
+      "index": 76,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.299725299054340992116280380275/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.177521173152175607308864946410/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.405731226590277699875925111869/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.299725299054340992116280380275&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.177521173152175607308864946410",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.177521173152175607308864946410",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.299725299054340992116280380275"
+    },
+    {
+      "index": 77,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.2135.6389.128175272338078034220082940354/series/1.3.6.1.4.1.14519.5.2.1.2135.6389.338316780514869152500510405461/instances/1.3.6.1.4.1.14519.5.2.1.2135.6389.155143069331419941999200679127/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.128175272338078034220082940354&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.338316780514869152500510405461",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "victre",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.338316780514869152500510405461",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.128175272338078034220082940354"
+    },
+    {
+      "index": 78,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.35744344229874740031831172312300905048/series/1.2.840.113654.2.55.61475776649913424749371007069352975696/instances/1.2.840.113654.2.55.146571862575539637545873327433677340839/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.35744344229874740031831172312300905048&SeriesInstanceUIDs=1.2.840.113654.2.55.61475776649913424749371007069352975696",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.61475776649913424749371007069352975696",
+      "study_uid": "1.2.840.113654.2.55.35744344229874740031831172312300905048"
+    },
+    {
+      "index": 79,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.310237982923046435535981398699650678582/series/1.3.6.1.4.1.5962.99.1.2090184686.1013421238.1638472757230.2.0/instances/1.3.6.1.4.1.5962.99.1.2090184686.1013421238.1638472757230.29.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.310237982923046435535981398699650678582/series/1.3.6.1.4.1.5962.99.1.2090184686.1013421238.1638472757230.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_prad",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2090184686.1013421238.1638472757230.2.0",
+      "study_uid": "2.25.310237982923046435535981398699650678582"
+    },
+    {
+      "index": 80,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6655.2359.305808933950706315627111701999/series/1.3.6.1.4.1.14519.5.2.1.6655.2359.169339224345126586780783951238/instances/1.3.6.1.4.1.14519.5.2.1.6655.2359.276184618384333244770680464653/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6655.2359.305808933950706315627111701999&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6655.2359.169339224345126586780783951238",
+      "modality": "CT",
+      "body_part": "ABDOMEN",
+      "collection": "lung_pet_ct_dx",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6655.2359.169339224345126586780783951238",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6655.2359.305808933950706315627111701999"
+    },
+    {
+      "index": 81,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.648118134605644345606776251527/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.104444991100940713410079738948/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.926491912944707636812103503650/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.648118134605644345606776251527&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.104444991100940713410079738948",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.104444991100940713410079738948",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.648118134605644345606776251527"
+    },
+    {
+      "index": 82,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.63486917938490111262709465250204494266/series/1.2.840.113654.2.55.299089820191072594111242143151912449879/instances/1.2.840.113654.2.55.39087219986318307415413813418564516727/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.63486917938490111262709465250204494266&SeriesInstanceUIDs=1.2.840.113654.2.55.299089820191072594111242143151912449879",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.299089820191072594111242143151912449879",
+      "study_uid": "1.2.840.113654.2.55.63486917938490111262709465250204494266"
+    },
+    {
+      "index": 83,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.46.670589.11.17169.5.0.1508.2015081411365837580/series/1.3.46.670589.11.17169.5.0.3112.2015081412021812159.1/instances/1.3.46.670589.11.17169.5.24.5.1.3112.2015081412021812159/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.46.670589.11.17169.5.0.1508.2015081411365837580&SeriesInstanceUIDs=1.3.46.670589.11.17169.5.0.3112.2015081412021812159.1",
+      "modality": "MR",
+      "body_part": "ABDOMEN",
+      "collection": "pdmr_bl0293_f563",
+      "series_uid": "1.3.46.670589.11.17169.5.0.3112.2015081412021812159.1",
+      "study_uid": "1.3.46.670589.11.17169.5.0.1508.2015081411365837580"
+    },
+    {
+      "index": 84,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.2135.6389.913625619433171024791872195073/series/1.3.6.1.4.1.14519.5.2.1.2135.6389.263906161278345185576736506620/instances/1.3.6.1.4.1.14519.5.2.1.2135.6389.220203121883125565435391231996/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.913625619433171024791872195073&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.2135.6389.263906161278345185576736506620",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "victre",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.263906161278345185576736506620",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.2135.6389.913625619433171024791872195073"
+    },
+    {
+      "index": 85,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.237647691012251993729434657999776494412/series/1.3.6.1.4.1.5962.99.1.3054232513.1044235375.1639436805057.2.0/instances/1.3.6.1.4.1.5962.99.1.3054232513.1044235375.1639436805057.36.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.237647691012251993729434657999776494412/series/1.3.6.1.4.1.5962.99.1.3054232513.1044235375.1639436805057.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_ucec",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.3054232513.1044235375.1639436805057.2.0",
+      "study_uid": "2.25.237647691012251993729434657999776494412"
+    },
+    {
+      "index": 86,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.279796523796466914485029152434837991138/series/1.3.6.1.4.1.5962.99.1.2463955341.1626052477.1720450906509.4.0/instances/1.3.6.1.4.1.5962.99.1.2463955341.1626052477.1720450906509.31.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.279796523796466914485029152434837991138/series/1.3.6.1.4.1.5962.99.1.2463955341.1626052477.1720450906509.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "gtex",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2463955341.1626052477.1720450906509.4.0",
+      "study_uid": "2.25.279796523796466914485029152434837991138"
+    },
+    {
+      "index": 87,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.119746987085196248627935641112797088045/series/1.2.840.113654.2.55.99865986295421529519595764171096966477/instances/1.2.840.113654.2.55.58798232835617296319947127834203664853/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.119746987085196248627935641112797088045&SeriesInstanceUIDs=1.2.840.113654.2.55.99865986295421529519595764171096966477",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.99865986295421529519595764171096966477",
+      "study_uid": "1.2.840.113654.2.55.119746987085196248627935641112797088045"
+    },
+    {
+      "index": 88,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.141321673574413222331391586943/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.735506594275904239874241201180/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.171574983879655767730145016274/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.141321673574413222331391586943&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.735506594275904239874241201180",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.735506594275904239874241201180",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.141321673574413222331391586943"
+    },
+    {
+      "index": 89,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.4164.229986390322957309994797807692/series/1.3.6.1.4.1.14519.5.2.1.7695.4164.237515340417272893409549033241/instances/1.3.6.1.4.1.14519.5.2.1.7695.4164.147102341791362162068619380200/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.229986390322957309994797807692&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.237515340417272893409549033241",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "acrin_6698",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.237515340417272893409549033241",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.229986390322957309994797807692"
+    },
+    {
+      "index": 90,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.4164.462503092121310093332925662752/series/1.3.6.1.4.1.14519.5.2.1.7695.4164.783333132545540140487838079145/instances/1.3.6.1.4.1.14519.5.2.1.7695.4164.118309170928424156590391924167/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.462503092121310093332925662752&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.783333132545540140487838079145",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "acrin_6698",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.783333132545540140487838079145",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.462503092121310093332925662752"
+    },
+    {
+      "index": 91,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.337324845078821487957571495397089280924/series/1.2.840.113654.2.55.232198394805654963152514886181341391707/instances/1.2.840.113654.2.55.123475075024743878413408523068454179390/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.337324845078821487957571495397089280924&SeriesInstanceUIDs=1.2.840.113654.2.55.232198394805654963152514886181341391707",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.232198394805654963152514886181341391707",
+      "study_uid": "1.2.840.113654.2.55.337324845078821487957571495397089280924"
+    },
+    {
+      "index": 92,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.181518572427235535507697813337196363859/series/1.2.840.113654.2.55.280133578260655075304611923671851573283/instances/1.2.840.113654.2.55.46838278090624599942568247947364608041/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.181518572427235535507697813337196363859&SeriesInstanceUIDs=1.2.840.113654.2.55.280133578260655075304611923671851573283",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.280133578260655075304611923671851573283",
+      "study_uid": "1.2.840.113654.2.55.181518572427235535507697813337196363859"
+    },
+    {
+      "index": 93,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.71068523552592287610812083758723169578/series/1.2.840.113654.2.55.277704843665317462296164866450863429976/instances/1.2.840.113654.2.55.35461288213222851826711399922046529136/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.71068523552592287610812083758723169578&SeriesInstanceUIDs=1.2.840.113654.2.55.277704843665317462296164866450863429976",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.277704843665317462296164866450863429976",
+      "study_uid": "1.2.840.113654.2.55.71068523552592287610812083758723169578"
+    },
+    {
+      "index": 94,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.99.1071.32914892771973168164313259826807/series/1.3.6.1.4.1.14519.5.2.1.99.1071.10261271799972122397986833862669/instances/1.3.6.1.4.1.14519.5.2.1.99.1071.29508355524492834097954597977637/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.32914892771973168164313259826807&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.10261271799972122397986833862669",
+      "modality": "DX",
+      "body_part": "CHEST",
+      "collection": "covid_19_ny_sbu",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.10261271799972122397986833862669",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.32914892771973168164313259826807"
+    },
+    {
+      "index": 95,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.2403.109637762702629389829402919761/series/1.3.6.1.4.1.14519.5.2.1.7009.2403.124303195107418352118287238531/instances/1.3.6.1.4.1.14519.5.2.1.7009.2403.204526414870923198760911136955/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2403.109637762702629389829402919761&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2403.124303195107418352118287238531",
+      "modality": "NM",
+      "body_part": "UNKNOWN",
+      "collection": "acrin_nsclc_fdg_pet",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2403.124303195107418352118287238531",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2403.109637762702629389829402919761"
+    },
+    {
+      "index": 96,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.9328.50.17.82635455549740073230588119553503950224/series/1.3.6.1.4.1.9328.50.17.52370388163054325036260071227039383229/instances/1.3.6.1.4.1.9328.50.17.283202098094682608148614653118143457232/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.9328.50.17.82635455549740073230588119553503950224&SeriesInstanceUIDs=1.3.6.1.4.1.9328.50.17.52370388163054325036260071227039383229",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "rider_lung_pet_ct",
+      "series_uid": "1.3.6.1.4.1.9328.50.17.52370388163054325036260071227039383229",
+      "study_uid": "1.3.6.1.4.1.9328.50.17.82635455549740073230588119553503950224"
+    },
+    {
+      "index": 97,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.2406.128718338254126263369193209361/series/1.3.6.1.4.1.14519.5.2.1.7009.2406.708464385915724147100977025941/instances/1.3.6.1.4.1.14519.5.2.1.7009.2406.155551658957786953702545680298/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.128718338254126263369193209361&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.2406.708464385915724147100977025941",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "acrin_contralateral_breast_mr",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.708464385915724147100977025941",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.2406.128718338254126263369193209361"
+    },
+    {
+      "index": 98,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.99.1071.91806624658332452355883809333922/series/1.3.6.1.4.1.14519.5.2.1.99.1071.55824241478247058247594860090699/instances/1.3.6.1.4.1.14519.5.2.1.99.1071.43344911777075730810123322810572/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.91806624658332452355883809333922&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.55824241478247058247594860090699",
+      "modality": "CR",
+      "body_part": "CHEST",
+      "collection": "covid_19_ny_sbu",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.55824241478247058247594860090699",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.91806624658332452355883809333922"
+    },
+    {
+      "index": 99,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.170416359180835482075548826302045294552/series/1.3.6.1.4.1.5962.99.1.2153017993.1393706861.1720139969161.4.0/instances/1.3.6.1.4.1.5962.99.1.2153017993.1393706861.1720139969161.17.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.170416359180835482075548826302045294552/series/1.3.6.1.4.1.5962.99.1.2153017993.1393706861.1720139969161.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "gtex",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2153017993.1393706861.1720139969161.4.0",
+      "study_uid": "2.25.170416359180835482075548826302045294552"
+    },
+    {
+      "index": 100,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.1.29898197233053855227516642972055134338/series/1.3.6.1.4.1.14519.5.2.1.1.32436125456856762094973428669437482403/instances/1.3.6.1.4.1.14519.5.2.1.1.63846356355083101137717864987270850656/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1.29898197233053855227516642972055134338&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1.32436125456856762094973428669437482403",
+      "modality": "CT",
+      "body_part": "CHESTABDPELVIS",
+      "collection": "cmb_mel",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.1.32436125456856762094973428669437482403",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.1.29898197233053855227516642972055134338"
+    },
+    {
+      "index": 101,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.91228275737809251167923369366440528257/series/1.2.840.113654.2.55.35032039236774395774197413123454942058/instances/1.2.840.113654.2.55.33245421751291580631431388810889923005/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.91228275737809251167923369366440528257&SeriesInstanceUIDs=1.2.840.113654.2.55.35032039236774395774197413123454942058",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.35032039236774395774197413123454942058",
+      "study_uid": "1.2.840.113654.2.55.91228275737809251167923369366440528257"
+    },
+    {
+      "index": 102,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.303534053459388044117313731113583842169/series/1.3.6.1.4.1.14519.5.2.1.258493985525286088332043181428264249899/instances/1.3.6.1.4.1.14519.5.2.1.228011674636289045500570044694466427720/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.303534053459388044117313731113583842169&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.258493985525286088332043181428264249899",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "duke_breast_cancer_mri",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.258493985525286088332043181428264249899",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.303534053459388044117313731113583842169"
+    },
+    {
+      "index": 103,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.109437214956159080189505072705207668285/series/1.2.840.113654.2.55.280214865752225787420523601683910170285/instances/1.2.840.113654.2.55.238203084495709904487547981233596475108/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.109437214956159080189505072705207668285&SeriesInstanceUIDs=1.2.840.113654.2.55.280214865752225787420523601683910170285",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.280214865752225787420523601683910170285",
+      "study_uid": "1.2.840.113654.2.55.109437214956159080189505072705207668285"
+    },
+    {
+      "index": 104,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.254171293388603986563112719502878242231/series/1.3.6.1.4.1.14519.5.2.1.7227983745606389477836781079301180434/instances/1.3.6.1.4.1.14519.5.2.1.136912842650257098036204772784502957457/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.254171293388603986563112719502878242231&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7227983745606389477836781079301180434",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "advanced_mri_breast_lesions",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7227983745606389477836781079301180434",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.254171293388603986563112719502878242231"
+    },
+    {
+      "index": 105,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.128997233910132676273332698328066429244/series/1.2.840.113654.2.55.280905653531643624617311693222426172018/instances/1.2.840.113654.2.55.25329028664893448350766457993763989868/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.128997233910132676273332698328066429244&SeriesInstanceUIDs=1.2.840.113654.2.55.280905653531643624617311693222426172018",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.280905653531643624617311693222426172018",
+      "study_uid": "1.2.840.113654.2.55.128997233910132676273332698328066429244"
+    },
+    {
+      "index": 106,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.183741715255673814516247430564470220192/series/1.3.6.1.4.1.5962.99.1.3638204624.58227366.1640020777168.2.0/instances/1.3.6.1.4.1.5962.99.1.3638204624.58227366.1640020777168.29.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.183741715255673814516247430564470220192/series/1.3.6.1.4.1.5962.99.1.3638204624.58227366.1640020777168.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_ucs",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.3638204624.58227366.1640020777168.2.0",
+      "study_uid": "2.25.183741715255673814516247430564470220192"
+    },
+    {
+      "index": 107,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.1620.1225.420170700291375246781640152967/series/1.3.6.1.4.1.14519.5.2.1.1620.1225.272434694730816807715049203399/instances/1.3.6.1.4.1.14519.5.2.1.1620.1225.304029593457034282652377608272/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1620.1225.420170700291375246781640152967&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1620.1225.272434694730816807715049203399",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "ea1141",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.1620.1225.272434694730816807715049203399",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.1620.1225.420170700291375246781640152967"
+    },
+    {
+      "index": 108,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.64349594794348485860726191228990589819/series/1.3.6.1.4.1.5962.99.1.2333281534.224436200.1720320232702.4.0/instances/1.3.6.1.4.1.5962.99.1.2333281534.224436200.1720320232702.38.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.64349594794348485860726191228990589819/series/1.3.6.1.4.1.5962.99.1.2333281534.224436200.1720320232702.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "gtex",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2333281534.224436200.1720320232702.4.0",
+      "study_uid": "2.25.64349594794348485860726191228990589819"
+    },
+    {
+      "index": 109,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7311.5101.241248799044122636080854828058/series/1.3.6.1.4.1.14519.5.2.1.7311.5101.548266392079543310564907130953/instances/1.3.6.1.4.1.14519.5.2.1.7311.5101.755772196136574451961031923957/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.241248799044122636080854828058&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.548266392079543310564907130953",
+      "modality": "MR",
+      "body_part": "PROSTATE",
+      "collection": "prostatex",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.548266392079543310564907130953",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.241248799044122636080854828058"
+    },
+    {
+      "index": 110,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.141109885742144617831434285846135435817/series/1.2.840.113654.2.55.260395062808957540475029242641923042557/instances/1.2.840.113654.2.55.73564769360313505738883303743857663972/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.141109885742144617831434285846135435817&SeriesInstanceUIDs=1.2.840.113654.2.55.260395062808957540475029242641923042557",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.260395062808957540475029242641923042557",
+      "study_uid": "1.2.840.113654.2.55.141109885742144617831434285846135435817"
+    },
+    {
+      "index": 111,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.38013055761406127436972423906526120683/series/1.2.840.113654.2.55.210241108209557664153792726537259006345/instances/1.2.840.113654.2.55.86468118504390704139636832190468408324/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.38013055761406127436972423906526120683&SeriesInstanceUIDs=1.2.840.113654.2.55.210241108209557664153792726537259006345",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.210241108209557664153792726537259006345",
+      "study_uid": "1.2.840.113654.2.55.38013055761406127436972423906526120683"
+    },
+    {
+      "index": 112,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7311.5101.206920334602039040347291444086/series/1.3.6.1.4.1.14519.5.2.1.7311.5101.304789699302259100227798651059/instances/1.3.6.1.4.1.14519.5.2.1.7311.5101.217800347586101842555034940858/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.206920334602039040347291444086&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7311.5101.304789699302259100227798651059",
+      "modality": "MR",
+      "body_part": "PROSTATE",
+      "collection": "prostatex",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.304789699302259100227798651059",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7311.5101.206920334602039040347291444086"
+    },
+    {
+      "index": 113,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.149233880732561878996240293262013368853/series/1.2.840.113654.2.55.190333064358333812622980121949482376843/instances/1.2.840.113654.2.55.63282660401584120893816857165980304837/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.149233880732561878996240293262013368853&SeriesInstanceUIDs=1.2.840.113654.2.55.190333064358333812622980121949482376843",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.190333064358333812622980121949482376843",
+      "study_uid": "1.2.840.113654.2.55.149233880732561878996240293262013368853"
+    },
+    {
+      "index": 114,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.4164.217134711676237329709364569246/series/1.3.6.1.4.1.14519.5.2.1.7695.4164.141804136451332851246832447151/instances/1.3.6.1.4.1.14519.5.2.1.7695.4164.200451093596666642439433819307/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.217134711676237329709364569246&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.4164.141804136451332851246832447151",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "acrin_6698",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.141804136451332851246832447151",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.4164.217134711676237329709364569246"
+    },
+    {
+      "index": 115,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.248248694019692398706525529695760413909/series/1.3.6.1.4.1.5962.99.1.1141504760.1372062556.1637524077304.2.0/instances/1.3.6.1.4.1.5962.99.1.1141504760.1372062556.1637524077304.29.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.248248694019692398706525529695760413909/series/1.3.6.1.4.1.5962.99.1.1141504760.1372062556.1637524077304.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_gbm",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.1141504760.1372062556.1637524077304.2.0",
+      "study_uid": "2.25.248248694019692398706525529695760413909"
+    },
+    {
+      "index": 116,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.67351056745871284803231491517758334409/series/1.3.6.1.4.1.14519.5.2.1.119123028482051159467652931640048192641/instances/1.3.6.1.4.1.14519.5.2.1.227018908314930535854343431257167541462/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.67351056745871284803231491517758334409&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.119123028482051159467652931640048192641",
+      "modality": "CT",
+      "body_part": "UNKNOWN",
+      "collection": "cmb_crc",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.119123028482051159467652931640048192641",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.67351056745871284803231491517758334409"
+    },
+    {
+      "index": 117,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.150570575272675316347028766555/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.262867951139675224467634197873/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.320135991795777149696872503240/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.150570575272675316347028766555&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.262867951139675224467634197873",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.262867951139675224467634197873",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.150570575272675316347028766555"
+    },
+    {
+      "index": 118,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.1620.1225.212023352295622026572255246865/series/1.3.6.1.4.1.14519.5.2.1.1620.1225.282429837635377278633376800002/instances/1.3.6.1.4.1.14519.5.2.1.1620.1225.169730205164742236391674454127/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1620.1225.212023352295622026572255246865&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1620.1225.282429837635377278633376800002",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "ea1141",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.1620.1225.282429837635377278633376800002",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.1620.1225.212023352295622026572255246865"
+    },
+    {
+      "index": 119,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.195524030358476783399873243547104983303/series/1.2.840.113654.2.55.280392333102763479002603780765793858835/instances/1.2.840.113654.2.55.43107484597715996938470985988859980608/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.195524030358476783399873243547104983303&SeriesInstanceUIDs=1.2.840.113654.2.55.280392333102763479002603780765793858835",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.280392333102763479002603780765793858835",
+      "study_uid": "1.2.840.113654.2.55.195524030358476783399873243547104983303"
+    },
+    {
+      "index": 120,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.247072516387305425177430513211085505346/series/1.3.6.1.4.1.5962.99.1.3060478618.905926781.1639443051162.2.0/instances/1.3.6.1.4.1.5962.99.1.3060478618.905926781.1639443051162.29.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.247072516387305425177430513211085505346/series/1.3.6.1.4.1.5962.99.1.3060478618.905926781.1639443051162.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_ucec",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.3060478618.905926781.1639443051162.2.0",
+      "study_uid": "2.25.247072516387305425177430513211085505346"
+    },
+    {
+      "index": 121,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.35831158838092979929769915844046480718/series/1.2.840.113654.2.55.8929841875025913499452770561194551779/instances/1.2.840.113654.2.55.42046118828796090333022509482736458504/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.35831158838092979929769915844046480718&SeriesInstanceUIDs=1.2.840.113654.2.55.8929841875025913499452770561194551779",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.8929841875025913499452770561194551779",
+      "study_uid": "1.2.840.113654.2.55.35831158838092979929769915844046480718"
+    },
+    {
+      "index": 122,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7085.2036.172413410780869653913407246532/series/1.3.6.1.4.1.14519.5.2.1.7085.2036.927197158210173992371823732647/instances/1.3.6.1.4.1.14519.5.2.1.7085.2036.287657154831329668393903967577/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7085.2036.172413410780869653913407246532&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7085.2036.927197158210173992371823732647",
+      "modality": "CT",
+      "body_part": "UNKNOWN",
+      "collection": "pelvic_reference_data",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7085.2036.927197158210173992371823732647",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7085.2036.172413410780869653913407246532"
+    },
+    {
+      "index": 123,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.182615985380278203714116861197683685603/series/1.3.6.1.4.1.5962.99.1.2467555041.1528601555.1720454506209.4.0/instances/1.3.6.1.4.1.5962.99.1.2467555041.1528601555.1720454506209.17.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.182615985380278203714116861197683685603/series/1.3.6.1.4.1.5962.99.1.2467555041.1528601555.1720454506209.4.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "gtex",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.2467555041.1528601555.1720454506209.4.0",
+      "study_uid": "2.25.182615985380278203714116861197683685603"
+    },
+    {
+      "index": 124,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.179219008858854504518077075927/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.192428965490691074330431787825/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.218743350130448594942172428428/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.179219008858854504518077075927&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.192428965490691074330431787825",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.192428965490691074330431787825",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.179219008858854504518077075927"
+    },
+    {
+      "index": 125,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.191201758572476824175265528647851458915/series/1.3.6.1.4.1.14519.5.2.1.328735235585715838454349973126553111420/instances/1.3.6.1.4.1.14519.5.2.1.95783282520176035490921413815139504201/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.191201758572476824175265528647851458915&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.328735235585715838454349973126553111420",
+      "modality": "CT",
+      "body_part": "ABDOMEN",
+      "collection": "cmb_pca",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.328735235585715838454349973126553111420",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.191201758572476824175265528647851458915"
+    },
+    {
+      "index": 126,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7695.1700.305236483201311699387445601650/series/1.3.6.1.4.1.14519.5.2.1.7695.1700.732297610373645671076054771679/instances/1.3.6.1.4.1.14519.5.2.1.7695.1700.140788956943574851541727916148/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.1700.305236483201311699387445601650&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7695.1700.732297610373645671076054771679",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "ispy1",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7695.1700.732297610373645671076054771679",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7695.1700.305236483201311699387445601650"
+    },
+    {
+      "index": 127,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.5022266603027995545859584661508827993/series/1.3.6.1.4.1.5962.99.1.230488153.374135309.1640908027993.2.0/instances/1.3.6.1.4.1.5962.99.1.230488153.374135309.1640908027993.35.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.5022266603027995545859584661508827993/series/1.3.6.1.4.1.5962.99.1.230488153.374135309.1640908027993.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "cptac_lscc",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.230488153.374135309.1640908027993.2.0",
+      "study_uid": "2.25.5022266603027995545859584661508827993"
+    },
+    {
+      "index": 128,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.99.1071.20246658348852851984027243007398/series/1.3.6.1.4.1.14519.5.2.1.99.1071.14015967488603869058861363542578/instances/1.3.6.1.4.1.14519.5.2.1.99.1071.23864915316818946085820143620153/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.20246658348852851984027243007398&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.99.1071.14015967488603869058861363542578",
+      "modality": "CR",
+      "body_part": "CHEST",
+      "collection": "covid_19_ny_sbu",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.14015967488603869058861363542578",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.99.1071.20246658348852851984027243007398"
+    },
+    {
+      "index": 129,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.114280480730013003992449340203280946219/series/1.2.840.113654.2.55.112125832224429073336658167870995987186/instances/1.2.840.113654.2.55.290455701061358428228792635717129967576/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.114280480730013003992449340203280946219&SeriesInstanceUIDs=1.2.840.113654.2.55.112125832224429073336658167870995987186",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.112125832224429073336658167870995987186",
+      "study_uid": "1.2.840.113654.2.55.114280480730013003992449340203280946219"
+    },
+    {
+      "index": 130,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/2.25.125797085756168566217389509193634183325/series/1.3.6.1.4.1.5962.99.1.3090777043.26081956.1639473349587.2.0/instances/1.3.6.1.4.1.5962.99.1.3090777043.26081956.1639473349587.36.0/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/slim/studies/2.25.125797085756168566217389509193634183325/series/1.3.6.1.4.1.5962.99.1.3090777043.26081956.1639473349587.2.0",
+      "modality": "SM",
+      "body_part": "UNKNOWN",
+      "collection": "tcga_ucec",
+      "series_uid": "1.3.6.1.4.1.5962.99.1.3090777043.26081956.1639473349587.2.0",
+      "study_uid": "2.25.125797085756168566217389509193634183325"
+    },
+    {
+      "index": 131,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.134172727205942448442219337265436671392/series/1.3.6.1.4.1.14519.5.2.1.21564672066048539314145455347017832531/instances/1.3.6.1.4.1.14519.5.2.1.232349060456220430986097313605748891923/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.134172727205942448442219337265436671392&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.21564672066048539314145455347017832531",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "ispy2",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.21564672066048539314145455347017832531",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.134172727205942448442219337265436671392"
+    },
+    {
+      "index": 132,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.297930505304255742120722148053424844438/series/1.3.6.1.4.1.14519.5.2.1.336405694031124129031988264696542038376/instances/1.3.6.1.4.1.14519.5.2.1.60704568640240229699848575846415869744/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.297930505304255742120722148053424844438&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.336405694031124129031988264696542038376",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "advanced_mri_breast_lesions",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.336405694031124129031988264696542038376",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.297930505304255742120722148053424844438"
+    },
+    {
+      "index": 133,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.1620.1225.221522219038465797345219667109/series/1.3.6.1.4.1.14519.5.2.1.1620.1225.246951315043886074693108230208/instances/1.3.6.1.4.1.14519.5.2.1.1620.1225.252484834932685362460275082186/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1620.1225.221522219038465797345219667109&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.1620.1225.246951315043886074693108230208",
+      "modality": "MR",
+      "body_part": "CHEST",
+      "collection": "ea1141",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.1620.1225.246951315043886074693108230208",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.1620.1225.221522219038465797345219667109"
+    },
+    {
+      "index": 134,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.280918863805561218112257099304711951457/series/1.3.6.1.4.1.14519.5.2.1.88264591790395244693623870822946338561/instances/1.3.6.1.4.1.14519.5.2.1.168741838480781037947883946315863590039/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.280918863805561218112257099304711951457&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.88264591790395244693623870822946338561",
+      "modality": "MR",
+      "body_part": "BREAST",
+      "collection": "duke_breast_cancer_mri",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.88264591790395244693623870822946338561",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.280918863805561218112257099304711951457"
+    },
+    {
+      "index": 135,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.826.0.1.3680043.8.498.89914907087950693964142891781674488446/series/1.2.826.0.1.3680043.8.498.12311010441896102030042160463977788780/instances/1.2.826.0.1.3680043.8.498.32320036898606897763069418458253573127/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.826.0.1.3680043.8.498.89914907087950693964142891781674488446&SeriesInstanceUIDs=1.2.826.0.1.3680043.8.498.12311010441896102030042160463977788780",
+      "modality": "MG",
+      "body_part": "BREAST",
+      "collection": "breast_cancer_screening_dbt",
+      "series_uid": "1.2.826.0.1.3680043.8.498.12311010441896102030042160463977788780",
+      "study_uid": "1.2.826.0.1.3680043.8.498.89914907087950693964142891781674488446"
+    },
+    {
+      "index": 136,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.6655.2359.288422180297168181714033947969/series/1.3.6.1.4.1.14519.5.2.1.6655.2359.281901822791876893323064854846/instances/1.3.6.1.4.1.14519.5.2.1.6655.2359.289701080658242144108610643213/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6655.2359.288422180297168181714033947969&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.6655.2359.281901822791876893323064854846",
+      "modality": "PT",
+      "body_part": "UNKNOWN",
+      "collection": "lung_pet_ct_dx",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.6655.2359.281901822791876893323064854846",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.6655.2359.288422180297168181714033947969"
+    },
+    {
+      "index": 137,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.152123393203837662678283137588614248492/series/1.3.6.1.4.1.14519.5.2.1.11475647794232364965043692477395424883/instances/1.3.6.1.4.1.14519.5.2.1.219709931542924778667790930554379117474/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.152123393203837662678283137588614248492&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.11475647794232364965043692477395424883",
+      "modality": "XA",
+      "body_part": "UNKNOWN",
+      "collection": "cmb_mml",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.11475647794232364965043692477395424883",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.152123393203837662678283137588614248492"
+    },
+    {
+      "index": 138,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.42288363437501141242470668861525837392/series/1.2.840.113654.2.55.223539224352088727139064837492064307576/instances/1.2.840.113654.2.55.219641404563153797879896801691157369461/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.42288363437501141242470668861525837392&SeriesInstanceUIDs=1.2.840.113654.2.55.223539224352088727139064837492064307576",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.223539224352088727139064837492064307576",
+      "study_uid": "1.2.840.113654.2.55.42288363437501141242470668861525837392"
+    },
+    {
+      "index": 139,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.2.840.113654.2.55.158994788319254517832917973628852125049/series/1.2.840.113654.2.55.8577401214808499463154511316137851893/instances/1.2.840.113654.2.55.114233462357638453096846652048800359931/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.158994788319254517832917973628852125049&SeriesInstanceUIDs=1.2.840.113654.2.55.8577401214808499463154511316137851893",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.2.840.113654.2.55.8577401214808499463154511316137851893",
+      "study_uid": "1.2.840.113654.2.55.158994788319254517832917973628852125049"
+    },
+    {
+      "index": 140,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7310.5101.309421447499358375430543510724/series/1.3.6.1.4.1.14519.5.2.1.7310.5101.659628900343688667684290518631/instances/1.3.6.1.4.1.14519.5.2.1.7310.5101.291180600521076881291766009913/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7310.5101.309421447499358375430543510724&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7310.5101.659628900343688667684290518631",
+      "modality": "MR",
+      "body_part": "PROSTATE",
+      "collection": "prostatex",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7310.5101.659628900343688667684290518631",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7310.5101.309421447499358375430543510724"
+    },
+    {
+      "index": 141,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7009.9004.186679499591236713586703332962/series/1.3.6.1.4.1.14519.5.2.1.7009.9004.523398341103380127238737022027/instances/1.3.6.1.4.1.14519.5.2.1.7009.9004.290691140672572654800979202089/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.186679499591236713586703332962&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.523398341103380127238737022027",
+      "modality": "CT",
+      "body_part": "CHEST",
+      "collection": "nlst",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.523398341103380127238737022027",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7009.9004.186679499591236713586703332962"
+    },
+    {
+      "index": 142,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.7310.5101.155521623162194390306335618619/series/1.3.6.1.4.1.14519.5.2.1.7310.5101.122708711279365881206350903848/instances/1.3.6.1.4.1.14519.5.2.1.7310.5101.250518882301247776222701926269/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7310.5101.155521623162194390306335618619&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7310.5101.122708711279365881206350903848",
+      "modality": "MR",
+      "body_part": "PROSTATE",
+      "collection": "prostatex",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.7310.5101.122708711279365881206350903848",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.7310.5101.155521623162194390306335618619"
+    },
+    {
+      "index": 143,
+      "tile_url": "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb/studies/1.3.6.1.4.1.14519.5.2.1.29817434278844169411093988016730140686/series/1.3.6.1.4.1.14519.5.2.1.158705390186809255798892549288683868883/instances/1.3.6.1.4.1.14519.5.2.1.198057147049399619963048310462084911963/frames/1/rendered",
+      "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.29817434278844169411093988016730140686&SeriesInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.158705390186809255798892549288683868883",
+      "modality": "MR",
+      "body_part": "UNKNOWN",
+      "collection": "ispy2",
+      "series_uid": "1.3.6.1.4.1.14519.5.2.1.158705390186809255798892549288683868883",
+      "study_uid": "1.3.6.1.4.1.14519.5.2.1.29817434278844169411093988016730140686"
+    }
+  ]
+}

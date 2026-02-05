@@ -7,12 +7,17 @@
     'use strict';
 
     // Configuration
-    const MANIFEST_URL = 'data/manifest.json';
+    const MANIFEST_URLS = {
+        'diverse': 'data/manifest_diverse.json',
+        'ct-only': 'data/manifest.json',
+        'segmentation': 'data/manifest.json'
+    };
     const SEGMENTATION_OPACITY = 0.5;
 
     // DOM elements
     const mosaicGrid = document.getElementById('mosaic');
     const gridSelect = document.getElementById('grid-select');
+    const viewSelect = document.getElementById('view-select');
     const statsElement = document.getElementById('stats');
     const loadingElement = document.getElementById('loading');
     const errorElement = document.getElementById('error');
@@ -20,6 +25,7 @@
     // State
     let manifestData = null;
     let currentGridSize = 8;
+    let currentView = 'segmentation'; // 'diverse', 'ct-only', or 'segmentation'
 
     /**
      * Initialize the mosaic
@@ -43,7 +49,29 @@
             renderMosaic();
         });
 
+        // Set up view toggle handler
+        viewSelect.addEventListener('change', async (e) => {
+            currentView = e.target.value;
+            updateURL();
+            await loadAndRender();
+        });
+
+        // Read view mode from URL params
+        const viewParam = params.get('view');
+        if (viewParam && ['diverse', 'ct-only', 'segmentation'].includes(viewParam)) {
+            currentView = viewParam;
+            viewSelect.value = viewParam;
+        }
+
         // Load manifest and render
+        await loadAndRender();
+    }
+
+    /**
+     * Load manifest and render mosaic
+     */
+    async function loadAndRender() {
+        showLoading();
         try {
             manifestData = await loadManifest();
             hideLoading();
@@ -55,10 +83,11 @@
     }
 
     /**
-     * Load the manifest.json file
+     * Load the manifest.json file based on current view
      */
     async function loadManifest() {
-        const response = await fetch(MANIFEST_URL);
+        const url = MANIFEST_URLS[currentView] || MANIFEST_URLS['segmentation'];
+        const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
         }
@@ -84,8 +113,8 @@
         const tilesToShow = manifestData.tiles.slice(0, numTiles);
 
         // Update stats
-        const hasSegs = manifestData.has_segmentations;
-        updateStats(tilesToShow.length, manifestData.total_tiles, hasSegs);
+        const showSegs = currentView === 'segmentation' && manifestData.has_segmentations;
+        updateStats(tilesToShow.length, manifestData.total_tiles, showSegs, currentView);
 
         // Create tiles
         tilesToShow.forEach((tileData, index) => {
@@ -110,15 +139,21 @@
         tile.appendChild(canvas);
 
         // Load image and optionally segmentation
-        if (tileData.segmentation && manifestData.dicomweb_base_url) {
+        const showSegs = currentView === 'segmentation';
+        if (showSegs && tileData.segmentation && manifestData.dicomweb_base_url) {
             loadTileWithSegmentation(tile, canvas, tileData, manifestData.dicomweb_base_url);
         } else {
             loadTileImage(tile, canvas, tileData.tile_url);
         }
 
         // Click handler - open IDC viewer
+        // Use segmentation viewer URL when showing segmentations
         const openViewer = () => {
-            window.open(tileData.viewer_url, '_blank', 'noopener');
+            let viewerUrl = tileData.viewer_url;
+            if (showSegs && tileData.segmentation && tileData.segmentation.viewer_url) {
+                viewerUrl = tileData.segmentation.viewer_url;
+            }
+            window.open(viewerUrl, '_blank', 'noopener');
         };
 
         tile.addEventListener('click', openViewer);
@@ -397,23 +432,40 @@
     /**
      * Update the stats display
      */
-    function updateStats(showing, total, hasSegmentations) {
+    function updateStats(showing, total, hasSegmentations, view) {
         if (statsElement) {
             let text = `Showing ${showing} of ${total} tiles`;
-            if (hasSegmentations) {
+            if (view === 'diverse') {
+                text += ' (diverse modalities)';
+            } else if (hasSegmentations) {
                 text += ' (with TotalSegmentator overlays)';
+            } else {
+                text += ' (CT only)';
             }
             statsElement.textContent = text;
         }
     }
 
     /**
-     * Update URL with current grid size
+     * Update URL with current grid size and view mode
      */
     function updateURL() {
         const url = new URL(window.location);
         url.searchParams.set('cols', currentGridSize);
+        url.searchParams.set('view', currentView);
         window.history.replaceState({}, '', url);
+    }
+
+    /**
+     * Show loading indicator
+     */
+    function showLoading() {
+        if (loadingElement) {
+            loadingElement.classList.remove('hidden');
+        }
+        if (errorElement) {
+            errorElement.style.display = 'none';
+        }
     }
 
     /**

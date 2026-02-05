@@ -38,6 +38,7 @@ class SegmentationData:
     # Map from segment number to list of DICOMweb frame indices (1-based)
     frame_map: dict[int, int]
     segments: list[SegmentInfo]
+    viewer_url: str = ""
 
 
 @dataclass
@@ -371,6 +372,12 @@ class IDCSegmentationSampler:
         seg_data = self._get_segmentation_data(
             study_uid, seg_series_uid, source_sop_uid
         )
+
+        # Add viewer URL to segmentation data if available
+        if seg_data:
+            seg_data.viewer_url = self.client.get_viewer_URL(
+                seriesInstanceUID=seg_series_uid
+            )
 
         # Build URLs
         tile_url = self._build_tile_url(

@@ -6,8 +6,60 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from idc_index import IDCClient
+from tqdm import tqdm
 
 from .sampler import IDCSampler, IDCSegmentationSampler, DICOMWEB_BASE_URL
+
+
+def update_viewer_urls(manifest_path: str, output_path: str | None = None) -> dict:
+    """
+    Update viewer URLs in an existing manifest without regenerating segmentation data.
+
+    This is much faster than regenerating the full manifest since it only needs
+    to query idc-index for viewer URLs, not download SEG DICOM files.
+
+    Args:
+        manifest_path: Path to existing manifest.json
+        output_path: Path to write updated manifest (defaults to manifest_path)
+
+    Returns:
+        The updated manifest dictionary
+    """
+    if output_path is None:
+        output_path = manifest_path
+
+    # Load existing manifest
+    with open(manifest_path) as f:
+        manifest = json.load(f)
+
+    client = IDCClient()
+
+    print(f"Updating viewer URLs for {len(manifest['tiles'])} tiles...")
+
+    for tile in tqdm(manifest["tiles"], desc="Updating URLs"):
+        # Update main viewer URL
+        tile["viewer_url"] = client.get_viewer_URL(
+            seriesInstanceUID=tile["series_uid"]
+        )
+
+        # Update segmentation viewer URL if present
+        if "segmentation" in tile:
+            tile["segmentation"]["viewer_url"] = client.get_viewer_URL(
+                seriesInstanceUID=tile["segmentation"]["series_uid"]
+            )
+
+    # Update timestamp
+    manifest["generated"] = datetime.now(timezone.utc).isoformat()
+
+    # Write updated manifest
+    output = Path(output_path)
+    output.parent.mkdir(parents=True, exist_ok=True)
+    with open(output, "w") as f:
+        json.dump(manifest, f, indent=2)
+
+    print(f"Updated manifest written to {output_path}")
+
+    return manifest
 
 
 def generate_manifest(
@@ -78,6 +130,7 @@ def generate_manifest(
                     {"number": s.number, "label": s.label, "rgb": s.rgb}
                     for s in seg.segments
                 ],
+                "viewer_url": seg.viewer_url,
             }
 
         manifest["tiles"].append(tile_data)
@@ -141,15 +194,28 @@ def main():
         action="store_true",
         help="Sample only CT images with TotalSegmentator segmentations",
     )
+    parser.add_argument(
+        "--update-urls",
+        type=str,
+        metavar="MANIFEST",
+        help="Update viewer URLs in existing manifest (skip regeneration)",
+    )
 
     args = parser.parse_args()
 
-    generate_manifest(
-        num_tiles=args.num_tiles,
-        output_path=args.output,
-        seed=args.seed,
-        with_segmentations=args.with_segmentations,
-    )
+    if args.update_urls:
+        # Fast path: just update URLs in existing manifest
+        update_viewer_urls(
+            manifest_path=args.update_urls,
+            output_path=args.output if args.output != "docs/data/manifest.json" else None,
+        )
+    else:
+        generate_manifest(
+            num_tiles=args.num_tiles,
+            output_path=args.output,
+            seed=args.seed,
+            with_segmentations=args.with_segmentations,
+        )
 
 
 if __name__ == "__main__":
