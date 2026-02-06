@@ -85,7 +85,8 @@ header .made-with a:hover {
     font-size: 0.9rem;
 }
 
-.controls select {
+.controls select,
+.controls input[type="number"] {
     background: var(--tile-bg);
     color: var(--text-color);
     border: 1px solid var(--tile-border);
@@ -95,8 +96,16 @@ header .made-with a:hover {
     cursor: pointer;
 }
 
-.controls select:hover {
+.controls input[type="number"] {
+    width: 5rem;
+    cursor: text;
+}
+
+.controls select:hover,
+.controls input[type="number"]:hover,
+.controls input[type="number"]:focus {
     border-color: var(--accent-color);
+    outline: none;
 }
 
 #stats {
@@ -113,28 +122,25 @@ main {
     align-items: center;
 }
 
-/* Mosaic grid */
+/* Mosaic grid - treemap container */
 .mosaic-grid {
-    display: grid;
-    grid-template-columns: repeat(var(--cols, 8), 1fr);
-    gap: 3px;
+    position: relative;
     max-width: min(95vw, 1400px);
     width: 100%;
     background-color: var(--tile-border);
-    padding: 3px;
     border-radius: 4px;
+    overflow: hidden;
 }
 
 /* Individual tile */
 .tile {
-    aspect-ratio: 1;
     background-color: var(--tile-bg);
     background-size: cover;
     background-position: center;
     cursor: pointer;
-    position: relative;
     transition: transform 0.2s ease, box-shadow 0.2s ease, z-index 0s;
     overflow: hidden;
+    border: 1px solid var(--tile-border);
 }
 
 .tile:hover {

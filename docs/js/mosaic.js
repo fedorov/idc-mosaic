@@ -1,6 +1,6 @@
 /**
  * IDC Mosaic - Interactive tile grid with DICOMweb image loading
- * Supports segmentation overlay rendering
+ * Supports segmentation overlay rendering and treemap-style layouts
  */
 
 (function () {
@@ -16,7 +16,7 @@
 
     // DOM elements
     const mosaicGrid = document.getElementById('mosaic');
-    const gridSelect = document.getElementById('grid-select');
+    const tileCountInput = document.getElementById('tile-count');
     const viewSelect = document.getElementById('view-select');
     const statsElement = document.getElementById('stats');
     const loadingElement = document.getElementById('loading');
@@ -24,29 +24,34 @@
 
     // State
     let manifestData = null;
-    let currentGridSize = 8;
+    let currentTileCount = 64;
     let currentView = 'diverse'; // 'diverse', 'ct-only', or 'segmentation'
 
     /**
      * Initialize the mosaic
      */
     async function init() {
-        // Read grid size from URL params
         const params = new URLSearchParams(window.location.search);
-        const colsParam = params.get('cols');
-        if (colsParam) {
-            const cols = parseInt(colsParam, 10);
-            if ([4, 6, 8, 10, 12].includes(cols)) {
-                currentGridSize = cols;
-                gridSelect.value = cols.toString();
+
+        // Read tile count from URL params
+        const tilesParam = params.get('tiles');
+        if (tilesParam) {
+            const tiles = parseInt(tilesParam, 10);
+            if (tiles >= 1) {
+                currentTileCount = tiles;
+                tileCountInput.value = tiles.toString();
             }
         }
 
-        // Set up grid size change handler
-        gridSelect.addEventListener('change', (e) => {
-            currentGridSize = parseInt(e.target.value, 10);
-            updateURL();
-            renderMosaic();
+        // Set up tile count change handler
+        tileCountInput.addEventListener('change', (e) => {
+            const value = parseInt(e.target.value, 10);
+            if (value >= 1 && manifestData) {
+                currentTileCount = Math.min(value, manifestData.total_tiles);
+                tileCountInput.value = currentTileCount;
+                updateURL();
+                renderMosaic();
+            }
         });
 
         // Set up view toggle handler
@@ -74,6 +79,13 @@
         showLoading();
         try {
             manifestData = await loadManifest();
+            // Update input max value based on available tiles
+            tileCountInput.max = manifestData.total_tiles;
+            // Clamp current count to available tiles
+            if (currentTileCount > manifestData.total_tiles) {
+                currentTileCount = manifestData.total_tiles;
+                tileCountInput.value = currentTileCount;
+            }
             hideLoading();
             renderMosaic();
         } catch (error) {
@@ -95,7 +107,104 @@
     }
 
     /**
-     * Render the mosaic grid with tiles
+     * Shuffle array using Fisher-Yates algorithm
+     */
+    function shuffleArray(array) {
+        const shuffled = [...array];
+        for (let i = shuffled.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+        }
+        return shuffled;
+    }
+
+    /**
+     * Binary Space Partitioning for treemap layout
+     * Recursively subdivides a rectangle to place tiles with varying sizes
+     */
+    function generateTreemapLayout(numTiles, containerWidth, containerHeight) {
+        const layouts = [];
+
+        // Assign random weights to tiles (influences relative size)
+        const weights = [];
+        for (let i = 0; i < numTiles; i++) {
+            // Random weight between 1 and 3 for size variation
+            weights.push(1 + Math.random() * 2);
+        }
+
+        // Recursive subdivision function
+        function subdivide(rect, tileIndices) {
+            if (tileIndices.length === 0) return;
+
+            if (tileIndices.length === 1) {
+                // Base case: single tile fills the rectangle
+                layouts.push({
+                    index: tileIndices[0],
+                    x: rect.x,
+                    y: rect.y,
+                    width: rect.width,
+                    height: rect.height
+                });
+                return;
+            }
+
+            // Calculate total weight for this subset
+            const subsetWeight = tileIndices.reduce((sum, idx) => sum + weights[idx], 0);
+
+            // Decide split direction based on aspect ratio
+            const isHorizontal = rect.width >= rect.height;
+
+            // Find split point - aim for roughly half the weight
+            let splitWeight = 0;
+            let splitIndex = 0;
+            const targetWeight = subsetWeight / 2;
+
+            // Add randomness to split point (between 30% and 70%)
+            const randomOffset = (Math.random() - 0.5) * 0.4 * subsetWeight;
+            const adjustedTarget = Math.max(subsetWeight * 0.3, Math.min(subsetWeight * 0.7, targetWeight + randomOffset));
+
+            for (let i = 0; i < tileIndices.length; i++) {
+                splitWeight += weights[tileIndices[i]];
+                if (splitWeight >= adjustedTarget) {
+                    splitIndex = i + 1;
+                    break;
+                }
+            }
+
+            // Ensure we split at least one tile to each side
+            splitIndex = Math.max(1, Math.min(tileIndices.length - 1, splitIndex));
+
+            const firstHalf = tileIndices.slice(0, splitIndex);
+            const secondHalf = tileIndices.slice(splitIndex);
+
+            const firstWeight = firstHalf.reduce((sum, idx) => sum + weights[idx], 0);
+            const ratio = firstWeight / subsetWeight;
+
+            if (isHorizontal) {
+                const splitX = rect.x + rect.width * ratio;
+                subdivide({ x: rect.x, y: rect.y, width: rect.width * ratio, height: rect.height }, firstHalf);
+                subdivide({ x: splitX, y: rect.y, width: rect.width * (1 - ratio), height: rect.height }, secondHalf);
+            } else {
+                const splitY = rect.y + rect.height * ratio;
+                subdivide({ x: rect.x, y: rect.y, width: rect.width, height: rect.height * ratio }, firstHalf);
+                subdivide({ x: rect.x, y: splitY, width: rect.width, height: rect.height * (1 - ratio) }, secondHalf);
+            }
+        }
+
+        // Start with full container and all tile indices (shuffled for randomness)
+        const indices = Array.from({ length: numTiles }, (_, i) => i);
+        const shuffledIndices = shuffleArray(indices);
+
+        subdivide(
+            { x: 0, y: 0, width: containerWidth, height: containerHeight },
+            shuffledIndices
+        );
+
+        return layouts;
+    }
+
+    /**
+     * Render the mosaic with treemap layout
      */
     function renderMosaic() {
         if (!manifestData || !manifestData.tiles) {
@@ -105,33 +214,49 @@
         // Clear existing tiles
         mosaicGrid.innerHTML = '';
 
-        // Set grid columns
-        document.documentElement.style.setProperty('--cols', currentGridSize);
+        // Get container dimensions
+        const containerWidth = mosaicGrid.clientWidth || 1400;
+        // Calculate height based on a pleasing aspect ratio (roughly 4:3 or 16:9)
+        const containerHeight = Math.min(containerWidth * 0.75, window.innerHeight * 0.8);
 
-        // Calculate how many tiles to show
-        const numTiles = currentGridSize * currentGridSize;
-        const tilesToShow = manifestData.tiles.slice(0, numTiles);
+        // Set container height
+        mosaicGrid.style.height = containerHeight + 'px';
+
+        // Randomly select tiles from the manifest
+        const shuffledTiles = shuffleArray(manifestData.tiles);
+        const tilesToShow = shuffledTiles.slice(0, Math.min(currentTileCount, manifestData.total_tiles));
+
+        // Generate treemap layout
+        const layouts = generateTreemapLayout(tilesToShow.length, containerWidth, containerHeight);
 
         // Update stats
         const showSegs = currentView === 'segmentation' && manifestData.has_segmentations;
         updateStats(tilesToShow.length, manifestData.total_tiles, showSegs, currentView);
 
-        // Create tiles
-        tilesToShow.forEach((tileData, index) => {
-            const tile = createTile(tileData, index);
+        // Create tiles with absolute positioning
+        layouts.forEach((layout) => {
+            const tileData = tilesToShow[layout.index];
+            const tile = createTile(tileData, layout);
             mosaicGrid.appendChild(tile);
         });
     }
 
     /**
-     * Create a single tile element
+     * Create a single tile element with treemap positioning
      */
-    function createTile(tileData, index) {
+    function createTile(tileData, layout) {
         const tile = document.createElement('div');
         tile.className = 'tile loading';
         tile.setAttribute('role', 'button');
         tile.setAttribute('tabindex', '0');
         tile.title = formatTooltip(tileData);
+
+        // Apply treemap positioning
+        tile.style.position = 'absolute';
+        tile.style.left = layout.x + 'px';
+        tile.style.top = layout.y + 'px';
+        tile.style.width = layout.width + 'px';
+        tile.style.height = layout.height + 'px';
 
         // Create canvas for rendering (needed for segmentation overlay)
         const canvas = document.createElement('canvas');
@@ -447,11 +572,11 @@
     }
 
     /**
-     * Update URL with current grid size and view mode
+     * Update URL with current tile count and view mode
      */
     function updateURL() {
         const url = new URL(window.location);
-        url.searchParams.set('cols', currentGridSize);
+        url.searchParams.set('tiles', currentTileCount);
         url.searchParams.set('view', currentView);
         window.history.replaceState({}, '', url);
     }
