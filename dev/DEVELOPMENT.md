@@ -15,6 +15,10 @@ idc-mosaic/
 │   ├── DEVELOPMENT.md          # This file
 │   └── development_process.md  # Conversation transcript from initial development
 │
+├── .github/
+│   └── workflows/
+│       └── update-manifest.yml # Daily manifest regeneration workflow
+│
 ├── src/idc_mosaic/             # Python package source
 │   ├── __init__.py             # Package initialization, version
 │   ├── sampler.py              # IDC data sampling logic (diverse + segmentation)
@@ -93,12 +97,20 @@ Handles sampling of diverse images from IDC, with optional segmentation support.
 - `IDCSegmentationSampler` - CT images with TotalSegmentator segmentations
 
 **Diverse Sampling Algorithm (IDCSampler):**
-1. Query all series from IDC index for included modalities
-2. Calculate proportional distribution based on series count per modality
-3. Sample from each modality according to its proportion
-4. For volumetric series (CT/MR), select middle slice
-5. Resolve SOPInstanceUID via DICOMweb QIDO-RS query
-6. Build rendered frame URL and viewer URL
+1. Query all series from IDC index for included modalities (with SQL filters)
+   - Exclude scout/localizer by SeriesDescription patterns
+   - Enforce minimum instance counts per modality (CT≥20, MR≥10, PT≥30)
+2. Query SM (Slide Microscopy) separately via `sm_instance_index`
+   - Filter by pixel spacing range and ImageType (exclude THUMBNAIL, LABEL, OVERVIEW)
+3. Calculate proportional distribution based on series count per modality
+4. Sample from each modality according to its proportion (30% oversample for radiology, 3x for SM)
+5. For volumetric series (CT/MR), select from middle 60% of volume
+6. For SM, try frames from central 60% with pyramid layer escalation
+7. Apply content filtering:
+   - Variance check (reject uniform/empty images)
+   - Tissue percentage check for SM (reject mostly-white background tiles)
+8. Resolve SOPInstanceUID via DICOMweb QIDO-RS query
+9. Build rendered frame URL and viewer URL
 
 **Segmentation Sampling Algorithm (IDCSegmentationSampler):**
 1. Query `seg_index` joined with `index` for TotalSegmentator segmentations
@@ -113,18 +125,33 @@ Handles sampling of diverse images from IDC, with optional segmentation support.
 **Configuration:**
 ```python
 # Included modalities (visual imaging only)
-INCLUDED_MODALITIES = ["CT", "MR", "PT", "CR", "DX", "MG", "US", "SM", "XA", "NM"]
+INCLUDED_MODALITIES = ["CT", "MR", "PT", "CR", "DX", "MG", "US", "XA", "NM"]
+# SM (Slide Microscopy) is handled separately due to pyramid structure
 
 # DICOMweb endpoint
 DICOMWEB_BASE_URL = "https://proxy.imaging.datacommons.cancer.gov/current/viewer-only-no-downloads-see-tinyurl-dot-com-slash-3j3d9jyp/dicomWeb"
+
+# Content filtering thresholds
+DEFAULT_VARIANCE_THRESHOLD = 0.005  # Minimum variance for non-empty images
+SM_MIN_TISSUE_PERCENT = 15          # Minimum tissue percentage for SM tiles
+
+# SM pyramid layer handling
+SM_RETRIES_PER_LAYER = 3            # Retries before escalating to next layer
+SM_MAX_LAYER_ATTEMPTS = 5           # Maximum pyramid layers to try
+SM_OVERSAMPLE_FACTOR = 3.0          # Extra oversampling for SM due to rejections
 ```
 
 **Key Methods (IDCSampler):**
-- `get_available_strata()` - Query IDC metadata
-- `sample(n_samples)` - Main sampling entry point
-- `_build_tile_sample(row)` - Build TileSample from dataframe row
+- `get_available_strata()` - Query IDC metadata with exclusion filters
+- `get_available_sm_strata()` - Query SM data with pyramid layer filtering
+- `sample(n_samples)` - Main sampling entry point with oversampling
+- `_build_tile_sample(row)` - Build TileSample with content filtering
+- `_build_sm_tile_sample(row, df_sm)` - Build SM TileSample with pyramid escalation
 - `_get_sop_instance_uid(study, series, frame_index)` - DICOMweb query for SOP UID
 - `_build_tile_url(...)` - Construct rendered frame URL
+
+**Helper Functions:**
+- `check_image_content(tile_url, variance_threshold, is_sm)` - Content quality filter
 
 **Key Methods (IDCSegmentationSampler):**
 - `get_available_segmented_series()` - Query seg_index for TotalSegmentator
@@ -146,7 +173,7 @@ Orchestrates sampling and generates the manifest.
 
 **CLI Options:**
 ```bash
-# Generate diverse modality manifest
+# Generate diverse modality manifest (with content filtering)
 python -m idc_mosaic.generator -n 144 -o docs/data/manifest_diverse.json
 
 # Generate CT + segmentation manifest (slow - downloads SEG files)
@@ -154,6 +181,9 @@ python -m idc_mosaic.generator -n 144 --with-segmentations --seed 42
 
 # Fast: Update viewer URLs in existing manifest (no SEG download)
 python -m idc_mosaic.generator --update-urls docs/data/manifest.json
+
+# Disable content filtering (faster but may include empty tiles)
+python -m idc_mosaic.generator -n 144 --no-content-filter
 ```
 
 **Manifest Format (with segmentation):**
@@ -273,7 +303,7 @@ open http://localhost:8000
 | Parameter | Default | Description |
 |-----------|---------|-------------|
 | `cols`    | 8       | Number of grid columns (4, 6, 8, 10, 12) |
-| `view`    | segmentation | View mode: `diverse`, `ct-only`, `segmentation` |
+| `view`    | diverse | View mode: `diverse`, `ct-only`, `segmentation` |
 
 Example: `http://localhost:8000/?cols=10&view=diverse`
 
@@ -416,6 +446,54 @@ Edit the `sample()` method in `sampler.py`. Current strategy:
 - Check that modalities exist in current IDC version
 - Review DICOMweb query errors in generation output
 
+### Content Filtering Issues
+
+**Tiles appear empty or low-content:**
+- Content filtering may not catch all edge cases
+- Adjust `DEFAULT_VARIANCE_THRESHOLD` (increase to be stricter)
+- For SM tiles, adjust `SM_MIN_TISSUE_PERCENT` (increase to require more tissue)
+
+**Too few SM tiles in sample:**
+- SM tiles have high rejection rate due to background
+- Increase `SM_OVERSAMPLE_FACTOR` to sample more candidates
+- Reduce `SM_RETRIES_PER_LAYER` to escalate pyramid layers faster
+- Increase `SM_MAX_LAYER_ATTEMPTS` to try more pyramid layers
+
+**Generation is slow:**
+- Content filtering requires fetching each tile image to check
+- Use `--no-content-filter` for faster generation (may include empty tiles)
+- SM tiles are slowest due to pyramid layer escalation retries
+
+## Automated Manifest Updates
+
+A GitHub Actions workflow automatically regenerates tile manifests daily.
+
+### Workflow: `.github/workflows/update-manifest.yml`
+
+**Schedule:**
+- Runs daily at 5am UTC
+- Can be triggered manually via GitHub Actions UI (workflow_dispatch)
+
+**Process:**
+1. Checks out repository
+2. Installs Python 3.11 and package dependencies
+3. Generates both manifests:
+   - `manifest_diverse.json` - Diverse modalities
+   - `manifest.json` - CT with TotalSegmentator segmentations
+4. Creates a PR if manifests changed
+
+**Configuration:**
+- Uses `github.run_id` as seed for reproducibility within same run
+- Generates 144 tiles (fills 12×12 grid)
+- Uses `peter-evans/create-pull-request@v8` for PR creation
+
+### Manual Trigger
+
+To manually trigger manifest regeneration:
+1. Go to repository → Actions → "Update Tile Manifest"
+2. Click "Run workflow" → "Run workflow"
+3. Review and merge the generated PR
+
 ## Deployment
 
 ### GitHub Pages
@@ -492,6 +570,7 @@ def generate_manifest(
     output_path: str = "docs/data/manifest.json",  # Output file
     seed: int | None = None,        # Random seed for reproducibility
     with_segmentations: bool = False,  # Sample CT with TotalSegmentator SEGs
+    content_filter: bool = True,    # Filter out low-content images
 ) -> dict:                          # Returns manifest dictionary
 ```
 

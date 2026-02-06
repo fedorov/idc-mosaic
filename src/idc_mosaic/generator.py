@@ -67,6 +67,7 @@ def generate_manifest(
     output_path: str = "docs/data/manifest.json",
     seed: int | None = None,
     with_segmentations: bool = False,
+    content_filter: bool = True,
 ) -> dict:
     """
     Generate a manifest.json file with tile data for the mosaic.
@@ -76,6 +77,7 @@ def generate_manifest(
         output_path: Path to write manifest.json
         seed: Random seed for reproducibility
         with_segmentations: If True, sample only images with TotalSegmentator segmentations
+        content_filter: If True, filter out low-content images using variance check
 
     Returns:
         The generated manifest dictionary
@@ -86,12 +88,13 @@ def generate_manifest(
 
     # Sample tiles
     mode = "with TotalSegmentator segmentations" if with_segmentations else "diverse"
-    print(f"Sampling {num_tiles} {mode} images from IDC v{idc_version}...")
+    filter_msg = " with content filtering" if content_filter else ""
+    print(f"Sampling {num_tiles} {mode} images from IDC v{idc_version}{filter_msg}...")
 
     if with_segmentations:
         sampler = IDCSegmentationSampler(seed=seed)
     else:
-        sampler = IDCSampler(seed=seed)
+        sampler = IDCSampler(seed=seed, content_filter=content_filter)
     samples = sampler.sample(num_tiles)
 
     print(f"Successfully resolved {len(samples)} tiles")
@@ -200,6 +203,11 @@ def main():
         metavar="MANIFEST",
         help="Update viewer URLs in existing manifest (skip regeneration)",
     )
+    parser.add_argument(
+        "--no-content-filter",
+        action="store_true",
+        help="Disable content-based filtering (faster but may include empty tiles)",
+    )
 
     args = parser.parse_args()
 
@@ -215,6 +223,7 @@ def main():
             output_path=args.output,
             seed=args.seed,
             with_segmentations=args.with_segmentations,
+            content_filter=not args.no_content_filter,
         )
 
 
