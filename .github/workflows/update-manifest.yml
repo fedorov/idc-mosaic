@@ -52,6 +52,12 @@ jobs:
             echo "changed=true" >> $GITHUB_OUTPUT
           fi
 
+      - name: Upload manifest artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: tile-manifests
+          path: docs/data/manifest*.json
+
       - name: Create Pull Request
         if: steps.changes.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v8
