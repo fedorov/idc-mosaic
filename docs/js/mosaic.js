@@ -24,6 +24,7 @@
 
     // State
     let manifestData = null;
+    let citationsData = null;
     let currentTileCount = 64;
     let currentView = 'diverse'; // 'diverse', 'ct-only', or 'segmentation'
 
@@ -78,7 +79,13 @@
     async function loadAndRender() {
         showLoading();
         try {
-            manifestData = await loadManifest();
+            // Load manifest and citations in parallel
+            const [manifest, citations] = await Promise.all([
+                loadManifest(),
+                loadCitations()
+            ]);
+            manifestData = manifest;
+            citationsData = citations;
             // Update input max value based on available tiles
             tileCountInput.max = manifestData.total_tiles;
             // Clamp current count to available tiles
@@ -104,6 +111,23 @@
             throw new Error(`HTTP ${response.status}`);
         }
         return response.json();
+    }
+
+    /**
+     * Load the citations.json file
+     */
+    async function loadCitations() {
+        try {
+            const response = await fetch('data/citations.json');
+            if (!response.ok) {
+                console.warn('Citations file not found');
+                return {};
+            }
+            return response.json();
+        } catch (e) {
+            console.warn('Failed to load citations:', e);
+            return {};
+        }
     }
 
     /**
@@ -263,6 +287,20 @@
         canvas.className = 'tile-canvas';
         tile.appendChild(canvas);
 
+        // Add info icon for citation (only if tile has source_doi)
+        if (tileData.source_doi) {
+            const infoIcon = document.createElement('button');
+            infoIcon.className = 'info-icon';
+            infoIcon.innerHTML = 'i';
+            infoIcon.title = 'View citation';
+            infoIcon.setAttribute('aria-label', 'View citation for this image');
+            infoIcon.addEventListener('click', (e) => {
+                e.stopPropagation();
+                showCitationPopup(tileData);
+            });
+            tile.appendChild(infoIcon);
+        }
+
         // Load image and optionally segmentation
         const showSegs = currentView === 'segmentation';
         if (showSegs && tileData.segmentation && manifestData.dicomweb_base_url) {
@@ -290,6 +328,143 @@
         });
 
         return tile;
+    }
+
+    /**
+     * Show citation popup for a tile
+     */
+    function showCitationPopup(tileData) {
+        // Remove any existing popup
+        closeCitationPopup();
+
+        const doi = tileData.source_doi;
+        const citation = citationsData[doi] || {
+            doi: doi,
+            url: `https://doi.org/${doi}`,
+            apa: null,
+            bibtex: null
+        };
+
+        // Create overlay
+        const overlay = document.createElement('div');
+        overlay.className = 'citation-overlay';
+        overlay.addEventListener('click', (e) => {
+            if (e.target === overlay) {
+                closeCitationPopup();
+            }
+        });
+
+        // Create popup
+        const popup = document.createElement('div');
+        popup.className = 'citation-popup';
+
+        // Header
+        const header = document.createElement('div');
+        header.className = 'citation-header';
+        header.innerHTML = `
+            <h3>Citation</h3>
+            <button class="close-btn" aria-label="Close">&times;</button>
+        `;
+        header.querySelector('.close-btn').addEventListener('click', closeCitationPopup);
+        popup.appendChild(header);
+
+        // Content
+        const content = document.createElement('div');
+        content.className = 'citation-content';
+
+        // Collection info
+        const info = document.createElement('p');
+        info.className = 'citation-info';
+        info.textContent = `${tileData.modality} | ${tileData.collection}`;
+        content.appendChild(info);
+
+        // DOI link
+        const doiLink = document.createElement('p');
+        doiLink.className = 'citation-doi';
+        doiLink.innerHTML = `DOI: <a href="${citation.url}" target="_blank" rel="noopener">${doi}</a>`;
+        content.appendChild(doiLink);
+
+        // APA citation
+        if (citation.apa) {
+            const apaSection = document.createElement('div');
+            apaSection.className = 'citation-section';
+            apaSection.innerHTML = `
+                <div class="citation-label">APA Citation:</div>
+                <div class="citation-text">${citation.apa}</div>
+                <button class="copy-btn" data-text="${escapeHtml(citation.apa)}">Copy</button>
+            `;
+            content.appendChild(apaSection);
+        }
+
+        // BibTeX citation
+        if (citation.bibtex) {
+            const bibtexSection = document.createElement('div');
+            bibtexSection.className = 'citation-section';
+            bibtexSection.innerHTML = `
+                <div class="citation-label">BibTeX:</div>
+                <pre class="citation-bibtex">${escapeHtml(citation.bibtex)}</pre>
+                <button class="copy-btn" data-text="${escapeHtml(citation.bibtex)}">Copy</button>
+            `;
+            content.appendChild(bibtexSection);
+        }
+
+        // If no formatted citation available, show DOI only message
+        if (!citation.apa && !citation.bibtex) {
+            const note = document.createElement('p');
+            note.className = 'citation-note';
+            note.textContent = 'Click the DOI link above to view the full citation.';
+            content.appendChild(note);
+        }
+
+        popup.appendChild(content);
+
+        // Add copy button handlers
+        popup.querySelectorAll('.copy-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const text = btn.getAttribute('data-text');
+                navigator.clipboard.writeText(text).then(() => {
+                    btn.textContent = 'Copied!';
+                    setTimeout(() => {
+                        btn.textContent = 'Copy';
+                    }, 2000);
+                });
+            });
+        });
+
+        overlay.appendChild(popup);
+        document.body.appendChild(overlay);
+
+        // Close on escape key
+        document.addEventListener('keydown', handleEscapeKey);
+    }
+
+    /**
+     * Close the citation popup
+     */
+    function closeCitationPopup() {
+        const overlay = document.querySelector('.citation-overlay');
+        if (overlay) {
+            overlay.remove();
+        }
+        document.removeEventListener('keydown', handleEscapeKey);
+    }
+
+    /**
+     * Handle escape key to close popup
+     */
+    function handleEscapeKey(e) {
+        if (e.key === 'Escape') {
+            closeCitationPopup();
+        }
+    }
+
+    /**
+     * Escape HTML for safe insertion
+     */
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
     }
 
     /**

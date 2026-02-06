@@ -11,6 +11,100 @@ from tqdm import tqdm
 from .sampler import IDCSampler, IDCSegmentationSampler, DICOMWEB_BASE_URL
 
 
+def generate_citations_file(manifest: dict, output_dir: str, client: IDCClient) -> dict:
+    """
+    Generate a citations.json file with formatted citations for all unique DOIs.
+
+    Args:
+        manifest: The manifest dictionary containing tiles with source_doi
+        output_dir: Directory to write citations.json
+        client: IDCClient instance
+
+    Returns:
+        The citations dictionary
+    """
+    # Collect unique DOIs
+    unique_dois = set()
+    for tile in manifest["tiles"]:
+        doi = tile.get("source_doi")
+        if doi:
+            unique_dois.add(doi)
+
+    if not unique_dois:
+        print("No source DOIs found in manifest")
+        return {}
+
+    print(f"Generating citations for {len(unique_dois)} unique DOIs...")
+
+    citations = {}
+
+    for doi in unique_dois:
+        try:
+            # Get APA citation
+            apa_citations = client.citations_from_selection(
+                collection_id=None,
+                seriesInstanceUID=None,
+                # We need to find a series with this DOI to get the citation
+            )
+        except Exception:
+            pass
+
+    # Query series for each DOI and get citations
+    for doi in unique_dois:
+        try:
+            # Find one series with this DOI
+            series_query = f"""
+                SELECT SeriesInstanceUID
+                FROM index
+                WHERE source_DOI = '{doi}'
+                LIMIT 1
+            """
+            series_df = client.sql_query(series_query)
+            if series_df.empty:
+                continue
+
+            series_uid = series_df.iloc[0]['SeriesInstanceUID']
+
+            # Get APA citation
+            apa_list = client.citations_from_selection(
+                seriesInstanceUID=[series_uid],
+                citation_format=IDCClient.CITATION_FORMAT_APA
+            )
+            apa = apa_list[0] if apa_list else None
+
+            # Get BibTeX citation
+            bibtex_list = client.citations_from_selection(
+                seriesInstanceUID=[series_uid],
+                citation_format=IDCClient.CITATION_FORMAT_BIBTEX
+            )
+            bibtex = bibtex_list[0] if bibtex_list else None
+
+            citations[doi] = {
+                "doi": doi,
+                "url": f"https://doi.org/{doi}",
+                "apa": apa,
+                "bibtex": bibtex,
+            }
+        except Exception as e:
+            print(f"Warning: Failed to get citation for DOI {doi}: {e}")
+            # Still include basic DOI info
+            citations[doi] = {
+                "doi": doi,
+                "url": f"https://doi.org/{doi}",
+                "apa": None,
+                "bibtex": None,
+            }
+
+    # Write citations file
+    output = Path(output_dir) / "citations.json"
+    with open(output, "w") as f:
+        json.dump(citations, f, indent=2)
+
+    print(f"Citations written to {output}")
+
+    return citations
+
+
 def update_viewer_urls(manifest_path: str, output_path: str | None = None) -> dict:
     """
     Update viewer URLs in an existing manifest without regenerating segmentation data.
@@ -99,6 +193,17 @@ def generate_manifest(
 
     print(f"Successfully resolved {len(samples)} tiles")
 
+    # Batch query source_DOI for all series
+    print("Fetching source DOIs...")
+    series_uids = [s.series_uid for s in samples]
+    doi_query = f"""
+        SELECT SeriesInstanceUID, source_DOI
+        FROM index
+        WHERE SeriesInstanceUID IN ({','.join(f"'{uid}'" for uid in series_uids)})
+    """
+    doi_df = client.sql_query(doi_query)
+    doi_map = dict(zip(doi_df['SeriesInstanceUID'], doi_df['source_DOI']))
+
     # Build manifest
     manifest = {
         "generated": datetime.now(timezone.utc).isoformat(),
@@ -119,6 +224,7 @@ def generate_manifest(
             "collection": sample.collection_id,
             "series_uid": sample.series_uid,
             "study_uid": sample.study_uid,
+            "source_doi": doi_map.get(sample.series_uid),
         }
 
         # Include segmentation data if available
@@ -145,6 +251,9 @@ def generate_manifest(
         json.dump(manifest, f, indent=2)
 
     print(f"Manifest written to {output_path}")
+
+    # Generate citations file
+    generate_citations_file(manifest, str(output.parent), client)
 
     # Print summary
     if with_segmentations:
