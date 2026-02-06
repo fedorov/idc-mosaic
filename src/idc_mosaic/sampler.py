@@ -783,6 +783,8 @@ class IDCSegmentationSampler:
         Downloads the SEG DICOM to parse Per-frame Functional Groups
         and build the frame mapping.
         """
+        import sys
+
         # Get SEG instance SOP UID
         url = f"{DICOMWEB_BASE_URL}/studies/{study_uid}/series/{seg_series_uid}/instances"
         try:
@@ -792,14 +794,17 @@ class IDCSegmentationSampler:
                 timeout=30,
             )
             if response.status_code != 200:
+                print(f"Warning: Failed to get SEG instances (HTTP {response.status_code}) for {seg_series_uid}", file=sys.stderr)
                 return None
 
             instances = response.json()
             if not instances:
+                print(f"Warning: No instances found for SEG series {seg_series_uid}", file=sys.stderr)
                 return None
 
             seg_sop_uid = instances[0].get("00080018", {}).get("Value", [None])[0]
             if not seg_sop_uid:
+                print(f"Warning: No SOP UID found in SEG metadata for {seg_series_uid}", file=sys.stderr)
                 return None
 
             # Download and parse the SEG DICOM to get frame mapping
@@ -809,7 +814,8 @@ class IDCSegmentationSampler:
             )
             return seg_data
 
-        except Exception:
+        except Exception as e:
+            print(f"Warning: Exception getting SEG data for {seg_series_uid}: {e}", file=sys.stderr)
             return None
 
     def _download_and_parse_seg(
@@ -822,6 +828,7 @@ class IDCSegmentationSampler:
         """Download SEG DICOM and extract frame mapping for target source image."""
         import tempfile
         import os
+        import sys
 
         try:
             # Download the SEG series
@@ -834,8 +841,10 @@ class IDCSegmentationSampler:
                 )
 
                 # Find the downloaded file
-                files = [f for f in os.listdir(tmpdir) if f.endswith(".dcm")]
+                all_files = os.listdir(tmpdir)
+                files = [f for f in all_files if f.endswith(".dcm")]
                 if not files:
+                    print(f"Warning: No .dcm files found after download for {seg_series_uid}. Files in dir: {all_files}", file=sys.stderr)
                     return None
 
                 import pydicom
@@ -857,6 +866,7 @@ class IDCSegmentationSampler:
                         frame_map[seg_num] = frame_idx + 1
 
                 if not frame_map:
+                    print(f"Warning: No matching frames found for source SOP {source_sop_uid} in SEG {seg_series_uid}", file=sys.stderr)
                     return None
 
                 # Extract segment metadata (labels and colors)
@@ -884,7 +894,8 @@ class IDCSegmentationSampler:
                     segments=segments,
                 )
 
-        except Exception:
+        except Exception as e:
+            print(f"Warning: Failed to download/parse SEG {seg_series_uid}: {e}", file=sys.stderr)
             return None
 
     def _build_tile_url(
