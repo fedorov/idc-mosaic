@@ -15,7 +15,7 @@ Each tile displays a medical image from IDC. Click any tile to open the full DIC
 
 ### View the Live Demo
 
-Visit the [GitHub Pages site](https://imagingdatacommons.github.io/idc-mosaic/) to see the mosaic.
+Visit the [GitHub Pages site](https://fedorov.github.io/idc-mosaic/) to see the mosaic.
 
 ### Run Locally
 

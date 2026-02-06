@@ -25,7 +25,7 @@
     // State
     let manifestData = null;
     let currentGridSize = 8;
-    let currentView = 'segmentation'; // 'diverse', 'ct-only', or 'segmentation'
+    let currentView = 'diverse'; // 'diverse', 'ct-only', or 'segmentation'
 
     /**
      * Initialize the mosaic

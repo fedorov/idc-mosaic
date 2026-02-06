@@ -10,6 +10,9 @@
 <body>
     <header>
         <h1>Imaging Data Commons Mosaic</h1>
+        <p class="made-with">
+            Made with <a href="https://github.com/ImagingDataCommons/idc-claude-skill" target="_blank">idc-claude-skill</a>
+        </p>
         <p class="subtitle">
             Explore the diversity of publicly available cancer imaging data.
             Click any tile to view the full series in the
@@ -29,9 +32,9 @@
             <label>
                 View:
                 <select id="view-select">
-                    <option value="diverse">Diverse Modalities</option>
+                    <option value="diverse" selected>Diverse Modalities</option>
                     <option value="ct-only">CT Only</option>
-                    <option value="segmentation" selected>CT + Segmentations</option>
+                    <option value="segmentation">CT + Segmentations</option>
                 </select>
             </label>
             <span id="stats"></span>
