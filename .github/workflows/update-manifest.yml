@@ -5,6 +5,10 @@ on:
     - cron: '0 5 * * *'  # Daily at 5am UTC
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   update-manifest:
     runs-on: ubuntu-latest
@@ -50,7 +54,7 @@ jobs:
 
       - name: Create Pull Request
         if: steps.changes.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@v8
         with:
           commit-message: "Update tile manifests"
           title: "Update tile manifests"
