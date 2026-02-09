@@ -31,14 +31,14 @@ jobs:
       - name: Generate diverse manifest
         run: |
           python -m idc_mosaic.generator \
-            -n 144 \
+            -n 50 \
             -o docs/data/manifest_diverse.json \
             --seed $(( ${{ github.run_id }} % 4294967296 ))
 
       - name: Generate segmentation manifest
         run: |
           python -m idc_mosaic.generator \
-            -n 144 \
+            -n 50 \
             --with-segmentations \
             -o docs/data/manifest.json \
             --seed $(( ${{ github.run_id }} % 4294967296 ))
