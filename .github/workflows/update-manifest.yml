@@ -7,14 +7,12 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   update-manifest:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - uses: actions/checkout@v4
@@ -30,43 +28,72 @@ jobs:
 
       - name: Generate diverse manifest
         run: |
+          DATE=$(date -u +%Y-%m-%d)
+          mkdir -p docs/data/manifests/diverse
           python -m idc_mosaic.generator \
             -n 50 \
-            -o docs/data/manifest_diverse.json \
+            -o docs/data/manifests/diverse/${DATE}.json \
             --seed $(( ${{ github.run_id }} % 4294967296 ))
+          # Copy to backward-compatible location
+          cp docs/data/manifests/diverse/${DATE}.json docs/data/manifest_diverse.json
+          # Copy citations to standard location
+          if [ -f docs/data/manifests/diverse/citations.json ]; then
+            cp docs/data/manifests/diverse/citations.json docs/data/citations.json
+          fi
 
       - name: Generate segmentation manifest
         run: |
+          DATE=$(date -u +%Y-%m-%d)
+          mkdir -p docs/data/manifests/ct
           python -m idc_mosaic.generator \
             -n 50 \
             --with-segmentations \
-            -o docs/data/manifest.json \
+            -o docs/data/manifests/ct/${DATE}.json \
             --seed $(( ${{ github.run_id }} % 4294967296 ))
-
-      - name: Check for changes
-        id: changes
-        run: |
-          if git diff --quiet docs/data/; then
-            echo "changed=false" >> $GITHUB_OUTPUT
-          else
-            echo "changed=true" >> $GITHUB_OUTPUT
+          # Copy to backward-compatible location
+          cp docs/data/manifests/ct/${DATE}.json docs/data/manifest.json
+          # Copy citations to standard location (overwrites with latest)
+          if [ -f docs/data/manifests/ct/citations.json ]; then
+            cp docs/data/manifests/ct/citations.json docs/data/citations.json
           fi
+
+      - name: Update manifest index
+        run: |
+          python -c "
+          import json, glob, os
+          from datetime import datetime, timezone
+
+          index = {'updated': datetime.now(timezone.utc).isoformat(), 'manifests': {}}
+
+          for manifest_type in ['ct', 'diverse']:
+              pattern = f'docs/data/manifests/{manifest_type}/*.json'
+              files = sorted(f for f in glob.glob(pattern) if os.path.basename(f) != 'citations.json')
+              index['manifests'][manifest_type] = [
+                  os.path.relpath(f, 'docs/data/') for f in files
+              ]
+
+          with open('docs/data/manifests/index.json', 'w') as f:
+              json.dump(index, f, indent=2)
+
+          print(json.dumps(index, indent=2))
+          "
 
       - name: Upload manifest artifacts
         uses: actions/upload-artifact@v4
         with:
           name: tile-manifests
-          path: docs/data/manifest*.json
+          path: |
+            docs/data/manifests/
+            docs/data/manifest*.json
 
-      - name: Create Pull Request
-        if: steps.changes.outputs.changed == 'true'
-        uses: peter-evans/create-pull-request@v8
-        with:
-          commit-message: "Update tile manifests"
-          title: "Update tile manifests"
-          body: |
-            Automated manifest regeneration.
-
-            This PR updates the tile manifests with fresh data from IDC.
-          branch: update-manifests
-          delete-branch: true
+      - name: Commit and push manifests
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update tile manifests $(date -u +%Y-%m-%d)"
+            git push
+          fi

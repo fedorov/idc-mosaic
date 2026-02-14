@@ -7,11 +7,17 @@
     'use strict';
 
     // Configuration
-    const MANIFEST_URLS = {
+    const MANIFEST_TYPE_MAP = {
+        'diverse': 'diverse',
+        'ct-only': 'ct',
+        'segmentation': 'ct'
+    };
+    const FALLBACK_MANIFEST_URLS = {
         'diverse': 'data/manifest_diverse.json',
         'ct-only': 'data/manifest.json',
         'segmentation': 'data/manifest.json'
     };
+    const MANIFEST_INDEX_URL = 'data/manifests/index.json';
     const SEGMENTATION_OPACITY = 0.5;
 
     // DOM elements
@@ -25,6 +31,7 @@
     // State
     let manifestData = null;
     let citationsData = null;
+    let manifestIndex = null;
     let currentTileCount = 64;
     let currentView = 'diverse'; // 'diverse', 'ct-only', or 'segmentation'
 
@@ -102,10 +109,48 @@
     }
 
     /**
-     * Load the manifest.json file based on current view
+     * Load the manifest index (cached after first fetch)
+     */
+    async function loadManifestIndex() {
+        if (manifestIndex !== null) {
+            return manifestIndex;
+        }
+        try {
+            const response = await fetch(MANIFEST_INDEX_URL);
+            if (!response.ok) {
+                console.warn('Manifest index not found, using fallback URLs');
+                return null;
+            }
+            manifestIndex = await response.json();
+            return manifestIndex;
+        } catch (e) {
+            console.warn('Failed to load manifest index:', e);
+            return null;
+        }
+    }
+
+    /**
+     * Load a manifest file, randomly selecting from available dated manifests
      */
     async function loadManifest() {
-        const url = MANIFEST_URLS[currentView] || MANIFEST_URLS['segmentation'];
+        const index = await loadManifestIndex();
+        let url;
+
+        if (index && index.manifests) {
+            const manifestType = MANIFEST_TYPE_MAP[currentView] || 'ct';
+            const available = index.manifests[manifestType];
+
+            if (available && available.length > 0) {
+                const randomIndex = Math.floor(Math.random() * available.length);
+                url = 'data/' + available[randomIndex];
+            }
+        }
+
+        // Fallback to fixed URLs if index unavailable
+        if (!url) {
+            url = FALLBACK_MANIFEST_URLS[currentView] || FALLBACK_MANIFEST_URLS['segmentation'];
+        }
+
         const response = await fetch(url);
         if (!response.ok) {
             throw new Error(`HTTP ${response.status}`);
@@ -741,6 +786,10 @@
                 text += ' (with TotalSegmentator overlays)';
             } else {
                 text += ' (CT only)';
+            }
+            if (manifestData && manifestData.generated) {
+                const date = new Date(manifestData.generated);
+                text += ` | Generated ${date.toLocaleDateString()}`;
             }
             statsElement.textContent = text;
         }

@@ -1,0 +1,11 @@
+{
+  "updated": "2026-02-14T00:00:00+00:00",
+  "manifests": {
+    "ct": [
+      "manifests/ct/2026-02-14.json"
+    ],
+    "diverse": [
+      "manifests/diverse/2026-02-14.json"
+    ]
+  }
+}
