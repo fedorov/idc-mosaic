@@ -34,12 +34,7 @@ jobs:
             -n 50 \
             -o docs/data/manifests/diverse/${DATE}.json \
             --seed $(( ${{ github.run_id }} % 4294967296 ))
-          # Copy to backward-compatible location
           cp docs/data/manifests/diverse/${DATE}.json docs/data/manifest_diverse.json
-          # Copy citations to standard location
-          if [ -f docs/data/manifests/diverse/citations.json ]; then
-            cp docs/data/manifests/diverse/citations.json docs/data/citations.json
-          fi
 
       - name: Generate segmentation manifest
         run: |
@@ -50,12 +45,26 @@ jobs:
             --with-segmentations \
             -o docs/data/manifests/ct/${DATE}.json \
             --seed $(( ${{ github.run_id }} % 4294967296 ))
-          # Copy to backward-compatible location
           cp docs/data/manifests/ct/${DATE}.json docs/data/manifest.json
-          # Copy citations to standard location (overwrites with latest)
-          if [ -f docs/data/manifests/ct/citations.json ]; then
-            cp docs/data/manifests/ct/citations.json docs/data/citations.json
-          fi
+
+      - name: Merge citations
+        run: |
+          python -c "
+          import json
+
+          merged = {}
+          for path in ['docs/data/citations.json', 'docs/data/manifests/diverse/citations.json', 'docs/data/manifests/ct/citations.json']:
+              try:
+                  with open(path) as f:
+                      merged.update(json.load(f))
+              except FileNotFoundError:
+                  pass
+
+          with open('docs/data/citations.json', 'w') as f:
+              json.dump(merged, f, indent=2)
+
+          print(f'Merged {len(merged)} citations')
+          "
 
       - name: Update manifest index
         run: |
