@@ -203,7 +203,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.277099973274334569776188044716&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.73793.1706309615.929968"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.277099973274334569776188044716&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.73793.1706309615.929968",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -434,7 +435,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.71095105210382814548792119178161446330&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.11939.1706326610.188180"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.71095105210382814548792119178161446330&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.11939.1706326610.188180",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -645,7 +647,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.33238859241697177103555200520354368900&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.40052.1706311275.548505"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.33238859241697177103555200520354368900&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.40052.1706311275.548505",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -896,7 +899,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.312382942246400509804215912365571091185&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24352.1706329164.800535"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.312382942246400509804215912365571091185&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24352.1706329164.800535",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -1177,7 +1181,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.165598803174426169145924664696&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.12133.1706310060.292076"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.165598803174426169145924664696&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.12133.1706310060.292076",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -1448,7 +1453,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.304666370897905413534451128655&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.37264.1706324793.525971"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.304666370897905413534451128655&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.37264.1706324793.525971",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -1669,7 +1675,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.184811801461148166828064032688065917156&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.15937.1706308738.862839"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.184811801461148166828064032688065917156&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.15937.1706308738.862839",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -1910,7 +1917,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.2377147234804529134989383309738625174&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.38698.1706313472.44916"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.2377147234804529134989383309738625174&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.38698.1706313472.44916",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -2161,7 +2169,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.89557784027730853430460533936115856862&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31892.1706321799.926422"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.89557784027730853430460533936115856862&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31892.1706321799.926422",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -2412,7 +2421,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.200052492892789497150581293263&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24157.1706322593.40986"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.200052492892789497150581293263&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24157.1706322593.40986",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -2643,7 +2653,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.258527207362494805546785391823&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.66176.1706326039.45493"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.258527207362494805546785391823&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.66176.1706326039.45493",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -2834,7 +2845,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.65938641044362598932621620300851595013&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.12233.1706309557.451534"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.65938641044362598932621620300851595013&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.12233.1706309557.451534",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -3045,7 +3057,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.249269786195298766715425924985&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.12113.1706325033.798050"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.249269786195298766715425924985&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.12113.1706325033.798050",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -3276,7 +3289,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.104291640094045969444741538400095362536&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.8054.1706327644.808791"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.104291640094045969444741538400095362536&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.8054.1706327644.808791",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -3497,7 +3511,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.31708293113959013588712115367157110438&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.43450.1706314254.753224"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.31708293113959013588712115367157110438&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.43450.1706314254.753224",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -3678,7 +3693,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.138311530105249061415256190467&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.19357.1706328950.692075"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.138311530105249061415256190467&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.19357.1706328950.692075",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -3909,7 +3925,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.218337754729437981625028243930&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.8214.1706320402.32606"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.218337754729437981625028243930&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.8214.1706320402.32606",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -4130,7 +4147,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.106499798574831856102927624534&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.28575.1706310254.878763"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.106499798574831856102927624534&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.28575.1706310254.878763",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -4341,7 +4359,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.338782165453828989656496236088060831761&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.35451.1706316262.569341"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.338782165453828989656496236088060831761&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.35451.1706316262.569341",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -4492,7 +4511,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.107928162356692493500458375741068932628&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.27997.1706317964.435782"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.107928162356692493500458375741068932628&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.27997.1706317964.435782",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -4763,7 +4783,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.172307897428614785953958089116&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.32032.1706313344.522670"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.172307897428614785953958089116&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.32032.1706313344.522670",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -4974,7 +4995,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.264109188747611825887723016636274254440&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.30148.1706309240.702332"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.264109188747611825887723016636274254440&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.30148.1706309240.702332",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -5215,7 +5237,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.240978959797461599716620590613266627531&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.35470.1706312739.854421"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.240978959797461599716620590613266627531&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.35470.1706312739.854421",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -5456,7 +5479,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.304175292253973928253968007497&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.101475.1706322094.666164"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.304175292253973928253968007497&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.101475.1706322094.666164",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -5687,7 +5711,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.23589026106639929637381782473049959489&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.27086.1706312557.193651"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.23589026106639929637381782473049959489&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.27086.1706312557.193651",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -5888,7 +5913,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.125841952445791454616809454650&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.36398.1706311852.780197"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.125841952445791454616809454650&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.36398.1706311852.780197",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -6149,7 +6175,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.212764312924508928944368240435083267099&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.39938.1706327163.927473"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.212764312924508928944368240435083267099&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.39938.1706327163.927473",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -6420,7 +6447,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.307278002821773695548571200364602578165&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31328.1706320127.700276"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.307278002821773695548571200364602578165&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31328.1706320127.700276",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -6601,7 +6629,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.235784997543513660555309985062753169085&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.19743.1706310455.883905"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.235784997543513660555309985062753169085&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.19743.1706310455.883905",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -6812,7 +6841,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.338519335149060937534457741806&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.45202.1706312824.810683"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.338519335149060937534457741806&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.45202.1706312824.810683",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -6973,7 +7003,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.149342364870733400474604526317&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.9324.1706311210.986624"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.149342364870733400474604526317&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.9324.1706311210.986624",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -7194,7 +7225,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.986836862907223680094200140819&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.63877.1706315649.728898"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.986836862907223680094200140819&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.63877.1706315649.728898",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -7395,7 +7427,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.111534124304181100595893573426&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.27500.1706312292.843949"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.111534124304181100595893573426&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.27500.1706312292.843949",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -7646,7 +7679,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.230703101598407692443506991130623348005&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31955.1706324081.549066"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.230703101598407692443506991130623348005&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31955.1706324081.549066",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -7897,7 +7931,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.52066948230418329626323777881377662067&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.11770.1706323981.857071"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.52066948230418329626323777881377662067&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.11770.1706323981.857071",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -8168,7 +8203,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.106346859518119294322778313177003465484&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.35625.1706320835.990792"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.106346859518119294322778313177003465484&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.35625.1706320835.990792",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -8419,7 +8455,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.81413585785426344045474652064022832068&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24015.1706311964.239510"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.81413585785426344045474652064022832068&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24015.1706311964.239510",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -8670,7 +8707,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.571029566741175243125216262997&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.28099.1706312406.901550"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.571029566741175243125216262997&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.28099.1706312406.901550",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -8941,7 +8979,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.324553197576708050720400695178749618362&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24097.1706311697.689160"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.324553197576708050720400695178749618362&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.24097.1706311697.689160",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -9082,7 +9121,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.243613673168051844983697157246&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.82590.1706319858.930919"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.243613673168051844983697157246&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.82590.1706319858.930919",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -9283,7 +9323,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.280602998197862081726962227010146945778&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.7983.1706310742.27667"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.280602998197862081726962227010146945778&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.7983.1706310742.27667",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -9494,7 +9535,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.276541270458348473159892387352&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31272.1706315869.945316"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.276541270458348473159892387352&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31272.1706315869.945316",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -9735,7 +9777,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.148791635312500149606797914193&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.65602.1706326826.451339"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.148791635312500149606797914193&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.65602.1706326826.451339",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -10006,7 +10049,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.225497821588120350117549051109452165233&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31655.1706315584.801485"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.225497821588120350117549051109452165233&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.31655.1706315584.801485",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -10237,7 +10281,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.227862241661261180688753659418857002048&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.28243.1706316777.162540"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.227862241661261180688753659418857002048&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.28243.1706316777.162540",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -10498,7 +10543,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.307407263128435985283806218574020884705&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.18638.1706324923.764793"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.307407263128435985283806218574020884705&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.18638.1706324923.764793",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -10769,7 +10815,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.113793257224472285522379013609055863188&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.43959.1706329745.348542"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.113793257224472285522379013609055863188&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.43959.1706329745.348542",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -10980,7 +11027,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.7105456366173663197406307714395529589&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.11936.1706325535.752006"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.7105456366173663197406307714395529589&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.11936.1706325535.752006",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -11241,7 +11289,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.927626188915180557470922819130&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.9422.1706316738.832791"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.3.6.1.4.1.14519.5.2.1.7009.9004.927626188915180557470922819130&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.9422.1706316738.832791",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     },
     {
@@ -11502,7 +11551,8 @@
             ]
           }
         ],
-        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.94190304433312485347428241518635775450&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.3597.1706316331.493912"
+        "viewer_url": "https://viewer.imaging.datacommons.cancer.gov/v3/viewer/?StudyInstanceUIDs=1.2.840.113654.2.55.94190304433312485347428241518635775450&initialSeriesInstanceUID=1.2.276.0.7230010.3.1.3.313263360.3597.1706316331.493912",
+        "source_doi": "10.5281/zenodo.8347011"
       }
     }
   ]
