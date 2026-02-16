@@ -334,5 +334,35 @@
     "url": "https://doi.org/10.7937/tcia.2019.zjjwb9ip",
     "apa": "Patnana, M., Patel, S., &amp; Tsao, A. S. (2019). <i>Data from Anti-PD-1 Immunotherapy Lung</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.ZJJWB9IP",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.zjjwb9ip,\n  doi = {10.7937/TCIA.2019.ZJJWB9IP},\n  url = {https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/},\n  author = {Patnana, Madhavi and Patel, Sapna and Tsao, Anne S},\n  title = {Data from Anti-PD-1 Immunotherapy Lung},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.ofip7tvm": {
+    "doi": "10.7937/k9/tcia.2015.ofip7tvm",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.ofip7tvm",
+    "apa": "Muzi, P., Wanner, M., &amp; Kinahan, P. (2015). <i>Data From RIDER Lung PET-CT</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.OFIP7TVM",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.ofip7tvm,\n  doi = {10.7937/K9/TCIA.2015.OFIP7TVM},\n  url = {https://www.cancerimagingarchive.net/collection/rider-lung-pet-ct/},\n  author = {Muzi, Peter and Wanner, Michelle and Kinahan, Paul},\n  title = {Data From RIDER Lung PET-CT},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2017.7hs46erv": {
+    "doi": "10.7937/k9/tcia.2017.7hs46erv",
+    "url": "https://doi.org/10.7937/k9/tcia.2017.7hs46erv",
+    "apa": "Bakr, S., Gevaert, O., Echegaray, S., Ayers, K., Zhou, M., Shafiq, M., Zheng, H., Zhang, W., Leung, A., Kadoch, M., Shrager, J., Quon, A., Rubin, D., Plevritis, S., &amp; Napel, S. (2017). <i>Data for NSCLC Radiogenomics Collection</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.7HS46ERV",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2017.7hs46erv,\n  doi = {10.7937/K9/TCIA.2017.7HS46ERV},\n  url = {https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/},\n  author = {Bakr, Shaimaa and Gevaert, Olivier and Echegaray, Sebastian and Ayers, Kelsey and Zhou, Mu and Shafiq, Majid and Zheng, Hong and Zhang, Weiruo and Leung, Ann and Kadoch, Michael and Shrager, Joseph and Quon, Andrew and Rubin, Daniel and Plevritis, Sylvia and Napel, Sandy},\n  title = {Data for NSCLC Radiogenomics Collection},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/91ah-v663": {
+    "doi": "10.7937/91ah-v663",
+    "url": "https://doi.org/10.7937/91ah-v663",
+    "apa": "Tsai, E., Simpson, S., Lungren, M. P., Hershman, M., Roshkovan, L., Colak, E., Erickson, B. J., Shih, G., Stein, A., Kalpathy-Cramer, J., Shen, J., Hafez, M. A. F., John, S., Rajiah, P., Pogatchnik, B. P., Mongan, J. T., Altinmakas, E., Ranschaert, E., Kitamura, F. C., \u2026 Wu, C. (2021). <i>Medical Imaging Data Resource Center (MIDRC) - RSNA International COVID Radiology Database (RICORD) Release 1c - Chest x-ray, Covid+ (MIDRC-RICORD-1C)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/91AH-V663",
+    "bibtex": "@misc{https://doi.org/10.7937/91ah-v663,\n  doi = {10.7937/91AH-V663},\n  url = {https://www.cancerimagingarchive.net/collection/midrc-ricord-1c/},\n  author = {Tsai, Emily and Simpson, Scott and Lungren, Matthew P. and Hershman, Michelle and Roshkovan, Leonid and Colak, Errol and Erickson, Bradley J. and Shih, George and Stein, Anouk and Kalpathy-Cramer, Jayashree and Shen, Jody and Hafez, Mona A.F. and John, Susan and Rajiah, Prabhakar and Pogatchnik, Brian P. and Mongan, John Thomas and Altinmakas, Emre and Ranschaert, Erik and Kitamura, Felipe Campos and Topff, Laurens and Moy, Linda and Kanne, Jeffrey P. and Wu, Carol},\n  title = {Medical Imaging Data Resource Center (MIDRC) - RSNA International COVID Radiology Database (RICORD) Release 1c - Chest x-ray, Covid+ (MIDRC-RICORD-1C)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution Non Commercial 4.0 International}\n}\n"
+  },
+  "10.7937/szkb-sw39": {
+    "doi": "10.7937/szkb-sw39",
+    "url": "https://doi.org/10.7937/szkb-sw39",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)</i> (Version 9) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/SZKB-SW39",
+    "bibtex": "@misc{https://doi.org/10.7937/szkb-sw39,\n  doi = {10.7937/SZKB-SW39},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-mml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.8347011": {
+    "doi": "10.5281/zenodo.8347011",
+    "url": "https://doi.org/10.5281/zenodo.8347011",
+    "apa": "Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D., &amp; Fedorov, A. (2024). <i>TotalSegmentator-CT-Segmentations: TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.8347011",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.8347011,\n  doi = {10.5281/ZENODO.8347011},\n  url = {https://zenodo.org/doi/10.5281/zenodo.8347011},\n  author = {Thiriveedhi, Vamsi Krishna and Krishnaswamy, Deepa and Clunie, David and Fedorov, Andrey},\n  title = {TotalSegmentator-CT-Segmentations: TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
