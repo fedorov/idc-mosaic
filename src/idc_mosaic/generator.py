@@ -23,12 +23,17 @@ def generate_citations_file(manifest: dict, output_dir: str, client: IDCClient) 
     Returns:
         The citations dictionary
     """
-    # Collect unique DOIs
+    # Collect unique DOIs (source images + segmentation series)
     unique_dois = set()
     for tile in manifest["tiles"]:
         doi = tile.get("source_doi")
         if doi:
             unique_dois.add(doi)
+        seg = tile.get("segmentation")
+        if seg:
+            seg_doi = seg.get("source_doi")
+            if seg_doi:
+                unique_dois.add(seg_doi)
 
     if not unique_dois:
         print("No source DOIs found in manifest")
@@ -193,13 +198,17 @@ def generate_manifest(
 
     print(f"Successfully resolved {len(samples)} tiles")
 
-    # Batch query source_DOI for all series
+    # Batch query source_DOI for all series (source + segmentation)
     print("Fetching source DOIs...")
     series_uids = [s.series_uid for s in samples]
+    seg_series_uids = [
+        s.segmentation.series_uid for s in samples if s.segmentation
+    ]
+    all_uids = list(set(series_uids + seg_series_uids))
     doi_query = f"""
         SELECT SeriesInstanceUID, source_DOI
         FROM index
-        WHERE SeriesInstanceUID IN ({','.join(f"'{uid}'" for uid in series_uids)})
+        WHERE SeriesInstanceUID IN ({','.join(f"'{uid}'" for uid in all_uids)})
     """
     doi_df = client.sql_query(doi_query)
     doi_map = dict(zip(doi_df['SeriesInstanceUID'], doi_df['source_DOI']))
@@ -240,6 +249,7 @@ def generate_manifest(
                     for s in seg.segments
                 ],
                 "viewer_url": seg.viewer_url,
+                "source_doi": doi_map.get(seg.series_uid),
             }
 
         manifest["tiles"].append(tile_data)

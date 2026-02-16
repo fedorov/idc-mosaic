@@ -332,8 +332,10 @@
         canvas.className = 'tile-canvas';
         tile.appendChild(canvas);
 
-        // Add info icon for citation (only if tile has source_doi)
-        if (tileData.source_doi) {
+        // Add info icon for citation (if tile or its segmentation has a DOI)
+        const hasSourceDoi = !!tileData.source_doi;
+        const hasSegDoi = !!(tileData.segmentation && tileData.segmentation.source_doi);
+        if (hasSourceDoi || hasSegDoi) {
             const infoIcon = document.createElement('button');
             infoIcon.className = 'info-icon';
             infoIcon.innerHTML = 'i';
@@ -376,19 +378,73 @@
     }
 
     /**
-     * Show citation popup for a tile
+     * Render a single citation block (DOI link, APA, BibTeX) into a container
      */
-    function showCitationPopup(tileData) {
-        // Remove any existing popup
-        closeCitationPopup();
-
-        const doi = tileData.source_doi;
+    function renderCitationBlock(container, doi, label) {
         const citation = citationsData[doi] || {
             doi: doi,
             url: `https://doi.org/${doi}`,
             apa: null,
             bibtex: null
         };
+
+        if (label) {
+            const heading = document.createElement('div');
+            heading.className = 'citation-label';
+            heading.style.fontWeight = 'bold';
+            heading.style.marginTop = '0.8em';
+            heading.textContent = label;
+            container.appendChild(heading);
+        }
+
+        // DOI link
+        const doiLink = document.createElement('p');
+        doiLink.className = 'citation-doi';
+        doiLink.innerHTML = `DOI: <a href="${citation.url}" target="_blank" rel="noopener">${doi}</a>`;
+        container.appendChild(doiLink);
+
+        // APA citation
+        if (citation.apa) {
+            const apaSection = document.createElement('div');
+            apaSection.className = 'citation-section';
+            apaSection.innerHTML = `
+                <div class="citation-label">APA Citation:</div>
+                <div class="citation-text">${citation.apa}</div>
+                <button class="copy-btn" data-text="${escapeHtml(citation.apa)}">Copy</button>
+            `;
+            container.appendChild(apaSection);
+        }
+
+        // BibTeX citation
+        if (citation.bibtex) {
+            const bibtexSection = document.createElement('div');
+            bibtexSection.className = 'citation-section';
+            bibtexSection.innerHTML = `
+                <div class="citation-label">BibTeX:</div>
+                <pre class="citation-bibtex">${escapeHtml(citation.bibtex)}</pre>
+                <button class="copy-btn" data-text="${escapeHtml(citation.bibtex)}">Copy</button>
+            `;
+            container.appendChild(bibtexSection);
+        }
+
+        // If no formatted citation available, show DOI only message
+        if (!citation.apa && !citation.bibtex) {
+            const note = document.createElement('p');
+            note.className = 'citation-note';
+            note.textContent = 'Click the DOI link above to view the full citation.';
+            container.appendChild(note);
+        }
+    }
+
+    /**
+     * Show citation popup for a tile
+     */
+    function showCitationPopup(tileData) {
+        // Remove any existing popup
+        closeCitationPopup();
+
+        const sourceDoi = tileData.source_doi;
+        const segDoi = tileData.segmentation ? tileData.segmentation.source_doi : null;
 
         // Create overlay
         const overlay = document.createElement('div');
@@ -407,7 +463,7 @@
         const header = document.createElement('div');
         header.className = 'citation-header';
         header.innerHTML = `
-            <h3>Citation</h3>
+            <h3>Citations</h3>
             <button class="close-btn" aria-label="Close">&times;</button>
         `;
         header.querySelector('.close-btn').addEventListener('click', closeCitationPopup);
@@ -423,42 +479,15 @@
         info.textContent = `${tileData.modality} | ${tileData.collection}`;
         content.appendChild(info);
 
-        // DOI link
-        const doiLink = document.createElement('p');
-        doiLink.className = 'citation-doi';
-        doiLink.innerHTML = `DOI: <a href="${citation.url}" target="_blank" rel="noopener">${doi}</a>`;
-        content.appendChild(doiLink);
+        // Use labels when both source and segmentation DOIs are present
+        const hasBoth = sourceDoi && segDoi && sourceDoi !== segDoi;
 
-        // APA citation
-        if (citation.apa) {
-            const apaSection = document.createElement('div');
-            apaSection.className = 'citation-section';
-            apaSection.innerHTML = `
-                <div class="citation-label">APA Citation:</div>
-                <div class="citation-text">${citation.apa}</div>
-                <button class="copy-btn" data-text="${escapeHtml(citation.apa)}">Copy</button>
-            `;
-            content.appendChild(apaSection);
+        if (sourceDoi) {
+            renderCitationBlock(content, sourceDoi, hasBoth ? 'Source Image Collection' : null);
         }
 
-        // BibTeX citation
-        if (citation.bibtex) {
-            const bibtexSection = document.createElement('div');
-            bibtexSection.className = 'citation-section';
-            bibtexSection.innerHTML = `
-                <div class="citation-label">BibTeX:</div>
-                <pre class="citation-bibtex">${escapeHtml(citation.bibtex)}</pre>
-                <button class="copy-btn" data-text="${escapeHtml(citation.bibtex)}">Copy</button>
-            `;
-            content.appendChild(bibtexSection);
-        }
-
-        // If no formatted citation available, show DOI only message
-        if (!citation.apa && !citation.bibtex) {
-            const note = document.createElement('p');
-            note.className = 'citation-note';
-            note.textContent = 'Click the DOI link above to view the full citation.';
-            content.appendChild(note);
+        if (segDoi && segDoi !== sourceDoi) {
+            renderCitationBlock(content, segDoi, hasBoth ? 'Segmentation Analysis Collection' : null);
         }
 
         popup.appendChild(content);
