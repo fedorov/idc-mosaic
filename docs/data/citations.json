@@ -274,5 +274,65 @@
     "url": "https://doi.org/10.5281/zenodo.12666807",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-LSCC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666807",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666807,\n  doi = {10.5281/ZENODO.12666807},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666807},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-LSCC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.2020.nnc2-0461": {
+    "doi": "10.7937/tcia.2020.nnc2-0461",
+    "url": "https://doi.org/10.7937/tcia.2020.nnc2-0461",
+    "apa": "Li, P., Wang, S., Li, T., Lu, J., HuangFu, Y., &amp; Wang, D. (2020). <i>A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.NNC2-0461",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.nnc2-0461,\n  doi = {10.7937/TCIA.2020.NNC2-0461},\n  url = {https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/},\n  author = {Li, Ping and Wang, Shuo and Li, Tang and Lu, Jingfeng and HuangFu, Yunxin and Wang, Dongxue},\n  title = {A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.7go2gsks": {
+    "doi": "10.7937/k9/tcia.2015.7go2gsks",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.7go2gsks",
+    "apa": "Valli\u00e8res, M., Freeman, C. R., Skamene, S. R., &amp; El Naqa, I. (2015). <i>A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.7go2gsks,\n  doi = {10.7937/K9/TCIA.2015.7GO2GSKS},\n  url = {https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/},\n  author = {Valli\u00e8res, Martin and Freeman, Carolyn R. and Skamene, Sonia R. and El Naqa, Issam},\n  title = {A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/ghkn-md15": {
+    "doi": "10.7937/ghkn-md15",
+    "url": "https://doi.org/10.7937/ghkn-md15",
+    "apa": "The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network. (2024). <i>VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/GHKN-MD15",
+    "bibtex": "@misc{https://doi.org/10.7937/ghkn-md15,\n  doi = {10.7937/GHKN-MD15},\n  url = {https://www.cancerimagingarchive.net/collection/varepop-apollo/},\n  author = {{The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network}},\n  title = {VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689935": {
+    "doi": "10.5281/zenodo.12689935",
+    "url": "https://doi.org/10.5281/zenodo.12689935",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PRAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689935",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689935,\n  doi = {10.5281/ZENODO.12689935},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689935},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-PRAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690010": {
+    "doi": "10.5281/zenodo.12690010",
+    "url": "https://doi.org/10.5281/zenodo.12690010",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-GBM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690010",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690010,\n  doi = {10.5281/ZENODO.12690010},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690010},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-GBM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/3kq0-yk19": {
+    "doi": "10.7937/3kq0-yk19",
+    "url": "https://doi.org/10.7937/3kq0-yk19",
+    "apa": "Kalen, J. D., Ileva, L. V., Riffle, L. A., Keita, S., Tatum, J. L., Jacobs, P. M., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Evrard, Y., Clunie, D. A., Miao, T., Wagner, U., Freymann, J., Kirby, J., &amp; Doroshow, J. H. (2023). <i>Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3KQ0-YK19",
+    "bibtex": "@misc{https://doi.org/10.7937/3kq0-yk19,\n  doi = {10.7937/3KQ0-YK19},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-texture-analysis/},\n  author = {Kalen, Joseph D. and Ileva, Lilia V. and Riffle, Lisa A. and Keita, Saito and Tatum, James L. and Jacobs, Paula M. and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda G. and Evrard, Yvonne and Clunie, David A. and Miao, Tianyi and Wagner, Ulrike and Freymann, John and Kirby, Justin and Doroshow, James H.},\n  title = {Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.8lng8xdr": {
+    "doi": "10.7937/k9/tcia.2016.8lng8xdr",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.8lng8xdr",
+    "apa": "Kirk, S., Lee, Y., Lucchesi, F. R., Aredes, N. D., Gruszauskas, N., Catto, J., Garcia, K., Jarosz, R., Duddalwar, V., Varghese, B., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)</i> (Version 8) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.8lng8xdr,\n  doi = {10.7937/K9/TCIA.2016.8LNG8XDR},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-blca/},\n  author = {Kirk, Shanah and Lee, Yueh and Lucchesi, Fabiano R. and Aredes, Natalia D. and Gruszauskas, Nicholas and Catto, James and Garcia, Kimberly and Jarosz, Rose and Duddalwar, Vinay and Varghese, Bino and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689998": {
+    "doi": "10.5281/zenodo.12689998",
+    "url": "https://doi.org/10.5281/zenodo.12689998",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-READ collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689998",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689998,\n  doi = {10.5281/ZENODO.12689998},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689998},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-READ collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689948": {
+    "doi": "10.5281/zenodo.12689948",
+    "url": "https://doi.org/10.5281/zenodo.12689948",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LGG collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689948",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689948,\n  doi = {10.5281/ZENODO.12689948},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689948},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LGG collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.2019.zjjwb9ip": {
+    "doi": "10.7937/tcia.2019.zjjwb9ip",
+    "url": "https://doi.org/10.7937/tcia.2019.zjjwb9ip",
+    "apa": "Patnana, M., Patel, S., &amp; Tsao, A. S. (2019). <i>Data from Anti-PD-1 Immunotherapy Lung</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.ZJJWB9IP",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.zjjwb9ip,\n  doi = {10.7937/TCIA.2019.ZJJWB9IP},\n  url = {https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/},\n  author = {Patnana, Madhavi and Patel, Sapna and Tsao, Anne S},\n  title = {Data from Anti-PD-1 Immunotherapy Lung},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }

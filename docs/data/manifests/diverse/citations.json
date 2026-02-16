@@ -1,105 +1,39 @@
 {
-  "10.7937/hrzh-2n82": {
-    "doi": "10.7937/hrzh-2n82",
-    "url": "https://doi.org/10.7937/hrzh-2n82",
-    "apa": "Kujawa, A., Dorent, R., Wijethilake, N., Connor, S., Thomson, S., Ivory, M., Bradford, R., Kitchen, N., Bisdas, S., Ourselin, S., Vercauteren, T., &amp; Shapey, J. (2023). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/HRZH-2N82",
-    "bibtex": "@misc{https://doi.org/10.7937/hrzh-2n82,\n  doi = {10.7937/HRZH-2N82},\n  url = {https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-mc-rc/},\n  author = {Kujawa, Aaron and Dorent, Reuben and Wijethilake, Navodini and Connor, Stephen and Thomson, Suki and Ivory, Marina and Bradford, Robert and Kitchen, Neil and Bisdas, Sotirios and Ourselin, Sebastien and Vercauteren, Tom and Shapey, Jonathan},\n  title = {Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  "10.7937/tcia.2020.nnc2-0461": {
+    "doi": "10.7937/tcia.2020.nnc2-0461",
+    "url": "https://doi.org/10.7937/tcia.2020.nnc2-0461",
+    "apa": "Li, P., Wang, S., Li, T., Lu, J., HuangFu, Y., &amp; Wang, D. (2020). <i>A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.NNC2-0461",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.nnc2-0461,\n  doi = {10.7937/TCIA.2020.NNC2-0461},\n  url = {https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/},\n  author = {Li, Ping and Wang, Shuo and Li, Tang and Lu, Jingfeng and HuangFu, Yunxin and Wang, Dongxue},\n  title = {A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
-  "10.5281/zenodo.12666768": {
-    "doi": "10.5281/zenodo.12666768",
-    "url": "https://doi.org/10.5281/zenodo.12666768",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-CCRCC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666768",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666768,\n  doi = {10.5281/ZENODO.12666768},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666768},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-CCRCC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  "10.7937/k9/tcia.2016.7o02s9cy": {
+    "doi": "10.7937/k9/tcia.2016.7o02s9cy",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.7o02s9cy",
+    "apa": "Sawyer-Lee, R., Gimenez, F., Hoogi, A., &amp; Rubin, D. (2016). <i>Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.7o02s9cy,\n  doi = {10.7937/K9/TCIA.2016.7O02S9CY},\n  url = {https://www.cancerimagingarchive.net/collection/cbis-ddsm/},\n  author = {Sawyer-Lee, Rebecca and Gimenez, Francisco and Hoogi, Assaf and Rubin, Daniel},\n  title = {Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
-  "10.5281/zenodo.12689954": {
-    "doi": "10.5281/zenodo.12689954",
-    "url": "https://doi.org/10.5281/zenodo.12689954",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-OV collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689954",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689954,\n  doi = {10.5281/ZENODO.12689954},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689954},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-OV collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  "10.7937/k9/tcia.2015.7go2gsks": {
+    "doi": "10.7937/k9/tcia.2015.7go2gsks",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.7go2gsks",
+    "apa": "Valli\u00e8res, M., Freeman, C. R., Skamene, S. R., &amp; El Naqa, I. (2015). <i>A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.7go2gsks,\n  doi = {10.7937/K9/TCIA.2015.7GO2GSKS},\n  url = {https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/},\n  author = {Valli\u00e8res, Martin and Freeman, Carolyn R. and Skamene, Sonia R. and El Naqa, Issam},\n  title = {A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
-  "10.5281/zenodo.11099099": {
-    "doi": "10.5281/zenodo.11099099",
-    "url": "https://doi.org/10.5281/zenodo.11099099",
-    "apa": "Clunie, D., GTEx Consortium, Clifford, W., Pot, D., Wagner, U., Kim, E., Sutton, G., &amp; Fedorov, A. (2024). <i>GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.11099099",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.11099099,\n  doi = {10.5281/ZENODO.11099099},\n  url = {https://zenodo.org/doi/10.5281/zenodo.11099099},\n  author = {Clunie, David and {GTEx Consortium} and Clifford, William and Pot, David and Wagner, Ulrike and Kim, Erika and Sutton, Granger and Fedorov, Andrey},\n  title = {GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  "10.7937/ghkn-md15": {
+    "doi": "10.7937/ghkn-md15",
+    "url": "https://doi.org/10.7937/ghkn-md15",
+    "apa": "The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network. (2024). <i>VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/GHKN-MD15",
+    "bibtex": "@misc{https://doi.org/10.7937/ghkn-md15,\n  doi = {10.7937/GHKN-MD15},\n  url = {https://www.cancerimagingarchive.net/collection/varepop-apollo/},\n  author = {{The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network}},\n  title = {VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
-  "10.5281/zenodo.12689919": {
-    "doi": "10.5281/zenodo.12689919",
-    "url": "https://doi.org/10.5281/zenodo.12689919",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-KIRP collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689919",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689919,\n  doi = {10.5281/ZENODO.12689919},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689919},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-KIRP collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  "10.5281/zenodo.12689935": {
+    "doi": "10.5281/zenodo.12689935",
+    "url": "https://doi.org/10.5281/zenodo.12689935",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PRAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689935",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689935,\n  doi = {10.5281/ZENODO.12689935},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689935},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-PRAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
-  "10.5281/zenodo.12690039": {
-    "doi": "10.5281/zenodo.12690039",
-    "url": "https://doi.org/10.5281/zenodo.12690039",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-SKCM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690039",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690039,\n  doi = {10.5281/ZENODO.12690039},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690039},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-SKCM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/3cx3-s132": {
-    "doi": "10.7937/3cx3-s132",
-    "url": "https://doi.org/10.7937/3cx3-s132",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3CX3-S132",
-    "bibtex": "@misc{https://doi.org/10.7937/3cx3-s132,\n  doi = {10.7937/3CX3-S132},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-lca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.7937/q1ee-j082": {
-    "doi": "10.7937/q1ee-j082",
-    "url": "https://doi.org/10.7937/q1ee-j082",
-    "apa": "Kinahan, P., Muzi, M., Bialecki, B., Herman, B., &amp; Coombs, L. (2021). <i>ACRIN-Contralateral-Breast-MR (ACRIN 6667)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/Q1EE-J082",
-    "bibtex": "@misc{https://doi.org/10.7937/q1ee-j082,\n  doi = {10.7937/Q1EE-J082},\n  url = {https://www.cancerimagingarchive.net/collection/acrin-contralateral-breast-mr/},\n  author = {Kinahan, Paul and Muzi, Mark and Bialecki, Brian and Herman, Benjamin and Coombs, Laura},\n  title = {ACRIN-Contralateral-Breast-MR (ACRIN 6667)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.7937/k9/tcia.2016.ab2nazrp": {
-    "doi": "10.7937/k9/tcia.2016.ab2nazrp",
-    "url": "https://doi.org/10.7937/k9/tcia.2016.ab2nazrp",
-    "apa": "Lingle, W., Erickson, B. J., Zuley, M. L., Jarosz, R., Bonaccio, E., Filippini, J., Net, J. M., Levi, L., Morris, E. A., Figler, G. G., Elnajjar, P., Kirk, S., Lee, Y., Giger, M., &amp; Gruszauskas, N. (2016). <i>The Cancer Genome Atlas Breast Invasive Carcinoma Collection (TCGA-BRCA)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.ab2nazrp,\n  doi = {10.7937/K9/TCIA.2016.AB2NAZRP},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-brca/},\n  author = {Lingle, Wilma and Erickson, Bradley J. and Zuley, Margarita L. and Jarosz, Rose and Bonaccio, Ermelinda and Filippini, Joe and Net, Jose M. and Levi, Len and Morris, Elizabeth A. and Figler, Gloria G. and Elnajjar, Pierre and Kirk, Shanah and Lee, Yueh and Giger, Maryellen and Gruszauskas, Nicholas},\n  title = {The Cancer Genome Atlas Breast Invasive Carcinoma Collection (TCGA-BRCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/tcia.2019.30ilqfcl": {
-    "doi": "10.7937/tcia.2019.30ilqfcl",
-    "url": "https://doi.org/10.7937/tcia.2019.30ilqfcl",
-    "apa": "Kinahan, P., Muzi, M., Bialecki, B., Herman, B., &amp; Coombs, L. (2019). <i>Data from the ACRIN 6668 Trial NSCLC-FDG-PET</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.30ILQFCL",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.30ilqfcl,\n  doi = {10.7937/TCIA.2019.30ILQFCL},\n  url = {https://www.cancerimagingarchive.net/collection/acrin-nsclc-fdg-pet/},\n  author = {Kinahan, Paul and Muzi, Mark and Bialecki, Brian and Herman, Ben and Coombs, Laura},\n  title = {Data from the ACRIN 6668 Trial NSCLC-FDG-PET},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/k9/tcia.2016.qhsyhjky": {
-    "doi": "10.7937/k9/tcia.2016.qhsyhjky",
-    "url": "https://doi.org/10.7937/k9/tcia.2016.qhsyhjky",
-    "apa": "Newitt, D., &amp; Hylton, N. (2016). <i>Single site breast DCE-MRI data and segmentations from patients undergoing neoadjuvant chemotherapy</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.QHSYHJKY",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.qhsyhjky,\n  doi = {10.7937/K9/TCIA.2016.QHSYHJKY},\n  url = {https://www.cancerimagingarchive.net/collection/breast-mri-nact-pilot/},\n  author = {Newitt, David and Hylton, Nola},\n  title = {Single site breast DCE-MRI data and segmentations from patients undergoing neoadjuvant chemotherapy},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/k9/tcia.2017.ol20zmxg": {
-    "doi": "10.7937/k9/tcia.2017.ol20zmxg",
-    "url": "https://doi.org/10.7937/k9/tcia.2017.ol20zmxg",
-    "apa": "Kinahan, P., Muzi, M., Bialecki, B., &amp; Coombs, L. (2017). <i>Data from ACRIN-FLT-Breast</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.OL20ZMXG",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2017.ol20zmxg,\n  doi = {10.7937/K9/TCIA.2017.OL20ZMXG},\n  url = {https://www.cancerimagingarchive.net/collection/acrin-flt-breast/},\n  author = {Kinahan, Paul and Muzi, Mark and Bialecki, Brian and Coombs, Laura},\n  title = {Data from ACRIN-FLT-Breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/k9/tcia.2015.nwtesay1": {
-    "doi": "10.7937/k9/tcia.2015.nwtesay1",
-    "url": "https://doi.org/10.7937/k9/tcia.2015.nwtesay1",
-    "apa": "Smith, K., Clark, K., Bennett, W. C., Nolan, T., Kirby, J., Wolfsberger, M., Moulton, J., Vendt, B., &amp; Freymann, J. (2015). <i>Data From CT COLONOGRAPHY (ACRIN 6664)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.nwtesay1,\n  doi = {10.7937/K9/TCIA.2015.NWTESAY1},\n  url = {https://www.cancerimagingarchive.net/collection/ct-colonography/},\n  author = {Smith, Kirk and Clark, Kenneth and Bennett, William C. and Nolan, Tracy and Kirby, Justin and Wolfsberger, Mary and Moulton, Joan and Vendt, Bruce and Freymann, John},\n  title = {Data From CT COLONOGRAPHY (ACRIN 6664)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.5281/zenodo.12690008": {
-    "doi": "10.5281/zenodo.12690008",
-    "url": "https://doi.org/10.5281/zenodo.12690008",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LUSC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690008",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690008,\n  doi = {10.5281/ZENODO.12690008},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690008},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LUSC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/c7x1-yn57": {
-    "doi": "10.7937/c7x1-yn57",
-    "url": "https://doi.org/10.7937/c7x1-yn57",
-    "apa": "Daniels, D., Last, D., Cohen, K., Mardor, Y., &amp; Sklair-Levy, M. (2024). <i>Standard and Delayed Contrast-Enhanced MRI of Malignant and Benign Breast Lesions with Histological and Clinical Supporting Data (Advanced-MRI-Breast-Lesions)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/C7X1-YN57",
-    "bibtex": "@misc{https://doi.org/10.7937/c7x1-yn57,\n  doi = {10.7937/C7X1-YN57},\n  url = {https://www.cancerimagingarchive.net/collection/advanced-mri-breast-lesions/},\n  author = {Daniels, Dianne and Last, David and Cohen, Kfir and Mardor, Yael and Sklair-Levy, Miri},\n  title = {Standard and Delayed Contrast-Enhanced MRI of Malignant and Benign Breast Lesions with Histological and Clinical Supporting Data (Advanced-MRI-Breast-Lesions)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.5281/zenodo.12689917": {
-    "doi": "10.5281/zenodo.12689917",
-    "url": "https://doi.org/10.5281/zenodo.12689917",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-SARC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689917",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689917,\n  doi = {10.5281/ZENODO.12689917},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689917},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-SARC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/m0pb-bh69": {
-    "doi": "10.7937/m0pb-bh69",
-    "url": "https://doi.org/10.7937/m0pb-bh69",
-    "apa": "Amirian, M., Bach, M., Jimenez del Toro, O. A., Aberle, C., Schaer, R., Andrearczyk, V., Maestrati, J.-F., Flouris, K., Obmann, M., Dromain, C., Dufour, B., Poletti, P.-A., von Tengg-Kobligk, H., Alkadhi, H., Konukoglu, E., M\u00fcller, H., Stieltjes, B., &amp; Depeursinge, A. (2025). <i>A Multi-Centric Anthropomorphic 3D CT Phantom-Based Benchmark Dataset for Harmonization (CT4Harmonization-Multicentric)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/M0PB-BH69",
-    "bibtex": "@misc{https://doi.org/10.7937/m0pb-bh69,\n  doi = {10.7937/M0PB-BH69},\n  url = {https://www.cancerimagingarchive.net/collection/ct4harmonization-multicentric/},\n  author = {Amirian, Mohammadreza and Bach, Michael and Jimenez del Toro, Oscar Alfonso and Aberle, Christoph and Schaer, Roger and Andrearczyk, Vincent and Maestrati, Jean-F\u00e9lix and Flouris, Kyriakos and Obmann, Markus and Dromain, Clarisse and Dufour, Benoit and Poletti, Pierre-Alexandre and von Tengg-Kobligk, Hendrik and Alkadhi, Hatem and Konukoglu, Ender and M\u00fcller, Henning and Stieltjes, Bram and Depeursinge, Adrien},\n  title = {A Multi-Centric Anthropomorphic 3D CT Phantom-Based Benchmark Dataset for Harmonization (CT4Harmonization-Multicentric)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  "10.5281/zenodo.12690010": {
+    "doi": "10.5281/zenodo.12690010",
+    "url": "https://doi.org/10.5281/zenodo.12690010",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-GBM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690010",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690010,\n  doi = {10.5281/ZENODO.12690010},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690010},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-GBM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9tcia.2017.murs5cl": {
     "doi": "10.7937/k9tcia.2017.murs5cl",
@@ -107,41 +41,11 @@
     "apa": "Litjens, G., Debats, O., Barentsz, J., Karssemeijer, N., &amp; Huisman, H. (2017). <i>SPIE-AAPM PROSTATEx Challenge Data</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9TCIA.2017.MURS5CL",
     "bibtex": "@misc{https://doi.org/10.7937/k9tcia.2017.murs5cl,\n  doi = {10.7937/K9TCIA.2017.MURS5CL},\n  url = {https://www.cancerimagingarchive.net/collection/prostatex/},\n  author = {Litjens, Geert and Debats, Oscar and Barentsz, Jelle and Karssemeijer, Nico and Huisman, Henkjan},\n  title = {SPIE-AAPM PROSTATEx Challenge Data},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
-  "10.7937/2bas-hr33": {
-    "doi": "10.7937/2bas-hr33",
-    "url": "https://doi.org/10.7937/2bas-hr33",
-    "apa": "Comstock, C. E., Gatsonis, C., Newstead, G. M., Snyder, B. S., Gareen, I. F., Bergin, J. T., Rahbar, H., Sung, J. S., Jacobs, C., Harvey, J. A., Nicholson, M. H., Ward, R. C., Holt, J., Prather, A., Miller, K. D., Schnall, M. D., &amp; Kuhl, C. K. (2023). <i>Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/2BAS-HR33",
-    "bibtex": "@misc{https://doi.org/10.7937/2bas-hr33,\n  doi = {10.7937/2BAS-HR33},\n  url = {https://www.cancerimagingarchive.net/collection/ea1141/},\n  author = {Comstock, Christopher E. and Gatsonis, Constantine and Newstead, Gillian M. and Snyder, Bradley S. and Gareen, Ilana F. and Bergin, Jennifer T. and Rahbar, Habib and Sung, Janice S. and Jacobs, Christina and Harvey, Jennifer A. and Nicholson, Mary H. and Ward, Robert C. and Holt, Jacqueline and Prather, Andrew and Miller, Kathy D. and Schnall, Mitchell D. and Kuhl, Christiane K.},\n  title = {Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.7937/dx22-8j71": {
-    "doi": "10.7937/dx22-8j71",
-    "url": "https://doi.org/10.7937/dx22-8j71",
-    "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/DX22-8J71",
-    "bibtex": "@misc{https://doi.org/10.7937/dx22-8j71,\n  doi = {10.7937/DX22-8J71},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-brca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.5281/zenodo.12690037": {
-    "doi": "10.5281/zenodo.12690037",
-    "url": "https://doi.org/10.5281/zenodo.12690037",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-STAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690037",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690037,\n  doi = {10.5281/ZENODO.12690037},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690037},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-STAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
-  },
-  "10.7937/tcia.bbag-2923": {
-    "doi": "10.7937/tcia.bbag-2923",
-    "url": "https://doi.org/10.7937/tcia.bbag-2923",
-    "apa": "Saltz, J., Saltz, M., Prasanna, P., Moffitt, R., Hajagos, J., Bremer, E., Balsamo, J., &amp; Kurc, T. (2021). <i>Stony Brook University COVID-19 Positive Cases</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.BBAG-2923",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.bbag-2923,\n  doi = {10.7937/TCIA.BBAG-2923},\n  url = {https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/},\n  author = {Saltz, Joel and Saltz, Mary and Prasanna, Prateek and Moffitt, Richard and Hajagos, Janos and Bremer, Erich and Balsamo, Joseph and Kurc, Tahsin},\n  title = {Stony Brook University COVID-19 Positive Cases},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.5281/zenodo.11099086": {
-    "doi": "10.5281/zenodo.11099086",
-    "url": "https://doi.org/10.5281/zenodo.11099086",
-    "apa": "Clunie, D., Hawkins, D., Smith, M., Rudzinski, E., Ramirez, N., Thomas, D., Mardis, E., Cottrell, C., Leary, S., Fouladi, M., Shern, J., Venkatramani, R., Laetsch, T., Chen, K., Irwin, M., Clifford, W., Pot, D., Wagner, U., Kim, E., \u2026 Fedorov, A. (2025). <i>CCDI-MCI: DICOM converted whole slide hematoxylin and eosin stained images from the Molecular Characterization Initiative of the National Cancer Institute's Childhood Cancer Data Initiative</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.11099086",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.11099086,\n  doi = {10.5281/ZENODO.11099086},\n  url = {https://zenodo.org/doi/10.5281/zenodo.11099086},\n  author = {Clunie, David and Hawkins, Doug and Smith, Malcolm and Rudzinski, Erin and Ramirez, Nilsa and Thomas, Diana and Mardis, Elaine and Cottrell, Catherine and Leary, Sarah and Fouladi, Maryam and Shern, John and Venkatramani, Rajkumar and Laetsch, Ted and Chen, Kenneth and Irwin, Meredeth and Clifford, William and Pot, David and Wagner, Ulrike and Kim, Erika and Sutton, Granger and Fedorov, Andrey},\n  title = {CCDI-MCI: DICOM converted whole slide hematoxylin and eosin stained images from the Molecular Characterization Initiative of the National Cancer Institute's Childhood Cancer Data Initiative},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
-  "10.7937/e4wt-cd02": {
-    "doi": "10.7937/e4wt-cd02",
-    "url": "https://doi.org/10.7937/e4wt-cd02",
-    "apa": "Buda, M., Saha, A., Walsh, R., Ghate, S., Li, N., Swiecicki, A., Lo, J. Y., Yang, J., &amp; Mazurowski, M. (2020). <i>Breast Cancer Screening - Digital Breast Tomosynthesis (BCS-DBT)</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/E4WT-CD02",
-    "bibtex": "@misc{https://doi.org/10.7937/e4wt-cd02,\n  doi = {10.7937/E4WT-CD02},\n  url = {https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/},\n  author = {Buda, Mateusz and Saha, Ashirbani and Walsh, Ruth and Ghate, Sujata and Li, Nianyi and Swiecicki, Albert and Lo, Joseph Y. and Yang, Jichen and Mazurowski, Maciej},\n  title = {Breast Cancer Screening - Digital Breast Tomosynthesis (BCS-DBT)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution Non Commercial 4.0 International}\n}\n"
+  "10.7937/3kq0-yk19": {
+    "doi": "10.7937/3kq0-yk19",
+    "url": "https://doi.org/10.7937/3kq0-yk19",
+    "apa": "Kalen, J. D., Ileva, L. V., Riffle, L. A., Keita, S., Tatum, J. L., Jacobs, P. M., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Evrard, Y., Clunie, D. A., Miao, T., Wagner, U., Freymann, J., Kirby, J., &amp; Doroshow, J. H. (2023). <i>Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3KQ0-YK19",
+    "bibtex": "@misc{https://doi.org/10.7937/3kq0-yk19,\n  doi = {10.7937/3KQ0-YK19},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-texture-analysis/},\n  author = {Kalen, Joseph D. and Ileva, Lilia V. and Riffle, Lisa A. and Keita, Saito and Tatum, James L. and Jacobs, Paula M. and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda G. and Evrard, Yvonne and Clunie, David A. and Miao, Tianyi and Wagner, Ulrike and Freymann, John and Kirby, Justin and Doroshow, James H.},\n  title = {Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.hmq8-j677": {
     "doi": "10.7937/tcia.hmq8-j677",
@@ -149,22 +53,100 @@
     "apa": "National Lung Screening Trial Research Team. (2013). <i>Data from the National Lung Screening Trial (NLST)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.HMQ8-J677",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.hmq8-j677,\n  doi = {10.7937/TCIA.HMQ8-J677},\n  url = {https://www.cancerimagingarchive.net/collection/nlst/},\n  author = {{National Lung Screening Trial Research Team}},\n  title = {Data from the National Lung Screening Trial (NLST)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2013},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
-  "10.7937/e7kh-r486": {
-    "doi": "10.7937/e7kh-r486",
-    "url": "https://doi.org/10.7937/e7kh-r486",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)</i> (Version 7) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/E7KH-R486",
-    "bibtex": "@misc{https://doi.org/10.7937/e7kh-r486,\n  doi = {10.7937/E7KH-R486},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-gec/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  "10.7937/k9/tcia.2016.8lng8xdr": {
+    "doi": "10.7937/k9/tcia.2016.8lng8xdr",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.8lng8xdr",
+    "apa": "Kirk, S., Lee, Y., Lucchesi, F. R., Aredes, N. D., Gruszauskas, N., Catto, J., Garcia, K., Jarosz, R., Duddalwar, V., Varghese, B., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)</i> (Version 8) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.8lng8xdr,\n  doi = {10.7937/K9/TCIA.2016.8LNG8XDR},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-blca/},\n  author = {Kirk, Shanah and Lee, Yueh and Lucchesi, Fabiano R. and Aredes, Natalia D. and Gruszauskas, Nicholas and Catto, James and Garcia, Kimberly and Jarosz, Rose and Duddalwar, Vinay and Varghese, Bino and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
-  "10.7937/k9/tcia.2018.sc20fo18": {
-    "doi": "10.7937/k9/tcia.2018.sc20fo18",
-    "url": "https://doi.org/10.7937/k9/tcia.2018.sc20fo18",
-    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)</i> (Version 15) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.sc20fo18,\n  doi = {10.7937/K9/TCIA.2018.SC20FO18},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-pda/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  "10.5281/zenodo.12690008": {
+    "doi": "10.5281/zenodo.12690008",
+    "url": "https://doi.org/10.5281/zenodo.12690008",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LUSC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690008",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690008,\n  doi = {10.5281/ZENODO.12690008},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690008},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LUSC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
-  "10.5281/zenodo.12666807": {
-    "doi": "10.5281/zenodo.12666807",
-    "url": "https://doi.org/10.5281/zenodo.12666807",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-LSCC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666807",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666807,\n  doi = {10.5281/ZENODO.12666807},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666807},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-LSCC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  "10.7937/pcte-6m66": {
+    "doi": "10.7937/pcte-6m66",
+    "url": "https://doi.org/10.7937/pcte-6m66",
+    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 7) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
+    "bibtex": "@misc{https://doi.org/10.7937/pcte-6m66,\n  doi = {10.7937/PCTE-6M66},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-aml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689998": {
+    "doi": "10.5281/zenodo.12689998",
+    "url": "https://doi.org/10.5281/zenodo.12689998",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-READ collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689998",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689998,\n  doi = {10.5281/ZENODO.12689998},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689998},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-READ collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/2bas-hr33": {
+    "doi": "10.7937/2bas-hr33",
+    "url": "https://doi.org/10.7937/2bas-hr33",
+    "apa": "Comstock, C. E., Gatsonis, C., Newstead, G. M., Snyder, B. S., Gareen, I. F., Bergin, J. T., Rahbar, H., Sung, J. S., Jacobs, C., Harvey, J. A., Nicholson, M. H., Ward, R. C., Holt, J., Prather, A., Miller, K. D., Schnall, M. D., &amp; Kuhl, C. K. (2023). <i>Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/2BAS-HR33",
+    "bibtex": "@misc{https://doi.org/10.7937/2bas-hr33,\n  doi = {10.7937/2BAS-HR33},\n  url = {https://www.cancerimagingarchive.net/collection/ea1141/},\n  author = {Comstock, Christopher E. and Gatsonis, Constantine and Newstead, Gillian M. and Snyder, Bradley S. and Gareen, Ilana F. and Bergin, Jennifer T. and Rahbar, Habib and Sung, Janice S. and Jacobs, Christina and Harvey, Jennifer A. and Nicholson, Mary H. and Ward, Robert C. and Holt, Jacqueline and Prather, Andrew and Miller, Kathy D. and Schnall, Mitchell D. and Kuhl, Christiane K.},\n  title = {Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.d8z0-9t85": {
+    "doi": "10.7937/tcia.d8z0-9t85",
+    "url": "https://doi.org/10.7937/tcia.d8z0-9t85",
+    "apa": "Li, W., Newitt, D. C., Gibbs, J., Wilmes, L. J., Jones, E. F., Arasu, V. A., Strand, F., Onishi, N., Nguyen, A. A.-T., Kornak, J., Joe, B. N., Price, E. R., Ojeda-Fournier, H., Eghtedari, M., Zamora, K. W., Woodard, S. A., Umphrey, H., Bernreuter, W., Nelson, M., \u2026 Hylton, N. M. (2022). <i>I-SPY 2 Breast Dynamic Contrast Enhanced MRI (I-SPY2 TRIAL)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.D8Z0-9T85",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.d8z0-9t85,\n  doi = {10.7937/TCIA.D8Z0-9T85},\n  url = {https://www.cancerimagingarchive.net/collection/ispy2/},\n  author = {Li, Wen and Newitt, David C. and Gibbs, Jessica and Wilmes, Lisa J. and Jones, Ella F. and Arasu, Vignesh A. and Strand, Fredrik and Onishi, Natsuko and Nguyen, Alex Anh-Tu and Kornak, John and Joe, Bonnie N. and Price, Elissa R. and Ojeda-Fournier, Haydee and Eghtedari, Mohammad and Zamora, Kathryn W. and Woodard, Stefanie A. and Umphrey, Heidi and Bernreuter, Wanda and Nelson, Michael and Church, An Ly and Bolan, Patrick and Kuritza, Theresa and Ward, Kathleen and Morley, Kevin and Wolverton, Dulcy and Fountain, Kelly and Lopez-Paniagua, Dan and Hardesty, Lara and Brandt, Kathy and McDonald, Elizabeth S. and Rosen, Mark and Kontos, Despina and Abe, Hiroyuki and Sheth, Deepa and Crane, Erin P. and Dillis, Charlotte and Sheth, Pulin and Hovanessian-Larsen, Linda and Bang, Dae Hee and Porter, Bruce and Oh, Karen Y. and Jafarian, Neda and Tudorica, Alina and Niell, Bethany L. and Drukteinis, Jennifer and Newell, Mary S. and Cohen, Michael A. and Giurescu, Marina and Berman, Elise and Lehman, Constance and Partridge, Savannah C. and Fitzpatrick, Kimberly A. and Borders, Marisa H. and Yang, Wei T. and Dogan, Basak and Goudreau, Sally and Chenevert, Thomas and Yau, Christina and DeMichele, Angela and Berry, Don and Esserman, Laura J. and Hylton, Nola M.},\n  title = {I-SPY 2 Breast Dynamic Contrast Enhanced MRI (I-SPY2 TRIAL)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2020.a61ioc1a": {
+    "doi": "10.7937/tcia.2020.a61ioc1a",
+    "url": "https://doi.org/10.7937/tcia.2020.a61ioc1a",
+    "apa": "Natarajan, S., Priester, A., Margolis, D., Huang, J., &amp; Marks, L. (2020). <i>Prostate MRI and Ultrasound With Pathology and Coordinates of Tracked Biopsy (Prostate-MRI-US-Biopsy)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.A61IOC1A",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.a61ioc1a,\n  doi = {10.7937/TCIA.2020.A61IOC1A},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-mri-us-biopsy/},\n  author = {Natarajan, Shyam and Priester, Alan and Margolis, Daniel and Huang, Jiaoti and Marks, Leonard},\n  title = {Prostate MRI and Ultrasound With Pathology and Coordinates of Tracked Biopsy (Prostate-MRI-US-Biopsy)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.kk02-6d95": {
+    "doi": "10.7937/tcia.kk02-6d95",
+    "url": "https://doi.org/10.7937/tcia.kk02-6d95",
+    "apa": "Newitt, D. C., Partridge, S. C., Zhang, Z., Gibbs, J., Chenevert, T., Rosen, M., Bolan, P., Marques, H., Romanoff, J., Cimino, L., Joe, B. N., Umphrey, H., Ojeda-Fournier, H., Dogan, B., Oh, K. Y., Abe, H., Drukteinis, J., Esserman, L. J., &amp; Hylton, N. M. (2021). <i>ACRIN 6698/I-SPY2 Breast DWI</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.KK02-6D95",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.kk02-6d95,\n  doi = {10.7937/TCIA.KK02-6D95},\n  url = {https://www.cancerimagingarchive.net/collection/acrin-6698/},\n  author = {Newitt, David C. and Partridge, Savannah C. and Zhang, Zheng and Gibbs, Jessica and Chenevert, Thomas and Rosen, Mark and Bolan, Patrick and Marques, Helga and Romanoff, Justin and Cimino, Lisa and Joe, Bonnie N. and Umphrey, Heidi and Ojeda-Fournier, Haydee and Dogan, Basak and Oh, Karen Y. and Abe, Hiroyuki and Drukteinis, Jennifer and Esserman, Laura J. and Hylton, Nola M.},\n  title = {ACRIN 6698/I-SPY2 Breast DWI},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution Non Commercial 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689948": {
+    "doi": "10.5281/zenodo.12689948",
+    "url": "https://doi.org/10.5281/zenodo.12689948",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LGG collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689948",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689948,\n  doi = {10.5281/ZENODO.12689948},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689948},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LGG collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.eln8ygle": {
+    "doi": "10.7937/k9/tcia.2016.eln8ygle",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.eln8ygle",
+    "apa": "Hugo, G. D., Weiss, E., Sleeman, W. C., Balik, S., Keall, P. J., Lu, J., &amp; Williamson, J. F. (2016). <i>Data from 4D Lung Imaging of NSCLC Patients</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.ELN8YGLE",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.eln8ygle,\n  doi = {10.7937/K9/TCIA.2016.ELN8YGLE},\n  url = {https://www.cancerimagingarchive.net/collection/4d-lung/},\n  author = {Hugo, Geoffrey D. and Weiss, Elisabeth and Sleeman, William C. and Balik, Salim and Keall, Paul J. and Lu, Jun and Williamson, Jeffrey F.},\n  title = {Data from 4D Lung Imaging of NSCLC Patients},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/e4wt-cd02": {
+    "doi": "10.7937/e4wt-cd02",
+    "url": "https://doi.org/10.7937/e4wt-cd02",
+    "apa": "Buda, M., Saha, A., Walsh, R., Ghate, S., Li, N., Swiecicki, A., Lo, J. Y., Yang, J., &amp; Mazurowski, M. (2020). <i>Breast Cancer Screening - Digital Breast Tomosynthesis (BCS-DBT)</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/E4WT-CD02",
+    "bibtex": "@misc{https://doi.org/10.7937/e4wt-cd02,\n  doi = {10.7937/E4WT-CD02},\n  url = {https://www.cancerimagingarchive.net/collection/breast-cancer-screening-dbt/},\n  author = {Buda, Mateusz and Saha, Ashirbani and Walsh, Ruth and Ghate, Sujata and Li, Nianyi and Swiecicki, Albert and Lo, Joseph Y. and Yang, Jichen and Mazurowski, Maciej},\n  title = {Breast Cancer Screening - Digital Breast Tomosynthesis (BCS-DBT)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution Non Commercial 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2019.zjjwb9ip": {
+    "doi": "10.7937/tcia.2019.zjjwb9ip",
+    "url": "https://doi.org/10.7937/tcia.2019.zjjwb9ip",
+    "apa": "Patnana, M., Patel, S., &amp; Tsao, A. S. (2019). <i>Data from Anti-PD-1 Immunotherapy Lung</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.ZJJWB9IP",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.zjjwb9ip,\n  doi = {10.7937/TCIA.2019.ZJJWB9IP},\n  url = {https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/},\n  author = {Patnana, Madhavi and Patel, Sapna and Tsao, Anne S},\n  title = {Data from Anti-PD-1 Immunotherapy Lung},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/3cx3-s132": {
+    "doi": "10.7937/3cx3-s132",
+    "url": "https://doi.org/10.7937/3cx3-s132",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3CX3-S132",
+    "bibtex": "@misc{https://doi.org/10.7937/3cx3-s132,\n  doi = {10.7937/3CX3-S132},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-lca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.bbag-2923": {
+    "doi": "10.7937/tcia.bbag-2923",
+    "url": "https://doi.org/10.7937/tcia.bbag-2923",
+    "apa": "Saltz, J., Saltz, M., Prasanna, P., Moffitt, R., Hajagos, J., Bremer, E., Balsamo, J., &amp; Kurc, T. (2021). <i>Stony Brook University COVID-19 Positive Cases</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.BBAG-2923",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.bbag-2923,\n  doi = {10.7937/TCIA.BBAG-2923},\n  url = {https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/},\n  author = {Saltz, Joel and Saltz, Mary and Prasanna, Prateek and Moffitt, Richard and Hajagos, Janos and Bremer, Erich and Balsamo, Joseph and Kurc, Tahsin},\n  title = {Stony Brook University COVID-19 Positive Cases},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.11099099": {
+    "doi": "10.5281/zenodo.11099099",
+    "url": "https://doi.org/10.5281/zenodo.11099099",
+    "apa": "Clunie, D., GTEx Consortium, Clifford, W., Pot, D., Wagner, U., Kim, E., Sutton, G., &amp; Fedorov, A. (2024). <i>GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.11099099",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.11099099,\n  doi = {10.5281/ZENODO.11099099},\n  url = {https://zenodo.org/doi/10.5281/zenodo.11099099},\n  author = {Clunie, David and {GTEx Consortium} and Clifford, William and Pot, David and Wagner, Ulrike and Kim, Erika and Sutton, Granger and Fedorov, Andrey},\n  title = {GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.709x-dn49": {
+    "doi": "10.7937/tcia.709x-dn49",
+    "url": "https://doi.org/10.7937/tcia.709x-dn49",
+    "apa": "Bakas, S., Sako, C., Akbari, H., Bilello, M., Sotiras, A., Shukla, G., Rudie, J. D., Flores Santamaria, N., Fathi Kazerooni, A., Pati, S., Rathore, S., Mamourian, E., Ha, S. M., Parker, W., Doshi, J., Baid, U., Bergman, M., Binder, Z. A., Verma, R., \u2026 Davatzikos, C. (2021). <i>Multi-parametric magnetic resonance imaging (mpMRI) scans for de novo Glioblastoma (GBM) patients from the University of Pennsylvania Health System (UPENN-GBM)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.709X-DN49",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.709x-dn49,\n  doi = {10.7937/TCIA.709X-DN49},\n  url = {https://www.cancerimagingarchive.net/collection/upenn-gbm/},\n  author = {Bakas, Spyridon and Sako, Chiharu and Akbari, Hamed and Bilello, Michel and Sotiras, Aristeidis and Shukla, Gaurav and Rudie, Jeffrey D. and Flores Santamaria, Natali and Fathi Kazerooni, Anahita and Pati, Sarthak and Rathore, Saima and Mamourian, Elizabeth and Ha, Sung Min and Parker, William and Doshi, Jimit and Baid, Ujjwal and Bergman, Mark and Binder, Zev A. and Verma, Ragini and Lustig, Robert and Desai, Arati and Bagley, Stephen and Mourelatos, Zissimos and Morrissette, Jennifer and Watt, Christopher and Brem, Steven and Wolf, Ronald and Nasrallah, MacLean P. and Mohan, Suyash and O'Rourke, Donald M. and Davatzikos, Christos},\n  title = {Multi-parametric magnetic resonance imaging (mpMRI) scans for de novo Glioblastoma (GBM) patients from the University of Pennsylvania Health System (UPENN-GBM)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }

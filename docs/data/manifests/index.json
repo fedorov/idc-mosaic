@@ -1,13 +1,15 @@
 {
-  "updated": "2026-02-15T06:01:31.562242+00:00",
+  "updated": "2026-02-16T06:11:18.127999+00:00",
   "manifests": {
     "ct": [
       "manifests/ct/2026-02-14.json",
-      "manifests/ct/2026-02-15.json"
+      "manifests/ct/2026-02-15.json",
+      "manifests/ct/2026-02-16.json"
     ],
     "diverse": [
       "manifests/diverse/2026-02-14.json",
-      "manifests/diverse/2026-02-15.json"
+      "manifests/diverse/2026-02-15.json",
+      "manifests/diverse/2026-02-16.json"
     ]
   }
 }
