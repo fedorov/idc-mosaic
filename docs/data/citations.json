@@ -364,5 +364,35 @@
     "url": "https://doi.org/10.5281/zenodo.8347011",
     "apa": "Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D., &amp; Fedorov, A. (2024). <i>TotalSegmentator-CT-Segmentations: TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.8347011",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.8347011,\n  doi = {10.5281/ZENODO.8347011},\n  url = {https://zenodo.org/doi/10.5281/zenodo.8347011},\n  author = {Thiriveedhi, Vamsi Krishna and Krishnaswamy, Deepa and Clunie, David and Fedorov, Andrey},\n  title = {TotalSegmentator-CT-Segmentations: TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9tcia.2017.sgw7caqw": {
+    "doi": "10.7937/k9tcia.2017.sgw7caqw",
+    "url": "https://doi.org/10.7937/k9tcia.2017.sgw7caqw",
+    "apa": "Jansen, S., &amp; Van Dyke, T. (2017). <i>TCIA Mouse-Astrocytoma Collection</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9TCIA.2017.SGW7CAQW",
+    "bibtex": "@misc{https://doi.org/10.7937/k9tcia.2017.sgw7caqw,\n  doi = {10.7937/K9TCIA.2017.SGW7CAQW},\n  url = {https://www.cancerimagingarchive.net/collection/mouse-astrocytoma/},\n  author = {Jansen, Sunny and Van Dyke, Terry},\n  title = {TCIA Mouse-Astrocytoma Collection},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690041": {
+    "doi": "10.5281/zenodo.12690041",
+    "url": "https://doi.org/10.5281/zenodo.12690041",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UVM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690041",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690041,\n  doi = {10.5281/ZENODO.12690041},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690041},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-UVM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690045": {
+    "doi": "10.5281/zenodo.12690045",
+    "url": "https://doi.org/10.5281/zenodo.12690045",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-BLCA collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690045",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690045,\n  doi = {10.5281/ZENODO.12690045},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690045},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-BLCA collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/vtw4-x588": {
+    "doi": "10.7937/vtw4-x588",
+    "url": "https://doi.org/10.7937/vtw4-x588",
+    "apa": "Tsai, E., Simpson, S., Lungren, M. P., Hershman, M., Roshkovan, L., Colak, E., Erickson, B. J., Shih, G., Stein, A., Kalpathy-Cramer, J., Shen, J., Hafez, M. A. F., John, S., Rajiah, P., Pogatchnik, B. P., Mongan, J. T., Altinmakas, E., Ranschaert, E., Kitamura, F. C., \u2026 Wu, C. C. (2020). <i>Medical Imaging Data Resource Center - RSNA International COVID Radiology Database Release 1a - Chest CT Covid+ (MIDRC-RICORD-1a)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/VTW4-X588",
+    "bibtex": "@misc{https://doi.org/10.7937/vtw4-x588,\n  doi = {10.7937/VTW4-X588},\n  url = {https://www.cancerimagingarchive.net/collection/midrc-ricord-1a/},\n  author = {Tsai, Emily and Simpson, Scott and Lungren, Matthew P. and Hershman, Michelle and Roshkovan, Leonid and Colak, Errol and Erickson, Bradley J. and Shih, George and Stein, Anouk and Kalpathy-Cramer, Jayashree and Shen, Jody and Hafez, Mona A.F. and John, Susan and Rajiah, Prabhakar and Pogatchnik, Brian P. and Mongan, John Thomas and Altinmakas, Emre and Ranschaert, Erik and Kitamura, Felipe Campos and Topff, Laurens and Moy, Linda and Kanne, Jeffrey P. and Wu, Carol C.},\n  title = {Medical Imaging Data Resource Center - RSNA International COVID Radiology Database Release 1a - Chest CT Covid+ (MIDRC-RICORD-1a)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution Non Commercial 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689952": {
+    "doi": "10.5281/zenodo.12689952",
+    "url": "https://doi.org/10.5281/zenodo.12689952",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-KIRC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689952",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689952,\n  doi = {10.5281/ZENODO.12689952},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689952},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-KIRC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
