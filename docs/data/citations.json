@@ -394,5 +394,47 @@
     "url": "https://doi.org/10.5281/zenodo.12689952",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-KIRC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689952",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689952,\n  doi = {10.5281/ZENODO.12689952},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689952},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-KIRC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.orbjkmux": {
+    "doi": "10.7937/k9/tcia.2015.orbjkmux",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.orbjkmux",
+    "apa": "Gavrielides, M. A., Kinnard, L. M., Myers, K. J., Peregoy, J., Pritchard, W. F., Zeng, R., Esparza, J., Karanian, J., &amp; Petrick, N. (2015). <i>Data From Phantom FDA</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.ORBJKMUX",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.orbjkmux,\n  doi = {10.7937/K9/TCIA.2015.ORBJKMUX},\n  url = {https://www.cancerimagingarchive.net/collection/phantom-fda/},\n  author = {Gavrielides, Marios A and Kinnard, Lisa M and Myers, Kyle J and Peregoy, Jenifer and Pritchard, William F and Zeng, Rongping and Esparza, Juan and Karanian, John and Petrick, Nicholas},\n  title = {Data From Phantom FDA},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution Non Commercial 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.0eck-c338": {
+    "doi": "10.7937/tcia.0eck-c338",
+    "url": "https://doi.org/10.7937/tcia.0eck-c338",
+    "apa": "Tatum, J., Kalen, J., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Jacobs, P., Sanders, C., James, A., Difilippantonio, S., Thang, L., hollingshead, melinda, Phillips, J., Evrard, Y., Clunie, D., Yanling, Smith, K., Wagner, U., Freymann, J., \u2026 Doroshow, J. (2020). <i>Imaging tissue characterization of a patient derived xenograft model of adenocarcinoma pancreas: PDMR-833975-119-R</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.0ECK-C338",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.0eck-c338,\n  doi = {10.7937/TCIA.0ECK-C338},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-833975-119-r/},\n  author = {Tatum, James and Kalen, Joseph and Ileva, lilia and Riffle, Lisa and Keita, Saito and Patel, Nimit and Jacobs, Paula and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and hollingshead, melinda and Phillips, Jessica and Evrard, Yvonne and Clunie, David and {Yanling} and Smith, Kirk and Wagner, Ulrike and Freymann, John and Kirby, Justin and Doroshow, James},\n  title = {Imaging tissue characterization of a patient derived xenograft model of adenocarcinoma pancreas: PDMR-833975-119-R},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690002": {
+    "doi": "10.5281/zenodo.12690002",
+    "url": "https://doi.org/10.5281/zenodo.12690002",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LIHC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690002",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690002,\n  doi = {10.5281/ZENODO.12690002},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690002},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LIHC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.gkj0zwac": {
+    "doi": "10.7937/k9/tcia.2016.gkj0zwac",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.gkj0zwac",
+    "apa": "Erickson, B. J., Mutch, D., Lippmann, L., &amp; Jarosz, R. (2016). <i>The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma Collection (TCGA-UCEC)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.gkj0zwac,\n  doi = {10.7937/K9/TCIA.2016.GKJ0ZWAC},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-ucec/},\n  author = {Erickson, Bradley J. and Mutch, David and Lippmann, Lynne and Jarosz, Rose},\n  title = {The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma Collection (TCGA-UCEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2018.oblamn27": {
+    "doi": "10.7937/k9/tcia.2018.oblamn27",
+    "url": "https://doi.org/10.7937/k9/tcia.2018.oblamn27",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)</i> (Version 14) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.oblamn27,\n  doi = {10.7937/K9/TCIA.2018.OBLAMN27},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ccrcc/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.e3sv-re93": {
+    "doi": "10.7937/tcia.e3sv-re93",
+    "url": "https://doi.org/10.7937/tcia.e3sv-re93",
+    "apa": "Saha, A., Harowicz, M. R., Grimm, L. J., Weng, J., Cain, E. H., Kim, C. E., Ghate, S. V., Walsh, R., &amp; Mazurowski, M. A. (2021). <i>Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.E3SV-RE93",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.e3sv-re93,\n  doi = {10.7937/TCIA.E3SV-RE93},\n  url = {https://www.cancerimagingarchive.net/collection/duke-breast-cancer-mri/},\n  author = {Saha, Ashirbani and Harowicz, Michael R. and Grimm, Lars J. and Weng, Jingxi and Cain, E. H. and Kim, C. E. and Ghate, S. V. and Walsh, R. and Mazurowski, Maciej A.},\n  title = {Dynamic contrast-enhanced magnetic resonance images of breast cancer patients with tumor locations},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution Non Commercial 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689915": {
+    "doi": "10.5281/zenodo.12689915",
+    "url": "https://doi.org/10.5281/zenodo.12689915",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LUAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689915",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689915,\n  doi = {10.5281/ZENODO.12689915},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689915},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LUAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
