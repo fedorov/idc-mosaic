@@ -436,5 +436,41 @@
     "url": "https://doi.org/10.5281/zenodo.12689915",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LUAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689915",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689915,\n  doi = {10.5281/ZENODO.12689915},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689915},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LUAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.sdnrqxxr": {
+    "doi": "10.7937/k9/tcia.2015.sdnrqxxr",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.sdnrqxxr",
+    "apa": "Bloch, B. N., Jain, A., &amp; jaffe, conrade carl. (2015). <i>Data From BREAST-DIAGNOSIS</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.sdnrqxxr,\n  doi = {10.7937/K9/TCIA.2015.SDNRQXXR},\n  url = {https://www.cancerimagingarchive.net/collection/breast-diagnosis/},\n  author = {Bloch, B. Nicolas and Jain, Ashali and jaffe, conrade carl},\n  title = {Data From BREAST-DIAGNOSIS},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.eqde-4b16": {
+    "doi": "10.7937/tcia.eqde-4b16",
+    "url": "https://doi.org/10.7937/tcia.eqde-4b16",
+    "apa": "Cui, C., Li, L., Cai, H., Fan, Z., Zhang, L., Dan, T., Li, J., &amp; Wang, J. (2021). <i>The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.EQDE-4B16",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.eqde-4b16,\n  doi = {10.7937/TCIA.EQDE-4B16},\n  url = {https://www.cancerimagingarchive.net/collection/cmmd/},\n  author = {Cui, Chunyan and Li, Li and Cai, Hongmin and Fan, Zhihao and Zhang, Ling and Dan, Tingting and Li, Jiao and Wang, Jinghua},\n  title = {The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.svqt-q016": {
+    "doi": "10.7937/tcia.svqt-q016",
+    "url": "https://doi.org/10.7937/tcia.svqt-q016",
+    "apa": "Amin, S. B., Anderson, K. J., Boudreau, C. E., Martinez-Ledesma, E., Kocakavuk, E., Johnson, K. C., Barthel, F. P., Varn, F. S., Kassab, C., Ling, X., Kim, H., Barter, M., Lau, C. C., Yee Ngan, C., Chapman, M., Koehler, J. W., Miller, A. D., Long, J. P., Miller, C. R., \u2026 Verhaak, R. G. W. (2020). <i>Canine glioma characterization project for ICDC (ICDC-Glioma) 01</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.SVQT-Q016",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.svqt-q016,\n  doi = {10.7937/TCIA.SVQT-Q016},\n  url = {https://www.cancerimagingarchive.net/collection/icdc-glioma/},\n  author = {Amin, Samirkumar B. and Anderson, Kevin J. and Boudreau, C. Elizabeth and Martinez-Ledesma, Emmanuel and Kocakavuk, Emre and Johnson, Kevin C. and Barthel, Floris P. and Varn, Frederick S. and Kassab, Cynthia and Ling, Xiaoyang and Kim, Hoon and Barter, Mary and Lau, Ching C. and Yee Ngan, Chew and Chapman, Margaret and Koehler, Jennifer W. and Miller, Andrew D. and Long, James P. and Miller, C. Ryan and Porter, Brian F. and Rissi, Daniel R. and Mazcko, Christina and LeBlanc, Amy K. and Dickinson, Peter J. and Packer, Rebecca A. and Taylor, Amanda R. and Rossmeisl Jr., John H. and Woolard, Kevin D. and Heimberger, Amy B. and Levine, Jonathan M. and Verhaak, Roel G.W.},\n  title = {Canine glioma characterization project for ICDC (ICDC-Glioma) 01},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.yxoglm4y": {
+    "doi": "10.7937/k9/tcia.2016.yxoglm4y",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.yxoglm4y",
+    "apa": "Zuley, M. L., Jarosz, R., Drake, B. F., Rancilio, D., Klim, A., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Prostate Adenocarcinoma Collection (TCGA-PRAD)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.yxoglm4y,\n  doi = {10.7937/K9/TCIA.2016.YXOGLM4Y},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-prad/},\n  author = {Zuley, Margarita L. and Jarosz, Rose and Drake, Bettina F. and Rancilio, Danielle and Klim, Aleksandra and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Prostate Adenocarcinoma Collection (TCGA-PRAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689966": {
+    "doi": "10.5281/zenodo.12689966",
+    "url": "https://doi.org/10.5281/zenodo.12689966",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-MESO collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689966",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689966,\n  doi = {10.5281/ZENODO.12689966},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689966},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-MESO collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.isoqthko": {
+    "doi": "10.7937/k9/tcia.2015.isoqthko",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.isoqthko",
+    "apa": "Kurdziel, K. A., Apolo, A. B., Lindenberg, L., Mena, E., McKinney, Y. Y., Adler, S. S., Turkbey, B., Dahut, W., Gulley, J. L., Madan, R. A., Landgren, O., &amp; Choyke, P. L. (2015). <i>Data From NaF PROSTATE</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.ISOQTHKO",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.isoqthko,\n  doi = {10.7937/K9/TCIA.2015.ISOQTHKO},\n  url = {https://www.cancerimagingarchive.net/collection/naf-prostate/},\n  author = {Kurdziel, Karen A and Apolo, Andrea B. and Lindenberg, Liza and Mena, Esther and McKinney, Yolanda Y. and Adler, Stephen S. and Turkbey, Baris and Dahut, William and Gulley, James L. and Madan, Ravi A. and Landgren, Ola and Choyke, Peter L.},\n  title = {Data From NaF PROSTATE},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
