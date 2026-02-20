@@ -472,5 +472,23 @@
     "url": "https://doi.org/10.7937/k9/tcia.2015.isoqthko",
     "apa": "Kurdziel, K. A., Apolo, A. B., Lindenberg, L., Mena, E., McKinney, Y. Y., Adler, S. S., Turkbey, B., Dahut, W., Gulley, J. L., Madan, R. A., Landgren, O., &amp; Choyke, P. L. (2015). <i>Data From NaF PROSTATE</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.ISOQTHKO",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.isoqthko,\n  doi = {10.7937/K9/TCIA.2015.ISOQTHKO},\n  url = {https://www.cancerimagingarchive.net/collection/naf-prostate/},\n  author = {Kurdziel, Karen A and Apolo, Andrea B. and Lindenberg, Liza and Mena, Esther and McKinney, Yolanda Y. and Adler, Stephen S. and Turkbey, Baris and Dahut, William and Gulley, James L. and Madan, Ravi A. and Landgren, Ola and Choyke, Peter L.},\n  title = {Data From NaF PROSTATE},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12666813": {
+    "doi": "10.5281/zenodo.12666813",
+    "url": "https://doi.org/10.5281/zenodo.12666813",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-LUAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666813",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666813,\n  doi = {10.5281/ZENODO.12666813},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666813},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-LUAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.2019.j71i4fah": {
+    "doi": "10.7937/tcia.2019.j71i4fah",
+    "url": "https://doi.org/10.7937/tcia.2019.j71i4fah",
+    "apa": "Ger, R., Zhou, S., Chi, P.-C., Lee, H., Layman, R. R., Jones, K., Goff, D., Cardenas, C., Fuller, C., Howell, R., Li, H., Stafford, J., Court, L., &amp; Mackin, D. (2019). <i>Data from CT Phantom Scans for Head, Chest, and Controlled Protocols on 100 Scanners (CC-Radiomics-Phantom-3)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.J71I4FAH",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.j71i4fah,\n  doi = {10.7937/TCIA.2019.J71I4FAH},\n  url = {https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom-3/},\n  author = {Ger, Rachel and Zhou, Shouhao and Chi, Pai-Chun and Lee, Hannah and Layman, Rick R and Jones, Kyle and Goff, David and Cardenas, Carlos and Fuller, Clifton and Howell, Rebecca and Li, Heng and Stafford, Jason and Court, Laurence and Mackin, Dennis},\n  title = {Data from CT Phantom Scans for Head, Chest, and Controlled Protocols on 100 Scanners (CC-Radiomics-Phantom-3)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689956": {
+    "doi": "10.5281/zenodo.12689956",
+    "url": "https://doi.org/10.5281/zenodo.12689956",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CESC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689956",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689956,\n  doi = {10.5281/ZENODO.12689956},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689956},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-CESC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
