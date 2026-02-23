@@ -502,5 +502,23 @@
     "url": "https://doi.org/10.5281/zenodo.12690033",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-HNSC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690033",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690033,\n  doi = {10.5281/ZENODO.12690033},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690033},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-HNSC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/qstf-st65": {
+    "doi": "10.7937/qstf-st65",
+    "url": "https://doi.org/10.7937/qstf-st65",
+    "apa": "Thompson, R. F., Kanwar, A., Merz, B., Cohen, E., Fisher, H., Rana, S., Claunch, C., &amp; Hung, A. (2023). <i>Stress-Testing Pelvic Autosegmentation Algorithms Using Anatomical Edge Cases (Prostate-Anatomical-Edge-Cases)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/QSTF-ST65",
+    "bibtex": "@misc{https://doi.org/10.7937/qstf-st65,\n  doi = {10.7937/QSTF-ST65},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-anatomical-edge-cases/},\n  author = {Thompson, Reid F. and Kanwar, Aasheesh and Merz, Brandon and Cohen, Ethan and Fisher, Helen and Rana, Shushan and Claunch, Cheryl and Hung, Arthur},\n  title = {Stress-Testing Pelvic Autosegmentation Algorithms Using Anatomical Edge Cases (Prostate-Anatomical-Edge-Cases)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.vptnrgfy": {
+    "doi": "10.7937/k9/tcia.2016.vptnrgfy",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.vptnrgfy",
+    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Esophageal Carcinoma Collection (TCGA-ESCA)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.vptnrgfy,\n  doi = {10.7937/K9/TCIA.2016.VPTNRGFY},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-esca/},\n  author = {Lucchesi, Fabiano R. and Aredes, Nat\u00e1lia D.},\n  title = {The Cancer Genome Atlas Esophageal Carcinoma Collection (TCGA-ESCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.immqw8uq": {
+    "doi": "10.7937/k9/tcia.2016.immqw8uq",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.immqw8uq",
+    "apa": "Erickson, B. J., Kirk, S., Lee, Y., Bathe, O., Kearns, M., Gerdes, C., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Liver Hepatocellular Carcinoma Collection (TCGA-LIHC)</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.immqw8uq,\n  doi = {10.7937/K9/TCIA.2016.IMMQW8UQ},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-lihc/},\n  author = {Erickson, Bradley J. and Kirk, Shanah and Lee, Yueh and Bathe, Oliver and Kearns, Melissa and Gerdes, Cindy and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Liver Hepatocellular Carcinoma Collection (TCGA-LIHC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
