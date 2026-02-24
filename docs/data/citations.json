@@ -520,5 +520,29 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.immqw8uq",
     "apa": "Erickson, B. J., Kirk, S., Lee, Y., Bathe, O., Kearns, M., Gerdes, C., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Liver Hepatocellular Carcinoma Collection (TCGA-LIHC)</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.IMMQW8UQ",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.immqw8uq,\n  doi = {10.7937/K9/TCIA.2016.IMMQW8UQ},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-lihc/},\n  author = {Erickson, Bradley J. and Kirk, Shanah and Lee, Yueh and Bathe, Oliver and Kearns, Melissa and Gerdes, Cindy and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Liver Hepatocellular Carcinoma Collection (TCGA-LIHC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/3rag-d070": {
+    "doi": "10.7937/3rag-d070",
+    "url": "https://doi.org/10.7937/3rag-d070",
+    "apa": "Juvekar, P., Dorent, R., K\u00f6gl, F., Torio, E., Barr, C., Rigolo, L., Galvin, C., Jowkar, N., Kazi, A., Haouchine, N., Cheema, H., Navab, N., Pieper, S., Wells, W. M., Bi, W. L., Golby, A., Frisken, S., &amp; Kapur, T. (2023). <i>The Brain Resection Multimodal Imaging Database (ReMIND)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3RAG-D070",
+    "bibtex": "@misc{https://doi.org/10.7937/3rag-d070,\n  doi = {10.7937/3RAG-D070},\n  url = {https://www.cancerimagingarchive.net/collection/remind/},\n  author = {Juvekar, Parikshit and Dorent, Reuben and K\u00f6gl, Fryderyk and Torio, Erickson and Barr, Colton and Rigolo, Laura and Galvin, Colin and Jowkar, Nick and Kazi, Anees and Haouchine, Nazim and Cheema, Harneet and Navab, Nassir and Pieper, Steve and Wells, William M. and Bi, Wenya Linda and Golby, Alexandra and Frisken, Sarah and Kapur, Tina},\n  title = {The Brain Resection Multimodal Imaging Database (ReMIND)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.pf0m9rei": {
+    "doi": "10.7937/k9/tcia.2015.pf0m9rei",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.pf0m9rei",
+    "apa": "Aerts, H. J. W. L., Wee, L., Rios Velazquez, E., Leijenaar, R. T. H., Parmar, C., Grossmann, P., Carvalho, S., Bussink, J., Monshouwer, R., Haibe-Kains, B., Rietveld, D., Hoebers, F., Rietbergen, M. M., Leemans, C. R., Dekker, A., Quackenbush, J., Gillies, R. J., &amp; Lambin, P. (2019). <i>Data From NSCLC-Radiomics</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.PF0M9REI",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.pf0m9rei,\n  doi = {10.7937/K9/TCIA.2015.PF0M9REI},\n  url = {https://www.cancerimagingarchive.net/collection/nsclc-radiomics/},\n  author = {Aerts, Hugo J. W. L. and Wee, Leonard and Rios Velazquez, Emmanuel and Leijenaar, Ralph T. H. and Parmar, Chintan and Grossmann, Patrick and Carvalho, Sara and Bussink, Johan and Monshouwer, Ren and Haibe-Kains, Benjamin and Rietveld, Derek and Hoebers, Frank and Rietbergen, Michelle M. and Leemans, C. Ren and Dekker, Andre and Quackenbush, John and Gillies, Robert J. and Lambin, Philippe},\n  title = {Data From NSCLC-Radiomics},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution Non Commercial 3.0 Unported}\n}\n"
+  },
+  "10.7937/25t7-6y12": {
+    "doi": "10.7937/25t7-6y12",
+    "url": "https://doi.org/10.7937/25t7-6y12",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/25T7-6Y12",
+    "bibtex": "@misc{https://doi.org/10.7937/25t7-6y12,\n  doi = {10.7937/25T7-6Y12},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-pca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2019.ix49e8nx": {
+    "doi": "10.7937/tcia.2019.ix49e8nx",
+    "url": "https://doi.org/10.7937/tcia.2019.ix49e8nx",
+    "apa": "Heller, N., Sathianathen, N., Kalapara, A., Walczak, E., Moore, K., Kaluzniak, H., Rosenberg, J., Blake, P., Rengel, Z., Oestreich, M., Dean, J., Tradewell, M., Shah, A., Tejpaul, R., Edgerton, Z., Peterson, M., Raza, S., Regmi, S., Papanikolopoulos, N., &amp; Weight, C. (2019). <i>C4KC KiTS Challenge Kidney Tumor Segmentation Dataset</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.IX49E8NX",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.ix49e8nx,\n  doi = {10.7937/TCIA.2019.IX49E8NX},\n  url = {https://www.cancerimagingarchive.net/collection/c4kc-kits/},\n  author = {Heller, Nicholas and Sathianathen, Niranjan and Kalapara, Arveen and Walczak, Edward and Moore, Keenan and Kaluzniak, Heather and Rosenberg, Joel and Blake, Paul and Rengel, Zachary and Oestreich, Makinna and Dean, Joshua and Tradewell, Michael and Shah, Aneri and Tejpaul, Resha and Edgerton, Zachary and Peterson, Matthew and Raza, Shaneabbas and Regmi, Subodh and Papanikolopoulos, Nikolaos and Weight, Christopher},\n  title = {C4KC KiTS Challenge Kidney Tumor Segmentation Dataset},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
