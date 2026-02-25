@@ -544,5 +544,29 @@
     "url": "https://doi.org/10.7937/tcia.2019.ix49e8nx",
     "apa": "Heller, N., Sathianathen, N., Kalapara, A., Walczak, E., Moore, K., Kaluzniak, H., Rosenberg, J., Blake, P., Rengel, Z., Oestreich, M., Dean, J., Tradewell, M., Shah, A., Tejpaul, R., Edgerton, Z., Peterson, M., Raza, S., Regmi, S., Papanikolopoulos, N., &amp; Weight, C. (2019). <i>C4KC KiTS Challenge Kidney Tumor Segmentation Dataset</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.IX49E8NX",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.ix49e8nx,\n  doi = {10.7937/TCIA.2019.IX49E8NX},\n  url = {https://www.cancerimagingarchive.net/collection/c4kc-kits/},\n  author = {Heller, Nicholas and Sathianathen, Niranjan and Kalapara, Arveen and Walczak, Edward and Moore, Keenan and Kaluzniak, Heather and Rosenberg, Joel and Blake, Paul and Rengel, Zachary and Oestreich, Makinna and Dean, Joshua and Tradewell, Michael and Shah, Aneri and Tejpaul, Resha and Edgerton, Zachary and Peterson, Matthew and Raza, Shaneabbas and Regmi, Subodh and Papanikolopoulos, Nikolaos and Weight, Christopher},\n  title = {C4KC KiTS Challenge Kidney Tumor Segmentation Dataset},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2014.a2n1ixox": {
+    "doi": "10.7937/k9/tcia.2014.a2n1ixox",
+    "url": "https://doi.org/10.7937/k9/tcia.2014.a2n1ixox",
+    "apa": "Huang, W., Tudorica, A., Chui, S., Kemmer, K., Naik, A., Troxell, M., Oh, K., Roy, N., Afzal, A., &amp; Holtorf, M. (2014). <i>Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge (QIN Breast DCE-MRI)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2014.a2n1ixox,\n  doi = {10.7937/K9/TCIA.2014.A2N1IXOX},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast-dce-mri/},\n  author = {Huang, Wei and Tudorica, Alina and Chui, Stephen and Kemmer, Kathleen and Naik, Arpana and Troxell, Megan and Oh, Karen and Roy, Nicole and Afzal, Aneela and Holtorf, Megan},\n  title = {Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge (QIN Breast DCE-MRI)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2014},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/erz5-qz59": {
+    "doi": "10.7937/erz5-qz59",
+    "url": "https://doi.org/10.7937/erz5-qz59",
+    "apa": "Mayr, N., Yuh, W. T. C., Bowen, S., Harkenrider, M., Knopp, M. V., Lee, E. Y.-P., Leung, E., Lo, S. S., Small Jr., W., &amp; Wolfson, A. H. (2023). <i>Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/ERZ5-QZ59",
+    "bibtex": "@misc{https://doi.org/10.7937/erz5-qz59,\n  doi = {10.7937/ERZ5-QZ59},\n  url = {https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/},\n  author = {Mayr, Nina and Yuh, William T.C. and Bowen, Stephen and Harkenrider, Matthew and Knopp, Michael V. and Lee, Elaine Yuen-Phin and Leung, Eric and Lo, Simon S. and Small Jr., William and Wolfson, Aaron H.},\n  title = {Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2019.4cfm06rr": {
+    "doi": "10.7937/tcia.2019.4cfm06rr",
+    "url": "https://doi.org/10.7937/tcia.2019.4cfm06rr",
+    "apa": "Yankeelov, T. E., Karczmar, G. S., &amp; Abramson, R. G. (2019). <i>Data from QIN-BREAST-02</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.4CFM06RR",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.4cfm06rr,\n  doi = {10.7937/TCIA.2019.4CFM06RR},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast-02/},\n  author = {Yankeelov, Thomas E. and Karczmar, Gregory S. and Abramson, Richard G.},\n  title = {Data from QIN-BREAST-02},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {NIH Controlled Data Access Policy}\n}\n"
+  },
+  "10.5281/zenodo.12666865": {
+    "doi": "10.5281/zenodo.12666865",
+    "url": "https://doi.org/10.5281/zenodo.12666865",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-UCEC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666865",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666865,\n  doi = {10.5281/ZENODO.12666865},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666865},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-UCEC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
