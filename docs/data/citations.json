@@ -568,5 +568,23 @@
     "url": "https://doi.org/10.5281/zenodo.12666865",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-UCEC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666865",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666865,\n  doi = {10.5281/ZENODO.12666865},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666865},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-UCEC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690035": {
+    "doi": "10.5281/zenodo.12690035",
+    "url": "https://doi.org/10.5281/zenodo.12690035",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-ACC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690035",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690035,\n  doi = {10.5281/ZENODO.12690035},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690035},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-ACC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.jgnihep5": {
+    "doi": "10.7937/k9/tcia.2016.jgnihep5",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.jgnihep5",
+    "apa": "Albertina, B., Watson, M., Holback, C., Jarosz, R., Kirk, S., Lee, Y., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Lung Adenocarcinoma Collection (TCGA-LUAD)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.jgnihep5,\n  doi = {10.7937/K9/TCIA.2016.JGNIHEP5},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-luad/},\n  author = {Albertina, Brad and Watson, Mark and Holback, Chandra and Jarosz, Rose and Kirk, Shanah and Lee, Yueh and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Lung Adenocarcinoma Collection (TCGA-LUAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689972": {
+    "doi": "10.5281/zenodo.12689972",
+    "url": "https://doi.org/10.5281/zenodo.12689972",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PAAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689972",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689972,\n  doi = {10.5281/ZENODO.12689972},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689972},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-PAAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
