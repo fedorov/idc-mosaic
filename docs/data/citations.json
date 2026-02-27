@@ -586,5 +586,11 @@
     "url": "https://doi.org/10.5281/zenodo.12689972",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PAAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689972",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689972,\n  doi = {10.5281/ZENODO.12689972},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689972},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-PAAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.21juebh0": {
+    "doi": "10.7937/k9/tcia.2016.21juebh0",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.21juebh0",
+    "apa": "Li, X., Abramson, R. G., Arlinghaus, L. R., Chakravarthy, A. B., Abramson, V. G., Sanders, M., &amp; Yankeelov, T. E. (2016). <i>Data From QIN-Breast</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.21JUEBH0",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.21juebh0,\n  doi = {10.7937/K9/TCIA.2016.21JUEBH0},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast/},\n  author = {Li, Xia and Abramson, Richard G. and Arlinghaus, Lori R. and Chakravarthy, Anuradha B. and Abramson, Vandana G. and Sanders, Melinda and Yankeelov, Thomas E.},\n  title = {Data From QIN-Breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
