@@ -592,5 +592,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.21juebh0",
     "apa": "Li, X., Abramson, R. G., Arlinghaus, L. R., Chakravarthy, A. B., Abramson, V. G., Sanders, M., &amp; Yankeelov, T. E. (2016). <i>Data From QIN-Breast</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.21JUEBH0",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.21juebh0,\n  doi = {10.7937/K9/TCIA.2016.21JUEBH0},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast/},\n  author = {Li, Xia and Abramson, Richard G. and Arlinghaus, Lori R. and Chakravarthy, Anuradha B. and Abramson, Vandana G. and Sanders, Melinda and Yankeelov, Thomas E.},\n  title = {Data From QIN-Breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.tygkkfmq": {
+    "doi": "10.7937/k9/tcia.2016.tygkkfmq",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.tygkkfmq",
+    "apa": "Kirk, S., Lee, Y., Kumar, P., Filippini, J., Albertina, B., Watson, M., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Lung Squamous Cell Carcinoma Collection (TCGA-LUSC)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.tygkkfmq,\n  doi = {10.7937/K9/TCIA.2016.TYGKKFMQ},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-lusc/},\n  author = {Kirk, Shanahv and Lee, Yueh and Kumar, Prasanna and Filippini, Joe and Albertina, Brad and Watson, Mark and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Lung Squamous Cell Carcinoma Collection (TCGA-LUSC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }

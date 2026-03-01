@@ -1,14 +1,14 @@
 {
-  "10.7937/tcia.hmq8-j677": {
-    "doi": "10.7937/tcia.hmq8-j677",
-    "url": "https://doi.org/10.7937/tcia.hmq8-j677",
-    "apa": "National Lung Screening Trial Research Team. (2013). <i>Data from the National Lung Screening Trial (NLST)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.HMQ8-J677",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.hmq8-j677,\n  doi = {10.7937/TCIA.HMQ8-J677},\n  url = {https://www.cancerimagingarchive.net/collection/nlst/},\n  author = {{National Lung Screening Trial Research Team}},\n  title = {Data from the National Lung Screening Trial (NLST)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2013},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
-  },
   "10.5281/zenodo.8347011": {
     "doi": "10.5281/zenodo.8347011",
     "url": "https://doi.org/10.5281/zenodo.8347011",
     "apa": "Thiriveedhi, V. K., Krishnaswamy, D., Clunie, D., &amp; Fedorov, A. (2024). <i>TotalSegmentator-CT-Segmentations: TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.8347011",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.8347011,\n  doi = {10.5281/ZENODO.8347011},\n  url = {https://zenodo.org/doi/10.5281/zenodo.8347011},\n  author = {Thiriveedhi, Vamsi Krishna and Krishnaswamy, Deepa and Clunie, David and Fedorov, Andrey},\n  title = {TotalSegmentator-CT-Segmentations: TotalSegmentator segmentations and radiomics features for NCI Imaging Data Commons CT images},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.hmq8-j677": {
+    "doi": "10.7937/tcia.hmq8-j677",
+    "url": "https://doi.org/10.7937/tcia.hmq8-j677",
+    "apa": "National Lung Screening Trial Research Team. (2013). <i>Data from the National Lung Screening Trial (NLST)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.HMQ8-J677",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.hmq8-j677,\n  doi = {10.7937/TCIA.HMQ8-J677},\n  url = {https://www.cancerimagingarchive.net/collection/nlst/},\n  author = {{National Lung Screening Trial Research Team}},\n  title = {Data from the National Lung Screening Trial (NLST)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2013},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
