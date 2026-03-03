@@ -610,5 +610,17 @@
     "url": "https://doi.org/10.5281/zenodo.13993769",
     "apa": "Clunie, D. (2025). <i>CMB-CRC: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Colorectal Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993769",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993769,\n  doi = {10.5281/ZENODO.13993769},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993769},\n  author = {Clunie, David},\n  title = {CMB-CRC: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Colorectal Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/1fpg-vm46": {
+    "doi": "10.7937/1fpg-vm46",
+    "url": "https://doi.org/10.7937/1fpg-vm46",
+    "apa": "Moawad, A. W., Ahmed, A. A., ElMohr, M., Eltaher, M., Habra, M. A., Fisher, S., Perrier, N., Zhang, M., Fuentes, D., &amp; Elsayes, K. (2023). <i>Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression (Adrenal-ACC-Ki67-Seg)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/1FPG-VM46",
+    "bibtex": "@misc{https://doi.org/10.7937/1fpg-vm46,\n  doi = {10.7937/1FPG-VM46},\n  url = {https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/},\n  author = {Moawad, Ahmed W. and Ahmed, Ayahallah A. and ElMohr, Mohab and Eltaher, Mohamed and Habra, Mouhammed Amir and Fisher, Sarah and Perrier, Nancy and Zhang, Miao and Fuentes, David and Elsayes, Khaled},\n  title = {Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression (Adrenal-ACC-Ki67-Seg)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2021.v4z7-tc39": {
+    "doi": "10.7937/tcia.2021.v4z7-tc39",
+    "url": "https://doi.org/10.7937/tcia.2021.v4z7-tc39",
+    "apa": "Eisenbrey, J., Lyshchik, A., &amp; Wessner, C. (2021). <i>Ultrasound data of a variety of liver masses</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2021.V4Z7-TC39",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2021.v4z7-tc39,\n  doi = {10.7937/TCIA.2021.V4Z7-TC39},\n  url = {https://www.cancerimagingarchive.net/collection/b-mode-and-ceus-liver/},\n  author = {Eisenbrey, John and Lyshchik, Andrej and Wessner, Corinne},\n  title = {Ultrasound data of a variety of liver masses},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
