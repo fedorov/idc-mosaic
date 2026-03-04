@@ -622,5 +622,35 @@
     "url": "https://doi.org/10.7937/tcia.2021.v4z7-tc39",
     "apa": "Eisenbrey, J., Lyshchik, A., &amp; Wessner, C. (2021). <i>Ultrasound data of a variety of liver masses</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2021.V4Z7-TC39",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2021.v4z7-tc39,\n  doi = {10.7937/TCIA.2021.V4Z7-TC39},\n  url = {https://www.cancerimagingarchive.net/collection/b-mode-and-ceus-liver/},\n  author = {Eisenbrey, John and Lyshchik, Andrej and Wessner, Corinne},\n  title = {Ultrasound data of a variety of liver masses},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/djg7-gz87": {
+    "doi": "10.7937/djg7-gz87",
+    "url": "https://doi.org/10.7937/djg7-gz87",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)</i> (Version 9) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/DJG7-GZ87",
+    "bibtex": "@misc{https://doi.org/10.7937/djg7-gz87,\n  doi = {10.7937/DJG7-GZ87},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-crc/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689913": {
+    "doi": "10.5281/zenodo.12689913",
+    "url": "https://doi.org/10.5281/zenodo.12689913",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-THYM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689913",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689913,\n  doi = {10.5281/ZENODO.12689913},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689913},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-THYM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.ndo1mdfq": {
+    "doi": "10.7937/k9/tcia.2016.ndo1mdfq",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.ndo1mdfq",
+    "apa": "Holback, C., Jarosz, R., Prior, F., Mutch, D. G., Bhosale, P., Garcia, K., Lee, Y., Kirk, S., Sadow, C. A., Levine, S., Sala, E., Elnajjar, P., Morgan, T., &amp; Erickson, B. J. (2016). <i>The Cancer Genome Atlas Ovarian Cancer Collection (TCGA-OV)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.ndo1mdfq,\n  doi = {10.7937/K9/TCIA.2016.NDO1MDFQ},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-ov/},\n  author = {Holback, Chandra and Jarosz, Rose and Prior, Fred and Mutch, David G. and Bhosale, Priya and Garcia, Kimberly and Lee, Yueh and Kirk, Shanah and Sadow, Cheryl A. and Levine, Seth and Sala, Evis and Elnajjar, Pierre and Morgan, Tara and Erickson, Bradley J.},\n  title = {The Cancer Genome Atlas Ovarian Cancer Collection (TCGA-OV)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689650": {
+    "doi": "10.5281/zenodo.12689650",
+    "url": "https://doi.org/10.5281/zenodo.12689650",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2025). <i>DICOM converted Slide Microscopy images for the NLST collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689650",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689650,\n  doi = {10.5281/ZENODO.12689650},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689650},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the NLST collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.9p42kse6": {
+    "doi": "10.7937/k9/tcia.2015.9p42kse6",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.9p42kse6",
+    "apa": "Jansen, S., Ileva, L., Lu, L., &amp; Van Dyke, T. (2015). <i>TCIA Mouse-Mammary Collection</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.9P42KSE6",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.9p42kse6,\n  doi = {10.7937/K9/TCIA.2015.9P42KSE6},\n  url = {https://www.cancerimagingarchive.net/collection/mouse-mammary/},\n  author = {Jansen, Sunny and Ileva, Lilia and Lu, Lucy and Van Dyke, Terry},\n  title = {TCIA Mouse-Mammary Collection},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
