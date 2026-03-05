@@ -652,5 +652,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2015.9p42kse6",
     "apa": "Jansen, S., Ileva, L., Lu, L., &amp; Van Dyke, T. (2015). <i>TCIA Mouse-Mammary Collection</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.9P42KSE6",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.9p42kse6,\n  doi = {10.7937/K9/TCIA.2015.9P42KSE6},\n  url = {https://www.cancerimagingarchive.net/collection/mouse-mammary/},\n  author = {Jansen, Sunny and Ileva, Lilia and Lu, Lucy and Van Dyke, Terry},\n  title = {TCIA Mouse-Mammary Collection},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689995": {
+    "doi": "10.5281/zenodo.12689995",
+    "url": "https://doi.org/10.5281/zenodo.12689995",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-TGCT collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689995",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689995,\n  doi = {10.5281/ZENODO.12689995},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689995},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-TGCT collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
