@@ -670,5 +670,11 @@
     "url": "https://doi.org/10.7937/qvaz-ja09",
     "apa": "Idris, T., Somarouthu, S., Jacene, H., LaCasce, A., Ziegler, E., Pieper, S., Khajavi, R., Dorent, R., Pujol, S., Kikinis, R., &amp; Harris, G. (2024). <i>Mediastinal Lymph Node Quantification (LNQ): Segmentation of Heterogeneous CT Data</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/QVAZ-JA09",
     "bibtex": "@misc{https://doi.org/10.7937/qvaz-ja09,\n  doi = {10.7937/QVAZ-JA09},\n  url = {https://cancerimagingarchive.net/collection/mediastinal-lymph-node-seg/},\n  author = {Idris, Tagwa and Somarouthu, Supriya and Jacene, Heather and LaCasce, A and Ziegler, Erik and Pieper, Steve and Khajavi, Roya and Dorent, Reuben and Pujol, Sonia and Kikinis, Ron and Harris, Gordon},\n  title = {Mediastinal Lymph Node Quantification (LNQ): Segmentation of Heterogeneous CT Data},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12666784": {
+    "doi": "10.5281/zenodo.12666784",
+    "url": "https://doi.org/10.5281/zenodo.12666784",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-COAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666784",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666784,\n  doi = {10.5281/ZENODO.12666784},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666784},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-COAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
