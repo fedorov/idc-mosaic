@@ -676,5 +676,23 @@
     "url": "https://doi.org/10.5281/zenodo.12666784",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-COAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666784",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666784,\n  doi = {10.5281/ZENODO.12666784},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666784},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-COAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.rmv0-9y95": {
+    "doi": "10.7937/tcia.rmv0-9y95",
+    "url": "https://doi.org/10.7937/tcia.rmv0-9y95",
+    "apa": "Zhao, B., Li, Q., Liang, Y., Yang, H., Gavrielides, M. A., Schwartz, L. H., Sullivan, D. C., &amp; Petrick, N. A. (2021). <i>QIBA Anthropomorphic Abdominal Phantom CT Scans</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.RMV0-9Y95",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.rmv0-9y95,\n  doi = {10.7937/TCIA.RMV0-9Y95},\n  url = {https://www.cancerimagingarchive.net/collection/qiba-ct-liver-phantom/},\n  author = {Zhao, Binsheng and Li, Qin and Liang, Yongguang and Yang, Hao and Gavrielides, Marios A. and Schwartz, Lawrence H. and Sullivan, Daniel C. and Petrick, Nicholas A.},\n  title = {QIBA Anthropomorphic Abdominal Phantom CT Scans},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12690012": {
+    "doi": "10.5281/zenodo.12690012",
+    "url": "https://doi.org/10.5281/zenodo.12690012",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-ESCA collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690012",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690012,\n  doi = {10.5281/ZENODO.12690012},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690012},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-ESCA collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.aqiidcnm": {
+    "doi": "10.7937/k9/tcia.2015.aqiidcnm",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.aqiidcnm",
+    "apa": "Roth, H., Lu, L., Seff, A., Cherry, K. M., Hoffman, J., Wang, S., Liu, J., Turkbey, E., &amp; Summers, R. M. (2015). <i>A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.aqiidcnm,\n  doi = {10.7937/K9/TCIA.2015.AQIIDCNM},\n  url = {https://www.cancerimagingarchive.net/collection/ct-lymph-nodes/},\n  author = {Roth, Holger and Lu, Le and Seff, Ari and Cherry, Kevin M and Hoffman, Joanne and Wang, Shijun and Liu, Jiamin and Turkbey, Evrim and Summers, Ronald M.},\n  title = {A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
