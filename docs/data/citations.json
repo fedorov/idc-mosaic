@@ -694,5 +694,17 @@
     "url": "https://doi.org/10.7937/k9/tcia.2015.aqiidcnm",
     "apa": "Roth, H., Lu, L., Seff, A., Cherry, K. M., Hoffman, J., Wang, S., Liu, J., Turkbey, E., &amp; Summers, R. M. (2015). <i>A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.aqiidcnm,\n  doi = {10.7937/K9/TCIA.2015.AQIIDCNM},\n  url = {https://www.cancerimagingarchive.net/collection/ct-lymph-nodes/},\n  author = {Roth, Holger and Lu, Le and Seff, Ari and Cherry, Kevin M and Hoffman, Joanne and Wang, Shijun and Liu, Jiamin and Turkbey, Evrim and Summers, Ronald M.},\n  title = {A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.2019.9bt23r95": {
+    "doi": "10.7937/tcia.2019.9bt23r95",
+    "url": "https://doi.org/10.7937/tcia.2019.9bt23r95",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2019). <i>The Clinical Proteomic Tumor Analysis Consortium Sarcomas Collection (CPTAC-SAR)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.9BT23R95",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.9bt23r95,\n  doi = {10.7937/TCIA.2019.9BT23R95},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-sar/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Sarcomas Collection (CPTAC-SAR)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/4nx6-e061": {
+    "doi": "10.7937/4nx6-e061",
+    "url": "https://doi.org/10.7937/4nx6-e061",
+    "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Ovarian Carcinoma Cancer Collection (CMB-OV)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/4NX6-E061",
+    "bibtex": "@misc{https://doi.org/10.7937/4nx6-e061,\n  doi = {10.7937/4NX6-E061},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-ov/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Ovarian Carcinoma Cancer Collection (CMB-OV)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
