@@ -706,5 +706,17 @@
     "url": "https://doi.org/10.7937/4nx6-e061",
     "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Ovarian Carcinoma Cancer Collection (CMB-OV)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/4NX6-E061",
     "bibtex": "@misc{https://doi.org/10.7937/4nx6-e061,\n  doi = {10.7937/4NX6-E061},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-ov/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Ovarian Carcinoma Cancer Collection (CMB-OV)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2020.py71-5978": {
+    "doi": "10.7937/tcia.2020.py71-5978",
+    "url": "https://doi.org/10.7937/tcia.2020.py71-5978",
+    "apa": "Desai, S., Baghal, A., Wongsurawat, T., Al-Shukri, S., Gates, K., Farmer, P., Rutherford, M., Blake, G. D., Nolan, T., Powell, T., Sexton, K., Bennett, W., &amp; Prior, F. (2020). <i>Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19 Positive Population</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.PY71-5978",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.py71-5978,\n  doi = {10.7937/TCIA.2020.PY71-5978},\n  url = {https://www.cancerimagingarchive.net/collection/covid-19-ar/},\n  author = {Desai, Shivang and Baghal, Ahmad and Wongsurawat, Thidathip and Al-Shukri, Shaymaa and Gates, Kim and Farmer, Phillip and Rutherford, Michael and Blake, Geri D. and Nolan, Tracy and Powell, Thomas and Sexton, Kevin and Bennett, William and Prior, Fred},\n  title = {Chest Imaging with Clinical and Genomic Correlates Representing a Rural COVID-19 Positive Population},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/qxk2-qg03": {
+    "doi": "10.7937/qxk2-qg03",
+    "url": "https://doi.org/10.7937/qxk2-qg03",
+    "apa": "Simpson, A. L., Peoples, J., Creasy, J. M., Fichtinger, G., Gangai, N., Lasso, A., Keshava Murthy, K. N., Shia, J., D'Angelica, M. I., &amp; Do, R. K. G. (2023). <i>Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/QXK2-QG03",
+    "bibtex": "@misc{https://doi.org/10.7937/qxk2-qg03,\n  doi = {10.7937/QXK2-QG03},\n  url = {https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/},\n  author = {Simpson, Amber L. and Peoples, Jacob and Creasy, John M. and Fichtinger, Gabor and Gangai, Natalie and Lasso, Andras and Keshava Murthy, Krishna Nand and Shia, Jinru and D'Angelica, Michael I. and Do, Richard K. G.},\n  title = {Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
