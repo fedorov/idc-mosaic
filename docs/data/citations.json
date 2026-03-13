@@ -111,7 +111,7 @@
     "doi": "10.7937/k9/tcia.2018.3r3juisw",
     "url": "https://doi.org/10.7937/k9/tcia.2018.3r3juisw",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2019). <i>The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC)</i> (Version 13) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.3r3juisw,\n  doi = {10.7937/K9/TCIA.2018.3R3JUISW},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ucec/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.3r3juisw,\n  doi = {10.7937/K9/TCIA.2018.3R3JUISW},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ucec/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/pcte-6m66": {
     "doi": "10.7937/pcte-6m66",
@@ -718,5 +718,11 @@
     "url": "https://doi.org/10.7937/qxk2-qg03",
     "apa": "Simpson, A. L., Peoples, J., Creasy, J. M., Fichtinger, G., Gangai, N., Lasso, A., Keshava Murthy, K. N., Shia, J., D'Angelica, M. I., &amp; Do, R. K. G. (2023). <i>Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/QXK2-QG03",
     "bibtex": "@misc{https://doi.org/10.7937/qxk2-qg03,\n  doi = {10.7937/QXK2-QG03},\n  url = {https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/},\n  author = {Simpson, Amber L. and Peoples, Jacob and Creasy, John M. and Fichtinger, Gabor and Gangai, Natalie and Lasso, Andras and Keshava Murthy, Krishna Nand and Shia, Jinru and D'Angelica, Michael I. and Do, Richard K. G.},\n  title = {Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.5fna-0924": {
+    "doi": "10.7937/tcia.5fna-0924",
+    "url": "https://doi.org/10.7937/tcia.5fna-0924",
+    "apa": "Moawad, A. W., Fuentes, D., Morshid, A., Khalaf, A. M., Elmohr, M. M., Abusaif, A., Hazle, J. D., Kaseb, A. O., Hassan, M., Mahvash, A., Szklaruk, J., Qayyom, A., &amp; Elsayes, K. (2021). <i>Multimodality annotated HCC cases with and without advanced imaging segmentation</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.5FNA-0924",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.5fna-0924,\n  doi = {10.7937/TCIA.5FNA-0924},\n  url = {https://www.cancerimagingarchive.net/collection/hcc-tace-seg/},\n  author = {Moawad, Ahmed W. and Fuentes, David and Morshid, Ali and Khalaf, Ahmed M. and Elmohr, Mohab M. and Abusaif, Abdelrahman and Hazle, John D. and Kaseb, Ahmed O. and Hassan, Manal and Mahvash, Armeen and Szklaruk, Janio and Qayyom, Aliyya and Elsayes, Khaled},\n  title = {Multimodality annotated HCC cases with and without advanced imaging segmentation},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
