@@ -724,5 +724,17 @@
     "url": "https://doi.org/10.7937/tcia.5fna-0924",
     "apa": "Moawad, A. W., Fuentes, D., Morshid, A., Khalaf, A. M., Elmohr, M. M., Abusaif, A., Hazle, J. D., Kaseb, A. O., Hassan, M., Mahvash, A., Szklaruk, J., Qayyom, A., &amp; Elsayes, K. (2021). <i>Multimodality annotated HCC cases with and without advanced imaging segmentation</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.5FNA-0924",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.5fna-0924,\n  doi = {10.7937/TCIA.5FNA-0924},\n  url = {https://www.cancerimagingarchive.net/collection/hcc-tace-seg/},\n  author = {Moawad, Ahmed W. and Fuentes, David and Morshid, Ali and Khalaf, Ahmed M. and Elmohr, Mohab M. and Abusaif, Abdelrahman and Hazle, John D. and Kaseb, Ahmed O. and Hassan, Manal and Mahvash, Armeen and Szklaruk, Janio and Qayyom, Aliyya and Elsayes, Khaled},\n  title = {Multimodality annotated HCC cases with and without advanced imaging segmentation},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12666803": {
+    "doi": "10.5281/zenodo.12666803",
+    "url": "https://doi.org/10.5281/zenodo.12666803",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-HNSCC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666803",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666803,\n  doi = {10.5281/ZENODO.12666803},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666803},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-HNSCC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689990": {
+    "doi": "10.5281/zenodo.12689990",
+    "url": "https://doi.org/10.5281/zenodo.12689990",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CHOL collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689990",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689990,\n  doi = {10.5281/ZENODO.12689990},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689990},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-CHOL collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
