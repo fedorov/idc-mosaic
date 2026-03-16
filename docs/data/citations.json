@@ -736,5 +736,17 @@
     "url": "https://doi.org/10.5281/zenodo.12689990",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CHOL collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689990",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689990,\n  doi = {10.5281/ZENODO.12689990},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689990},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-CHOL collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.2019.4l24tz5g": {
+    "doi": "10.7937/tcia.2019.4l24tz5g",
+    "url": "https://doi.org/10.7937/tcia.2019.4l24tz5g",
+    "apa": "Shafiq ul Hassan, M., Zhang, G., Latifi, K., Ullah, G., Gillies, R., &amp; Moros, E. (2019). <i>Credence Cartridge Radiomics Phantom CT Scans with Controlled Scanning Approach</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.4L24TZ5G",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.4l24tz5g,\n  doi = {10.7937/TCIA.2019.4L24TZ5G},\n  url = {https://www.cancerimagingarchive.net/collection/cc-radiomics-phantom-2/},\n  author = {Shafiq ul Hassan, Muhammad and Zhang, Geoffrey and Latifi, Kujtim and Ullah, Ghanim and Gillies, Robert and Moros, Eduardo},\n  title = {Credence Cartridge Radiomics Phantom CT Scans with Controlled Scanning Approach},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.tnb1kqbu": {
+    "doi": "10.7937/k9/tcia.2016.tnb1kqbu",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.tnb1kqbu",
+    "apa": "Roth, H., Farag, A., Turkbey, E. B., Lu, L., Liu, J., &amp; Summers, R. M. (2016). <i>Data From Pancreas-CT</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TNB1KQBU",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.tnb1kqbu,\n  doi = {10.7937/K9/TCIA.2016.TNB1KQBU},\n  url = {https://www.cancerimagingarchive.net/collection/pancreas-ct/},\n  author = {Roth, Holger and Farag, Amal and Turkbey, Evrim B. and Lu, Le and Liu, Jiamin and Summers, Ronald M.},\n  title = {Data From Pancreas-CT},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
