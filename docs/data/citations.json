@@ -423,7 +423,7 @@
     "doi": "10.7937/k9/tcia.2018.oblamn27",
     "url": "https://doi.org/10.7937/k9/tcia.2018.oblamn27",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)</i> (Version 14) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.oblamn27,\n  doi = {10.7937/K9/TCIA.2018.OBLAMN27},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ccrcc/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.oblamn27,\n  doi = {10.7937/K9/TCIA.2018.OBLAMN27},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ccrcc/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.e3sv-re93": {
     "doi": "10.7937/tcia.e3sv-re93",
@@ -748,5 +748,35 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.tnb1kqbu",
     "apa": "Roth, H., Farag, A., Turkbey, E. B., Lu, L., Liu, J., &amp; Summers, R. M. (2016). <i>Data From Pancreas-CT</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TNB1KQBU",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.tnb1kqbu,\n  doi = {10.7937/K9/TCIA.2016.TNB1KQBU},\n  url = {https://www.cancerimagingarchive.net/collection/pancreas-ct/},\n  author = {Roth, Holger and Farag, Amal and Turkbey, Evrim B. and Lu, Le and Liu, Jiamin and Summers, Ronald M.},\n  title = {Data From Pancreas-CT},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/gwsp-wh72": {
+    "doi": "10.7937/gwsp-wh72",
+    "url": "https://doi.org/10.7937/gwsp-wh72",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/GWSP-WH72",
+    "bibtex": "@misc{https://doi.org/10.7937/gwsp-wh72,\n  doi = {10.7937/GWSP-WH72},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-mel/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2018.6emub5l2": {
+    "doi": "10.7937/k9/tcia.2018.6emub5l2",
+    "url": "https://doi.org/10.7937/k9/tcia.2018.6emub5l2",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Squamous Cell Carcinoma Collection (CPTAC-LSCC)</i> (Version 15) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.6emub5l2,\n  doi = {10.7937/K9/TCIA.2018.6EMUB5L2},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-lscc/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Lung Squamous Cell Carcinoma Collection (CPTAC-LSCC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2020.7yrs-7j97": {
+    "doi": "10.7937/tcia.2020.7yrs-7j97",
+    "url": "https://doi.org/10.7937/tcia.2020.7yrs-7j97",
+    "apa": "Tatum, J. L., Kalen, J. D., Jacobs, P. M., Ileva, L. V., Riffle, L. A., Keita, S., Patel, N., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Phillips, J., Edmondson, E., Evrard, Y., Clunie, D. A., Liu, Y., Smith, K. E., Wagner, U., \u2026 Doroshow, J. H. (2020). <i>Imaging characterization of a metastatic patient derived model of melanoma: PDMR-425362-245-T</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.7YRS-7J97",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.7yrs-7j97,\n  doi = {10.7937/TCIA.2020.7YRS-7J97},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-425362-245-t/},\n  author = {Tatum, James L. and Kalen, Joseph D. and Jacobs, Paula M. and Ileva, Lilia V. and Riffle, Lisa A. and Keita, Saito and Patel, Nimit and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda G. and Phillips, Jessica and Edmondson, Elijah and Evrard, Yvonne and Clunie, David A. and Liu, Yanling and Smith, Kirk E. and Wagner, Ulrike and Freymann, John B. and Kirby, Justin and Doroshow, James H.},\n  title = {Imaging characterization of a metastatic patient derived model of melanoma: PDMR-425362-245-T},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12666862": {
+    "doi": "10.5281/zenodo.12666862",
+    "url": "https://doi.org/10.5281/zenodo.12666862",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-SAR collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666862",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666862,\n  doi = {10.5281/ZENODO.12666862},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666862},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-SAR collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.x0h0-1706": {
+    "doi": "10.7937/tcia.x0h0-1706",
+    "url": "https://doi.org/10.7937/tcia.x0h0-1706",
+    "apa": "Jordan, P., Adamson, P. M., Bhattbhatt, V., Beriwal, S., Shen, S., Radermecker, O., Bose, S., Strain, L. S., Offe, M., Fraley, D., Principi, S., Ye, D. H., Wang, A. S., Van Heteren, J., Vo, N.-J., &amp; Schmidt, T. G. (2021). <i>Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.X0H0-1706",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.x0h0-1706,\n  doi = {10.7937/TCIA.X0H0-1706},\n  url = {https://www.cancerimagingarchive.net/collection/pediatric-ct-seg/},\n  author = {Jordan, Petr and Adamson, Philip M. and Bhattbhatt, Vrunda and Beriwal, Surabhi and Shen, Sangyu and Radermecker, Oskar and Bose, Supratik and Strain, Linda S. and Offe, Michael and Fraley, David and Principi, Sara and Ye, Dong Hye and Wang, Adam S. and Van Heteren, John and Vo, Nghia-Jack and Schmidt, Taly Gilat},\n  title = {Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
