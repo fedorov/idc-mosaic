@@ -778,5 +778,11 @@
     "url": "https://doi.org/10.7937/tcia.x0h0-1706",
     "apa": "Jordan, P., Adamson, P. M., Bhattbhatt, V., Beriwal, S., Shen, S., Radermecker, O., Bose, S., Strain, L. S., Offe, M., Fraley, D., Principi, S., Ye, D. H., Wang, A. S., Van Heteren, J., Vo, N.-J., &amp; Schmidt, T. G. (2021). <i>Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.X0H0-1706",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.x0h0-1706,\n  doi = {10.7937/TCIA.X0H0-1706},\n  url = {https://www.cancerimagingarchive.net/collection/pediatric-ct-seg/},\n  author = {Jordan, Petr and Adamson, Philip M. and Bhattbhatt, Vrunda and Beriwal, Surabhi and Shen, Sangyu and Radermecker, Oskar and Bose, Supratik and Strain, Linda S. and Offe, Michael and Fraley, David and Principi, Sara and Ye, Dong Hye and Wang, Adam S. and Van Heteren, John and Vo, Nghia-Jack and Schmidt, Taly Gilat},\n  title = {Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12690000": {
+    "doi": "10.5281/zenodo.12690000",
+    "url": "https://doi.org/10.5281/zenodo.12690000",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the ICDC-Glioma collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690000",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690000,\n  doi = {10.5281/ZENODO.12690000},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690000},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the ICDC-Glioma collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
