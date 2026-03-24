@@ -802,5 +802,11 @@
     "url": "https://doi.org/10.7937/tcia.eshq-4d90",
     "apa": "Hong, J., Reyngold, M., Crane, C., Cuaron, J., Hajj, C., Mann, J., Zinovoy, M., Yorke, E., LoCastro, E., Apte, A. P., &amp; Mageras, G. (2021). <i>Breath-hold CT and cone-beam CT images with expert manual organ-at-risk segmentations from radiation treatments of locally advanced pancreatic cancer (Pancreatic-CT-CBCT-SEG)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.ESHQ-4D90",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.eshq-4d90,\n  doi = {10.7937/TCIA.ESHQ-4D90},\n  url = {https://www.cancerimagingarchive.net/collection/pancreatic-ct-cbct-seg/},\n  author = {Hong, Jun and Reyngold, Marsha and Crane, Christopher and Cuaron, John and Hajj, Carla and Mann, Justin and Zinovoy, Melissa and Yorke, Ellen and LoCastro, Eve and Apte, Aditya P. and Mageras, Gig},\n  title = {Breath-hold CT and cone-beam CT images with expert manual organ-at-risk segmentations from radiation treatments of locally advanced pancreatic cancer (Pancreatic-CT-CBCT-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2018.pat12tbs": {
+    "doi": "10.7937/k9/tcia.2018.pat12tbs",
+    "url": "https://doi.org/10.7937/k9/tcia.2018.pat12tbs",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)</i> (Version 13) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.pat12tbs,\n  doi = {10.7937/K9/TCIA.2018.PAT12TBS},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-luad/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
