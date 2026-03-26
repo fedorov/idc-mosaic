@@ -808,5 +808,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2018.pat12tbs",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)</i> (Version 13) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.pat12tbs,\n  doi = {10.7937/K9/TCIA.2018.PAT12TBS},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-luad/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.14933087": {
+    "doi": "10.5281/zenodo.14933087",
+    "url": "https://doi.org/10.5281/zenodo.14933087",
+    "apa": "H\u00f6fener, H., Kock, F., Pontones, M. A., Ghete, T., Pfrang, D., Dickel, N., Kunz, M., Schacherer, D., Clunie, D. A., Fedorov, A., Westphal, M., &amp; Metzler, M. (2025). <i>BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.14933087",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.14933087,\n  doi = {10.5281/ZENODO.14933087},\n  url = {https://zenodo.org/doi/10.5281/zenodo.14933087},\n  author = {H\u00f6fener, Henning and Kock, Farina and Pontones, Martina Ayel\u00e9n and Ghete, Tabita and Pfrang, David and Dickel, Nicholas and Kunz, Meik and Schacherer, Daniela and Clunie, David A and Fedorov, Andrey and Westphal, Max and Metzler, Markus},\n  title = {BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
