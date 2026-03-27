@@ -814,5 +814,11 @@
     "url": "https://doi.org/10.5281/zenodo.14933087",
     "apa": "H\u00f6fener, H., Kock, F., Pontones, M. A., Ghete, T., Pfrang, D., Dickel, N., Kunz, M., Schacherer, D., Clunie, D. A., Fedorov, A., Westphal, M., &amp; Metzler, M. (2025). <i>BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.14933087",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.14933087,\n  doi = {10.5281/ZENODO.14933087},\n  url = {https://zenodo.org/doi/10.5281/zenodo.14933087},\n  author = {H\u00f6fener, Henning and Kock, Farina and Pontones, Martina Ayel\u00e9n and Ghete, Tabita and Pfrang, David and Dickel, Nicholas and Kunz, Meik and Schacherer, Daniela and Clunie, David A and Fedorov, Andrey and Westphal, Max and Metzler, Markus},\n  title = {BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.f7ppnpnu": {
+    "doi": "10.7937/k9/tcia.2016.f7ppnpnu",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.f7ppnpnu",
+    "apa": "Kirk, S., Lee, Y., Sadow, C. A., &amp; Levine, S. (2016). <i>The Cancer Genome Atlas Rectum Adenocarcinoma Collection (TCGA-READ)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.f7ppnpnu,\n  doi = {10.7937/K9/TCIA.2016.F7PPNPNU},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-read/},\n  author = {Kirk, Shanah and Lee, Yueh and Sadow, Cheryl A. and Levine, Seth},\n  title = {The Cancer Genome Atlas Rectum Adenocarcinoma Collection (TCGA-READ)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
