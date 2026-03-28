@@ -820,5 +820,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.f7ppnpnu",
     "apa": "Kirk, S., Lee, Y., Sadow, C. A., &amp; Levine, S. (2016). <i>The Cancer Genome Atlas Rectum Adenocarcinoma Collection (TCGA-READ)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.F7PPNPNU",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.f7ppnpnu,\n  doi = {10.7937/K9/TCIA.2016.F7PPNPNU},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-read/},\n  author = {Kirk, Shanah and Lee, Yueh and Sadow, Cheryl A. and Levine, Seth},\n  title = {The Cancer Genome Atlas Rectum Adenocarcinoma Collection (TCGA-READ)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/q37d-vh79": {
+    "doi": "10.7937/q37d-vh79",
+    "url": "https://doi.org/10.7937/q37d-vh79",
+    "apa": "Tatum, J., Kalen, J., Jacobs, P., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M., Evrard, Y., Edmondson, E., Clunie, D., Liu, Y., Suloway, C., Smith, K., Wagner, U., \u2026 Doroshow, J. (2022). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/Q37D-VH79",
+    "bibtex": "@misc{https://doi.org/10.7937/q37d-vh79,\n  doi = {10.7937/Q37D-VH79},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-521955-158-r4/},\n  author = {Tatum, James and Kalen, Joseph and Jacobs, Paula and Ileva, lilia and Riffle, Lisa and Keita, Saito and Patel, Nimit and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda and Evrard, Yvonne and Edmondson, Elijah and Clunie, David and Liu, Yanling and Suloway, Christian and Smith, Kirk and Wagner, Ulrike and Freymann, John B. and Kirby, Justin and Doroshow, James},\n  title = {Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
