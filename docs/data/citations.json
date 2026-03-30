@@ -267,7 +267,7 @@
     "doi": "10.7937/k9/tcia.2018.sc20fo18",
     "url": "https://doi.org/10.7937/k9/tcia.2018.sc20fo18",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)</i> (Version 15) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.sc20fo18,\n  doi = {10.7937/K9/TCIA.2018.SC20FO18},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-pda/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.sc20fo18,\n  doi = {10.7937/K9/TCIA.2018.SC20FO18},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-pda/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666807": {
     "doi": "10.5281/zenodo.12666807",
@@ -826,5 +826,11 @@
     "url": "https://doi.org/10.7937/q37d-vh79",
     "apa": "Tatum, J., Kalen, J., Jacobs, P., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M., Evrard, Y., Edmondson, E., Clunie, D., Liu, Y., Suloway, C., Smith, K., Wagner, U., \u2026 Doroshow, J. (2022). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/Q37D-VH79",
     "bibtex": "@misc{https://doi.org/10.7937/q37d-vh79,\n  doi = {10.7937/Q37D-VH79},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-521955-158-r4/},\n  author = {Tatum, James and Kalen, Joseph and Jacobs, Paula and Ileva, lilia and Riffle, Lisa and Keita, Saito and Patel, Nimit and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda and Evrard, Yvonne and Edmondson, Elijah and Clunie, David and Liu, Yanling and Suloway, Christian and Smith, Kirk and Wagner, Ulrike and Freymann, John B. and Kirby, Justin and Doroshow, James},\n  title = {Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2020.rmwvzwix": {
+    "doi": "10.7937/tcia.2020.rmwvzwix",
+    "url": "https://doi.org/10.7937/tcia.2020.rmwvzwix",
+    "apa": "Semmineh, N. B., Stokes, A. M., Bell, L. C., Boxerman, J. L., &amp; Quarles, C. C. (2020). <i>GBM-DSC-MRI-DRO</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.RMWVZWIX",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.rmwvzwix,\n  doi = {10.7937/TCIA.2020.RMWVZWIX},\n  url = {https://www.cancerimagingarchive.net/collection/gbm-dsc-mri-dro/},\n  author = {Semmineh, Natenael B. and Stokes, Ashley M. and Bell, Laura C. and Boxerman, Jerrold L. and Quarles, C. Chad},\n  title = {GBM-DSC-MRI-DRO},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
