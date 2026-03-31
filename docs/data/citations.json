@@ -699,7 +699,7 @@
     "doi": "10.7937/tcia.2019.9bt23r95",
     "url": "https://doi.org/10.7937/tcia.2019.9bt23r95",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2019). <i>The Clinical Proteomic Tumor Analysis Consortium Sarcomas Collection (CPTAC-SAR)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.9BT23R95",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.9bt23r95,\n  doi = {10.7937/TCIA.2019.9BT23R95},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-sar/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Sarcomas Collection (CPTAC-SAR)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.9bt23r95,\n  doi = {10.7937/TCIA.2019.9BT23R95},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-sar/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Sarcomas Collection (CPTAC-SAR)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/4nx6-e061": {
     "doi": "10.7937/4nx6-e061",
