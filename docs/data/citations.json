@@ -832,5 +832,11 @@
     "url": "https://doi.org/10.7937/tcia.2020.rmwvzwix",
     "apa": "Semmineh, N. B., Stokes, A. M., Bell, L. C., Boxerman, J. L., &amp; Quarles, C. C. (2020). <i>GBM-DSC-MRI-DRO</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.RMWVZWIX",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.rmwvzwix,\n  doi = {10.7937/TCIA.2020.RMWVZWIX},\n  url = {https://www.cancerimagingarchive.net/collection/gbm-dsc-mri-dro/},\n  author = {Semmineh, Natenael B. and Stokes, Ashley M. and Bell, Laura C. and Boxerman, Jerrold L. and Quarles, C. Chad},\n  title = {GBM-DSC-MRI-DRO},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12690004": {
+    "doi": "10.5281/zenodo.12690004",
+    "url": "https://doi.org/10.5281/zenodo.12690004",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-KICH collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690004",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690004,\n  doi = {10.5281/ZENODO.12690004},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690004},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-KICH collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
