@@ -844,5 +844,23 @@
     "url": "https://doi.org/10.7937/a1v1-rc66",
     "apa": "Schaer, R., Bach, M., Obmann, M., Flouris, K., Konukoglu, E., Stieltjes, B., M\u00fcller, H., Aberle, C., Jimenez del Toro, O. A., &amp; Depeursinge, A. (2023). <i>Task-Based Anthropomorphic CT Phantom for Radiomics Stability and Discriminatory Power Analyses (CT-Phantom4Radiomics)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/A1V1-RC66",
     "bibtex": "@misc{https://doi.org/10.7937/a1v1-rc66,\n  doi = {10.7937/A1V1-RC66},\n  url = {https://www.cancerimagingarchive.net/collection/ct-phantom4radiomics/},\n  author = {Schaer, Roger and Bach, Michael and Obmann, Markus and Flouris, Kyriakos and Konukoglu, Ender and Stieltjes, Bram and M\u00fcller, Henning and Aberle, Christoph and Jimenez del Toro, Oscar Alfonso and Depeursinge, Adrien},\n  title = {Task-Based Anthropomorphic CT Phantom for Radiomics Stability and Discriminatory Power Analyses (CT-Phantom4Radiomics)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12666859": {
+    "doi": "10.5281/zenodo.12666859",
+    "url": "https://doi.org/10.5281/zenodo.12666859",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-PDA collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666859",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666859,\n  doi = {10.5281/ZENODO.12666859},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666859},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-PDA collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12666842": {
+    "doi": "10.5281/zenodo.12666842",
+    "url": "https://doi.org/10.5281/zenodo.12666842",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-OV collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666842",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666842,\n  doi = {10.5281/ZENODO.12666842},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666842},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-OV collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689993": {
+    "doi": "10.5281/zenodo.12689993",
+    "url": "https://doi.org/10.5281/zenodo.12689993",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the HTAN-WUSTL collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689993",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689993,\n  doi = {10.5281/ZENODO.12689993},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689993},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the HTAN-WUSTL collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
