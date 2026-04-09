@@ -880,5 +880,11 @@
     "url": "https://doi.org/10.5281/zenodo.12666788",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-GBM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666788",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666788,\n  doi = {10.5281/ZENODO.12666788},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666788},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-GBM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12689981": {
+    "doi": "10.5281/zenodo.12689981",
+    "url": "https://doi.org/10.5281/zenodo.12689981",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UCS collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689981",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689981,\n  doi = {10.5281/ZENODO.12689981},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689981},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-UCS collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
