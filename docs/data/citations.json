@@ -892,5 +892,17 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.yu3rbczn",
     "apa": "Linehan, M. W., Gautam, R., Sadow, C. A., &amp; Levine, S. (2016). <i>The Cancer Genome Atlas Kidney Chromophobe Collection (TCGA-KICH)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.YU3RBCZN",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.yu3rbczn,\n  doi = {10.7937/K9/TCIA.2016.YU3RBCZN},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-kich/},\n  author = {Linehan, Marston W. and Gautam, Rabindra and Sadow, Cheryl A. and Levine, Seth},\n  title = {The Cancer Genome Atlas Kidney Chromophobe Collection (TCGA-KICH)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.8225131": {
+    "doi": "10.5281/zenodo.8225131",
+    "url": "https://doi.org/10.5281/zenodo.8225131",
+    "apa": "Clunie, D., Khan, J., Milewski, D., Jung, H., Bowen, J., Lisle, C., Brown, T., Liu, Y., Collins, J., Linardic, C. M., Hawkins, D. S., Venkatramani, R., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2023). <i>DICOM converted whole slide hematoxylin and eosin images of rhabdomyosarcoma from Children's Oncology Group trials</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.8225131",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.8225131,\n  doi = {10.5281/ZENODO.8225131},\n  url = {https://zenodo.org/doi/10.5281/zenodo.8225131},\n  author = {Clunie, David and Khan, Javed and Milewski, David and Jung, Hyun and Bowen, Jay and Lisle, Curtis and Brown, Thomas and Liu, Yanling and Collins, Jack and Linardic, Corinne M. and Hawkins, Douglas S. and Venkatramani, Rajkumar and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  keywords = {cancer imaging, DICOM, whole slide imaging, rhabdomyosarcoma, public data},\n  title = {DICOM converted whole slide hematoxylin and eosin images of rhabdomyosarcoma from Children's Oncology Group trials},\n  publisher = {Zenodo},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.tlpmr1am": {
+    "doi": "10.7937/k9/tcia.2016.tlpmr1am",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.tlpmr1am",
+    "apa": "Madabhushi, A., &amp; Feldman, M. (2016). <i>Fused Radiology-Pathology Prostate Dataset</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TLPMR1AM",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.tlpmr1am,\n  doi = {10.7937/K9/TCIA.2016.TLPMR1AM},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-fused-mri-pathology/},\n  author = {Madabhushi, Anant and Feldman, Michael},\n  title = {Fused Radiology-Pathology Prostate Dataset},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
