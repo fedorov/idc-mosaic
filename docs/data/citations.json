@@ -904,5 +904,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.tlpmr1am",
     "apa": "Madabhushi, A., &amp; Feldman, M. (2016). <i>Fused Radiology-Pathology Prostate Dataset</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TLPMR1AM",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.tlpmr1am,\n  doi = {10.7937/K9/TCIA.2016.TLPMR1AM},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-fused-mri-pathology/},\n  author = {Madabhushi, Anant and Feldman, Michael},\n  title = {Fused Radiology-Pathology Prostate Dataset},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.13993776": {
+    "doi": "10.5281/zenodo.13993776",
+    "url": "https://doi.org/10.5281/zenodo.13993776",
+    "apa": "Clunie, D. (2025). <i>CMB-LCA: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Lung Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993776",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993776,\n  doi = {10.5281/ZENODO.13993776},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993776},\n  author = {Clunie, David},\n  title = {CMB-LCA: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Lung Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
