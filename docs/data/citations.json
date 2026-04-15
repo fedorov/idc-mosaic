@@ -910,5 +910,11 @@
     "url": "https://doi.org/10.5281/zenodo.13993776",
     "apa": "Clunie, D. (2025). <i>CMB-LCA: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Lung Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993776",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993776,\n  doi = {10.5281/ZENODO.13993776},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993776},\n  author = {Clunie, David},\n  title = {CMB-LCA: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Lung Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.13993787": {
+    "doi": "10.5281/zenodo.13993787",
+    "url": "https://doi.org/10.5281/zenodo.13993787",
+    "apa": "Clunie, D. (2024). <i>CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993787",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993787,\n  doi = {10.5281/ZENODO.13993787},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993787},\n  author = {Clunie, David},\n  title = {CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
