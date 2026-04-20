@@ -916,5 +916,11 @@
     "url": "https://doi.org/10.5281/zenodo.13993787",
     "apa": "Clunie, D. (2024). <i>CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993787",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993787,\n  doi = {10.5281/ZENODO.13993787},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993787},\n  author = {Clunie, David},\n  title = {CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/s17z-r072": {
+    "doi": "10.7937/s17z-r072",
+    "url": "https://doi.org/10.7937/s17z-r072",
+    "apa": "Rutherford, M., Mun, S. K., Levine, B., Bennett, W. C., Smith, K., Farmer, P., Jarosz, J., Wagner, U., Farahani, K., &amp; Prior, F. (2020). <i>A DICOM dataset for evaluation of medical image de-identification (Pseudo-PHI-DICOM-Data)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/S17Z-R072",
+    "bibtex": "@misc{https://doi.org/10.7937/s17z-r072,\n  doi = {10.7937/S17Z-R072},\n  url = {https://www.cancerimagingarchive.net/collection/pseudo-phi-dicom-data/},\n  author = {Rutherford, Michael and Mun, Seong K. and Levine, Betty and Bennett, William C. and Smith, Kirk and Farmer, Phil and Jarosz, Jeremy and Wagner, Ulrike and Farahani, Keyvan and Prior, Fred},\n  title = {A DICOM dataset for evaluation of medical image de-identification (Pseudo-PHI-DICOM-Data)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
