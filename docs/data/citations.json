@@ -922,5 +922,11 @@
     "url": "https://doi.org/10.7937/s17z-r072",
     "apa": "Rutherford, M., Mun, S. K., Levine, B., Bennett, W. C., Smith, K., Farmer, P., Jarosz, J., Wagner, U., Farahani, K., &amp; Prior, F. (2020). <i>A DICOM dataset for evaluation of medical image de-identification (Pseudo-PHI-DICOM-Data)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/S17Z-R072",
     "bibtex": "@misc{https://doi.org/10.7937/s17z-r072,\n  doi = {10.7937/S17Z-R072},\n  url = {https://www.cancerimagingarchive.net/collection/pseudo-phi-dicom-data/},\n  author = {Rutherford, Michael and Mun, Seong K. and Levine, Betty and Bennett, William C. and Smith, Kirk and Farmer, Phil and Jarosz, Jeremy and Wagner, Ulrike and Farahani, Keyvan and Prior, Fred},\n  title = {A DICOM dataset for evaluation of medical image de-identification (Pseudo-PHI-DICOM-Data)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/p5k5-tg43": {
+    "doi": "10.7937/p5k5-tg43",
+    "url": "https://doi.org/10.7937/p5k5-tg43",
+    "apa": "Tong, T., &amp; Li, M. (2022). <i>Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/P5K5-TG43",
+    "bibtex": "@misc{https://doi.org/10.7937/p5k5-tg43,\n  doi = {10.7937/P5K5-TG43},\n  url = {https://www.cancerimagingarchive.net/collection/stageii-colorectal-ct/},\n  author = {Tong, Tong and Li, Menglei},\n  title = {Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
