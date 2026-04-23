@@ -458,8 +458,8 @@
   "10.7937/k9/tcia.2016.yxoglm4y": {
     "doi": "10.7937/k9/tcia.2016.yxoglm4y",
     "url": "https://doi.org/10.7937/k9/tcia.2016.yxoglm4y",
-    "apa": "Zuley, M. L., Jarosz, R., Drake, B. F., Rancilio, D., Klim, A., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Prostate Adenocarcinoma Collection (TCGA-PRAD)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
-    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.yxoglm4y,\n  doi = {10.7937/K9/TCIA.2016.YXOGLM4Y},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-prad/},\n  author = {Zuley, Margarita L. and Jarosz, Rose and Drake, Bettina F. and Rancilio, Danielle and Klim, Aleksandra and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Prostate Adenocarcinoma Collection (TCGA-PRAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.5281/zenodo.12689966": {
     "doi": "10.5281/zenodo.12689966",
