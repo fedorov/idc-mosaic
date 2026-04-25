@@ -928,5 +928,17 @@
     "url": "https://doi.org/10.7937/p5k5-tg43",
     "apa": "Tong, T., &amp; Li, M. (2022). <i>Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/P5K5-TG43",
     "bibtex": "@misc{https://doi.org/10.7937/p5k5-tg43,\n  doi = {10.7937/P5K5-TG43},\n  url = {https://www.cancerimagingarchive.net/collection/stageii-colorectal-ct/},\n  author = {Tong, Tong and Li, Menglei},\n  title = {Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.6046gudv": {
+    "doi": "10.7937/k9/tcia.2016.6046gudv",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.6046gudv",
+    "apa": "Choyke, P., Turkbey, B., Pinto, P., Merino, M., &amp; Wood, B. (2016). <i>Data From PROSTATE-MRI</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.6046GUDV",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.6046gudv,\n  doi = {10.7937/K9/TCIA.2016.6046GUDV},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-mri/},\n  author = {Choyke, Peter and Turkbey, Baris and Pinto, Peter and Merino, Maria and Wood, Brad},\n  title = {Data From PROSTATE-MRI},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.13993796": {
+    "doi": "10.5281/zenodo.13993796",
+    "url": "https://doi.org/10.5281/zenodo.13993796",
+    "apa": "Clunie, D. (2025). <i>CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993796",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993796,\n  doi = {10.5281/ZENODO.13993796},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993796},\n  author = {Clunie, David},\n  title = {CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
