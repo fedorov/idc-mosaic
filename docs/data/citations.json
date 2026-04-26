@@ -940,5 +940,11 @@
     "url": "https://doi.org/10.5281/zenodo.13993796",
     "apa": "Clunie, D. (2025). <i>CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993796",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993796,\n  doi = {10.5281/ZENODO.13993796},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993796},\n  author = {Clunie, David},\n  title = {CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.12689950": {
+    "doi": "10.5281/zenodo.12689950",
+    "url": "https://doi.org/10.5281/zenodo.12689950",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the HTAN-OHSU collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689950",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689950,\n  doi = {10.5281/ZENODO.12689950},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689950},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the HTAN-OHSU collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
