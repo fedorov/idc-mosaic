@@ -946,5 +946,11 @@
     "url": "https://doi.org/10.5281/zenodo.12689950",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the HTAN-OHSU collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689950",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689950,\n  doi = {10.5281/ZENODO.12689950},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689950},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the HTAN-OHSU collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.sq4m8yp4": {
+    "doi": "10.7937/k9/tcia.2016.sq4m8yp4",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.sq4m8yp4",
+    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection (TCGA-CESC)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.sq4m8yp4,\n  doi = {10.7937/K9/TCIA.2016.SQ4M8YP4},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-cesc/},\n  author = {Lucchesi, Fabiano R. and Aredes, Nat\u00e1lia D.},\n  title = {The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection (TCGA-CESC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
