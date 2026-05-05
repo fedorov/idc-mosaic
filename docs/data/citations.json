@@ -964,5 +964,11 @@
     "url": "https://doi.org/10.7937/tcia.2019.b6foe619",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2019). <i>The Clinical Proteomic Tumor Analysis Consortium Acute Myeloid Leukemia Collection (CPTAC-AML)</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.B6FOE619",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.b6foe619,\n  doi = {10.7937/TCIA.2019.B6FOE619},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-aml/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Acute Myeloid Leukemia Collection (CPTAC-AML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.13993759": {
+    "doi": "10.5281/zenodo.13993759",
+    "url": "https://doi.org/10.5281/zenodo.13993759",
+    "apa": "Clunie, D. (2025). <i>CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993759",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993759,\n  doi = {10.5281/ZENODO.13993759},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993759},\n  author = {Clunie, David},\n  title = {CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
