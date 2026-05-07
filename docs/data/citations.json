@@ -970,5 +970,11 @@
     "url": "https://doi.org/10.5281/zenodo.13993759",
     "apa": "Clunie, D. (2025). <i>CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993759",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993759,\n  doi = {10.5281/ZENODO.13993759},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993759},\n  author = {Clunie, David},\n  title = {CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.17381396": {
+    "doi": "10.5281/zenodo.17381396",
+    "url": "https://doi.org/10.5281/zenodo.17381396",
+    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.17381396",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381396,\n  doi = {10.5281/ZENODO.17381396},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381396},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
