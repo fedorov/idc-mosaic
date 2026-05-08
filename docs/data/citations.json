@@ -976,5 +976,23 @@
     "url": "https://doi.org/10.5281/zenodo.17381396",
     "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.17381396",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381396,\n  doi = {10.5281/ZENODO.17381396},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381396},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/spgk-0p94": {
+    "doi": "10.7937/spgk-0p94",
+    "url": "https://doi.org/10.7937/spgk-0p94",
+    "apa": "Chen, L., Wang, W., Jin, K., Yuan, B., Tan, H., Sun, J., Guo, Y., Luo, Y., Feng, S.-ting, Yu, X., Chen, M.-hu, &amp; Chen, J. (2022). <i>Prediction of Sunitinib Efficacy using Computed Tomography in Patients with Pancreatic Neuroendocrine Tumors (CTpred-Sunitinib-panNET)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/SPGK-0P94",
+    "bibtex": "@misc{https://doi.org/10.7937/spgk-0p94,\n  doi = {10.7937/SPGK-0P94},\n  url = {https://www.cancerimagingarchive.net/collection/ctpred-sunitinib-pannet/},\n  author = {Chen, Luohai and Wang, Wei and Jin, Kaizhou and Yuan, Bing and Tan, Huangying and Sun, Jian and Guo, Yu and Luo, Yanji and Feng, Shi-ting and Yu, Xianjun and Chen, Min-hu and Chen, Jie},\n  title = {Prediction of Sunitinib Efficacy using Computed Tomography in Patients with Pancreatic Neuroendocrine Tumors (CTpred-Sunitinib-panNET)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/c5ke-yx42": {
+    "doi": "10.7937/c5ke-yx42",
+    "url": "https://doi.org/10.7937/c5ke-yx42",
+    "apa": "The ECOG-ACRIN Cancer Research Group. (2026). <i>The MATCH Screening Trial: Targeted Therapy Directed by Genetic Testing in Treating Patients With Advanced Refractory Solid Tumors, Lymphomas, or Multiple Myeloma (EAY131)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/C5KE-YX42",
+    "bibtex": "@misc{https://doi.org/10.7937/c5ke-yx42,\n  doi = {10.7937/C5KE-YX42},\n  url = {https://www.cancerimagingarchive.net/collection/EAY131/},\n  author = {{The ECOG-ACRIN Cancer Research Group}},\n  title = {The MATCH Screening Trial: Targeted Therapy Directed by Genetic Testing in Treating Patients With Advanced Refractory Solid Tumors, Lymphomas, or Multiple Myeloma (EAY131)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/m87f-mz83": {
+    "doi": "10.7937/m87f-mz83",
+    "url": "https://doi.org/10.7937/m87f-mz83",
+    "apa": "Lung Image Database Consortium (LIDC). (2023). <i>RIDER Pilot</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/M87F-MZ83",
+    "bibtex": "@misc{https://doi.org/10.7937/m87f-mz83,\n  doi = {10.7937/M87F-MZ83},\n  url = {https://www.cancerimagingarchive.net/collection/rider-pilot/},\n  author = {{Lung Image Database Consortium (LIDC)}},\n  title = {RIDER Pilot},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
