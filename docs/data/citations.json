@@ -62,7 +62,7 @@
   "10.5281/zenodo.11099099": {
     "doi": "10.5281/zenodo.11099099",
     "url": "https://doi.org/10.5281/zenodo.11099099",
-    "apa": "Clunie, D., GTEx Consortium, Clifford, W., Pot, D., Wagner, U., Kim, E., Sutton, G., &amp; Fedorov, A. (2024). <i>GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.11099099",
+    "apa": "Clunie, D., GTEx Consortium, Clifford, W., Pot, D., Wagner, U., Kim, E., Sutton, G., &amp; Fedorov, A. (2024). <i>GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.11099099",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.11099099,\n  doi = {10.5281/ZENODO.11099099},\n  url = {https://zenodo.org/doi/10.5281/zenodo.11099099},\n  author = {Clunie, David and {GTEx Consortium} and Clifford, William and Pot, David and Wagner, Ulrike and Kim, Erika and Sutton, Granger and Fedorov, Andrey},\n  title = {GTEx: DICOM converted whole slide hematoxylin and eosin stained images from the Genotype-Tissue Expression (GTEx) Project},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689964": {
@@ -116,7 +116,7 @@
   "10.7937/pcte-6m66": {
     "doi": "10.7937/pcte-6m66",
     "url": "https://doi.org/10.7937/pcte-6m66",
-    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 7) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
+    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 7) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
     "bibtex": "@misc{https://doi.org/10.7937/pcte-6m66,\n  doi = {10.7937/PCTE-6M66},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-aml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689962": {
@@ -272,7 +272,7 @@
   "10.5281/zenodo.12666807": {
     "doi": "10.5281/zenodo.12666807",
     "url": "https://doi.org/10.5281/zenodo.12666807",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-LSCC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666807",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-LSCC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666807",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666807,\n  doi = {10.5281/ZENODO.12666807},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666807},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-LSCC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.2020.nnc2-0461": {
@@ -434,7 +434,7 @@
   "10.5281/zenodo.12689915": {
     "doi": "10.5281/zenodo.12689915",
     "url": "https://doi.org/10.5281/zenodo.12689915",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LUAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689915",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LUAD collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689915",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689915,\n  doi = {10.5281/ZENODO.12689915},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689915},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LUAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2015.sdnrqxxr": {
@@ -500,7 +500,7 @@
   "10.5281/zenodo.12690033": {
     "doi": "10.5281/zenodo.12690033",
     "url": "https://doi.org/10.5281/zenodo.12690033",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-HNSC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690033",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-HNSC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690033",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690033,\n  doi = {10.5281/ZENODO.12690033},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690033},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-HNSC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/qstf-st65": {
@@ -572,7 +572,7 @@
   "10.5281/zenodo.12690035": {
     "doi": "10.5281/zenodo.12690035",
     "url": "https://doi.org/10.5281/zenodo.12690035",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-ACC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690035",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-ACC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690035",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690035,\n  doi = {10.5281/ZENODO.12690035},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690035},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-ACC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.jgnihep5": {
@@ -680,7 +680,7 @@
   "10.7937/tcia.rmv0-9y95": {
     "doi": "10.7937/tcia.rmv0-9y95",
     "url": "https://doi.org/10.7937/tcia.rmv0-9y95",
-    "apa": "Zhao, B., Li, Q., Liang, Y., Yang, H., Gavrielides, M. A., Schwartz, L. H., Sullivan, D. C., &amp; Petrick, N. A. (2021). <i>QIBA Anthropomorphic Abdominal Phantom CT Scans</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.RMV0-9Y95",
+    "apa": "Zhao, B., Li, Q., Liang, Y., Yang, H., Gavrielides, M. A., Schwartz, L. H., Sullivan, D. C., &amp; Petrick, N. A. (2021). <i>QIBA Anthropomorphic Abdominal Phantom CT Scans</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.RMV0-9Y95",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.rmv0-9y95,\n  doi = {10.7937/TCIA.RMV0-9Y95},\n  url = {https://www.cancerimagingarchive.net/collection/qiba-ct-liver-phantom/},\n  author = {Zhao, Binsheng and Li, Qin and Liang, Yongguang and Yang, Hao and Gavrielides, Marios A. and Schwartz, Lawrence H. and Sullivan, Daniel C. and Petrick, Nicholas A.},\n  title = {QIBA Anthropomorphic Abdominal Phantom CT Scans},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12690012": {
