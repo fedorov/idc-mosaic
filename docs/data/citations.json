@@ -98,7 +98,7 @@
   "10.5281/zenodo.12689970": {
     "doi": "10.5281/zenodo.12689970",
     "url": "https://doi.org/10.5281/zenodo.12689970",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-COAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689970",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-COAD collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689970",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689970,\n  doi = {10.5281/ZENODO.12689970},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689970},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-COAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.kk02-6d95": {
@@ -176,7 +176,7 @@
   "10.5281/zenodo.12689954": {
     "doi": "10.5281/zenodo.12689954",
     "url": "https://doi.org/10.5281/zenodo.12689954",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-OV collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689954",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-OV collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689954",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689954,\n  doi = {10.5281/ZENODO.12689954},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689954},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-OV collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689919": {
@@ -200,7 +200,7 @@
   "10.7937/k9/tcia.2016.ab2nazrp": {
     "doi": "10.7937/k9/tcia.2016.ab2nazrp",
     "url": "https://doi.org/10.7937/k9/tcia.2016.ab2nazrp",
-    "apa": "Lingle, W., Erickson, B. J., Zuley, M. L., Jarosz, R., Bonaccio, E., Filippini, J., Net, J. M., Levi, L., Morris, E. A., Figler, G. G., Elnajjar, P., Kirk, S., Lee, Y., Giger, M., &amp; Gruszauskas, N. (2016). <i>The Cancer Genome Atlas Breast Invasive Carcinoma Collection (TCGA-BRCA)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
+    "apa": "Lingle, W., Erickson, B. J., Zuley, M. L., Jarosz, R., Bonaccio, E., Filippini, J., Net, J. M., Levi, L., Morris, E. A., Figler, G. G., Elnajjar, P., Kirk, S., Lee, Y., Giger, M., &amp; Gruszauskas, N. (2016). <i>The Cancer Genome Atlas Breast Invasive Carcinoma Collection (TCGA-BRCA)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.AB2NAZRP",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.ab2nazrp,\n  doi = {10.7937/K9/TCIA.2016.AB2NAZRP},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-brca/},\n  author = {Lingle, Wilma and Erickson, Bradley J. and Zuley, Margarita L. and Jarosz, Rose and Bonaccio, Ermelinda and Filippini, Joe and Net, Jose M. and Levi, Len and Morris, Elizabeth A. and Figler, Gloria G. and Elnajjar, Pierre and Kirk, Shanah and Lee, Yueh and Giger, Maryellen and Gruszauskas, Nicholas},\n  title = {The Cancer Genome Atlas Breast Invasive Carcinoma Collection (TCGA-BRCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.2019.30ilqfcl": {
@@ -494,7 +494,7 @@
   "10.7937/k9/tcia.2016.v6pbvtdr": {
     "doi": "10.7937/k9/tcia.2016.v6pbvtdr",
     "url": "https://doi.org/10.7937/k9/tcia.2016.v6pbvtdr",
-    "apa": "Akin, O., Elnajjar, P., Heller, M., Jarosz, R., Erickson, B. J., Kirk, S., Lee, Y., Linehan, M. W., Gautam, R., Vikram, R., Garcia, K. M., Roche, C., Bonaccio, E., &amp; Filippini, J. (2016). <i>The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma Collection (TCGA-KIRC)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
+    "apa": "Akin, O., Elnajjar, P., Heller, M., Jarosz, R., Erickson, B. J., Kirk, S., Lee, Y., Linehan, M. W., Gautam, R., Vikram, R., Garcia, K. M., Roche, C., Bonaccio, E., &amp; Filippini, J. (2016). <i>The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma Collection (TCGA-KIRC)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.V6PBVTDR",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.v6pbvtdr,\n  doi = {10.7937/K9/TCIA.2016.V6PBVTDR},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-kirc/},\n  author = {Akin, Oguz and Elnajjar, Pierre and Heller, Matthew and Jarosz, Rose and Erickson, Bradley J. and Kirk, Shanah and Lee, Yueh and Linehan, Marston W. and Gautam, Rabindra and Vikram, Raghu and Garcia, Kimberly M. and Roche, Charles and Bonaccio, Ermelinda and Filippini, Joe},\n  title = {The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma Collection (TCGA-KIRC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12690033": {
@@ -536,7 +536,7 @@
   "10.7937/25t7-6y12": {
     "doi": "10.7937/25t7-6y12",
     "url": "https://doi.org/10.7937/25t7-6y12",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/25T7-6Y12",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)</i> (Version 10) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/25T7-6Y12",
     "bibtex": "@misc{https://doi.org/10.7937/25t7-6y12,\n  doi = {10.7937/25T7-6Y12},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-pca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2019.ix49e8nx": {
@@ -626,7 +626,7 @@
   "10.7937/djg7-gz87": {
     "doi": "10.7937/djg7-gz87",
     "url": "https://doi.org/10.7937/djg7-gz87",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)</i> (Version 9) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/DJG7-GZ87",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)</i> (Version 9) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/DJG7-GZ87",
     "bibtex": "@misc{https://doi.org/10.7937/djg7-gz87,\n  doi = {10.7937/DJG7-GZ87},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-crc/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689913": {
@@ -812,7 +812,7 @@
   "10.5281/zenodo.14933087": {
     "doi": "10.5281/zenodo.14933087",
     "url": "https://doi.org/10.5281/zenodo.14933087",
-    "apa": "H\u00f6fener, H., Kock, F., Pontones, M. A., Ghete, T., Pfrang, D., Dickel, N., Kunz, M., Schacherer, D., Clunie, D. A., Fedorov, A., Westphal, M., &amp; Metzler, M. (2025). <i>BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.14933087",
+    "apa": "H\u00f6fener, H., Kock, F., Pontones, M. A., Ghete, T., Pfrang, D., Dickel, N., Kunz, M., Schacherer, D., Clunie, D. A., Fedorov, A., Westphal, M., &amp; Metzler, M. (2025). <i>BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.14933087",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.14933087,\n  doi = {10.5281/ZENODO.14933087},\n  url = {https://zenodo.org/doi/10.5281/zenodo.14933087},\n  author = {H\u00f6fener, Henning and Kock, Farina and Pontones, Martina Ayel\u00e9n and Ghete, Tabita and Pfrang, David and Dickel, Nicholas and Kunz, Meik and Schacherer, Daniela and Clunie, David A and Fedorov, Andrey and Westphal, Max and Metzler, Markus},\n  title = {BoneMarrowWSI-PediatricLeukemia: A Comprehensive Dataset of Bone Marrow Aspirate Smear Whole Slide Images with Expert Annotations and Clinical Data in Pediatric Leukemia},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2016.f7ppnpnu": {
@@ -998,7 +998,7 @@
   "10.5281/zenodo.16967600": {
     "doi": "10.5281/zenodo.16967600",
     "url": "https://doi.org/10.5281/zenodo.16967600",
-    "apa": "White, B. S., Woo, X. Y., Koc, S., Sheridan, T., Neuhauser, S. B., Wang, S., Evrard, Y. A., Chen, L., Foroughi pour, A., Landua, J. D., Mashl, R. J., Davies, S. R., Fang, B., Raso, M. G., Evans, K. W., Bailey, M. H., Chen, Y., Xiao, M., Rubinstein, J. C., \u2026 Fedorov, A. (2026). <i>A Pan-Cancer PDX Histology Image Repository with Genomic and Pathologic Annotation</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.16967600",
+    "apa": "White, B. S., Woo, X. Y., Koc, S., Sheridan, T., Neuhauser, S. B., Wang, S., Evrard, Y. A., Chen, L., Foroughi pour, A., Landua, J. D., Mashl, R. J., Davies, S. R., Fang, B., Raso, M. G., Evans, K. W., Bailey, M. H., Chen, Y., Xiao, M., Rubinstein, J. C., \u2026 Fedorov, A. (2026). <i>A Pan-Cancer PDX Histology Image Repository with Genomic and Pathologic Annotation</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.16967600",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.16967600,\n  doi = {10.5281/ZENODO.16967600},\n  url = {https://zenodo.org/doi/10.5281/zenodo.16967600},\n  author = {White, Brian S. and Woo, Xing Yi and Koc, Soner and Sheridan, Todd and Neuhauser, Steven B. and Wang, Shidan and Evrard, Yvonne A. and Chen, Li and Foroughi pour, Ali and Landua, John D. and Mashl, R. Jay and Davies, Sherri R. and Fang, Bingliang and Raso, Maria Gabriela and Evans, Kurt W. and Bailey, Matthew H. and Chen, Yeqing and Xiao, Min and Rubinstein, Jill C. and Sanderson, Brian J. and Lloyd, Michael W. and Domanskyi, Sergii and Dobrolecki, Lacey E. and Fujita, Maihi and Fujimoto, Junya and Xiao, Guanghua and Fields, Ryan C. and Mudd, Jacqueline L. and Xu, Xiaowei and Hollingshead, Melinda G. and Jiwani, Shahanawaz and Acevedo, Saul and Davis-Dusenbery, Brandi N. and Robinson, Peter N. and Moscow, Jeffrey A. and Doroshow, James H. and Mitsiades, Nicholas and Kaochar, Salma and Pan, Chong-xian and Carvajal-Carmona, Luis G. and Welm, Alana L. and Welm, Bryan E. and Govindan, Ramaswamy and Li, Shunqiang and Davies, Michael A. and Roth, Jack A. and Meric-Bernstam, Funda and Xie, Yang and Herlyn, Meenhard and Ding, Li and Lewis, Michael T. and Bult, Carol J. and Dean II, Dennis A. and Chuang, Jeffrey H. and Clifford, William and Clunie, David and Fedorov, Andrey},\n  title = {A Pan-Cancer PDX Histology Image Repository with Genomic and Pathologic Annotation},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.17381428": {
@@ -1018,5 +1018,11 @@
     "url": "https://doi.org/10.5281/zenodo.18526942",
     "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CATCH: CAnine CuTaneous Cancer Histology Dataset</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.18526942",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.18526942,\n  doi = {10.5281/ZENODO.18526942},\n  url = {https://zenodo.org/doi/10.5281/zenodo.18526942},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CATCH: CAnine CuTaneous Cancer Histology Dataset},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.17381441": {
+    "doi": "10.5281/zenodo.17381441",
+    "url": "https://doi.org/10.5281/zenodo.17381441",
+    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>HCMI-CMDC: DICOM converted whole slide images from the Human Cancer Models Initiative (HCMI) Cancer Model Development Center (CMDC)</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381441",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381441,\n  doi = {10.5281/ZENODO.17381441},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381441},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {HCMI-CMDC: DICOM converted whole slide images from the Human Cancer Models Initiative (HCMI) Cancer Model Development Center (CMDC)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
