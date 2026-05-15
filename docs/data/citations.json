@@ -20,7 +20,7 @@
   "10.5281/zenodo.12689968": {
     "doi": "10.5281/zenodo.12689968",
     "url": "https://doi.org/10.5281/zenodo.12689968",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UCEC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689968",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UCEC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689968",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689968,\n  doi = {10.5281/ZENODO.12689968},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689968},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-UCEC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.eln8ygle": {
@@ -32,7 +32,7 @@
   "10.7937/k9/tcia.2016.7o02s9cy": {
     "doi": "10.7937/k9/tcia.2016.7o02s9cy",
     "url": "https://doi.org/10.7937/k9/tcia.2016.7o02s9cy",
-    "apa": "Sawyer-Lee, R., Gimenez, F., Hoogi, A., &amp; Rubin, D. (2016). <i>Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
+    "apa": "Sawyer-Lee, R., Gimenez, F., Hoogi, A., &amp; Rubin, D. (2016). <i>Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.7O02S9CY",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.7o02s9cy,\n  doi = {10.7937/K9/TCIA.2016.7O02S9CY},\n  url = {https://www.cancerimagingarchive.net/collection/cbis-ddsm/},\n  author = {Sawyer-Lee, Rebecca and Gimenez, Francisco and Hoogi, Assaf and Rubin, Daniel},\n  title = {Curated Breast Imaging Subset of Digital Database for Screening Mammography (CBIS-DDSM)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.709x-dn49": {
@@ -110,7 +110,7 @@
   "10.7937/k9/tcia.2018.3r3juisw": {
     "doi": "10.7937/k9/tcia.2018.3r3juisw",
     "url": "https://doi.org/10.7937/k9/tcia.2018.3r3juisw",
-    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2019). <i>The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC)</i> (Version 13) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2019). <i>The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC)</i> (Version 13) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.3R3JUISW",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.3r3juisw,\n  doi = {10.7937/K9/TCIA.2018.3R3JUISW},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ucec/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Uterine Corpus Endometrial Carcinoma Collection (CPTAC-UCEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/pcte-6m66": {
@@ -488,7 +488,7 @@
   "10.5281/zenodo.12689956": {
     "doi": "10.5281/zenodo.12689956",
     "url": "https://doi.org/10.5281/zenodo.12689956",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CESC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689956",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CESC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689956",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689956,\n  doi = {10.5281/ZENODO.12689956},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689956},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-CESC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.v6pbvtdr": {
@@ -596,7 +596,7 @@
   "10.7937/k9/tcia.2016.tygkkfmq": {
     "doi": "10.7937/k9/tcia.2016.tygkkfmq",
     "url": "https://doi.org/10.7937/k9/tcia.2016.tygkkfmq",
-    "apa": "Kirk, S., Lee, Y., Kumar, P., Filippini, J., Albertina, B., Watson, M., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Lung Squamous Cell Carcinoma Collection (TCGA-LUSC)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
+    "apa": "Kirk, S., Lee, Y., Kumar, P., Filippini, J., Albertina, B., Watson, M., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Lung Squamous Cell Carcinoma Collection (TCGA-LUSC)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.TYGKKFMQ",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.tygkkfmq,\n  doi = {10.7937/K9/TCIA.2016.TYGKKFMQ},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-lusc/},\n  author = {Kirk, Shanahv and Lee, Yueh and Kumar, Prasanna and Filippini, Joe and Albertina, Brad and Watson, Mark and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Lung Squamous Cell Carcinoma Collection (TCGA-LUSC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2015.foqeujvt": {
@@ -974,7 +974,7 @@
   "10.5281/zenodo.17381396": {
     "doi": "10.5281/zenodo.17381396",
     "url": "https://doi.org/10.5281/zenodo.17381396",
-    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.17381396",
+    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381396",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381396,\n  doi = {10.5281/ZENODO.17381396},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381396},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-BLGSP: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) - Burkitt Lymphoma Genome Sequencing Project (BLGSP)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/spgk-0p94": {
@@ -1024,5 +1024,17 @@
     "url": "https://doi.org/10.5281/zenodo.17381441",
     "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>HCMI-CMDC: DICOM converted whole slide images from the Human Cancer Models Initiative (HCMI) Cancer Model Development Center (CMDC)</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381441",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381441,\n  doi = {10.5281/ZENODO.17381441},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381441},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {HCMI-CMDC: DICOM converted whole slide images from the Human Cancer Models Initiative (HCMI) Cancer Model Development Center (CMDC)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.13993798": {
+    "doi": "10.5281/zenodo.13993798",
+    "url": "https://doi.org/10.5281/zenodo.13993798",
+    "apa": "Clunie, D. (2025). <i>CMB-PCA: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Prostate Cancer collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.13993798",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993798,\n  doi = {10.5281/ZENODO.13993798},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993798},\n  author = {Clunie, David},\n  title = {CMB-PCA: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Prostate Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/r7ep-3x37": {
+    "doi": "10.7937/r7ep-3x37",
+    "url": "https://doi.org/10.7937/r7ep-3x37",
+    "apa": "Jeblick, K., Schachtner, B., Mittermeier, A., Dexl, J., Wesp, P., K\u00fcstner, T., Gatidis, S., Fr\u00fch, M., Fabritius, M., Unterrainer, L., Sheikh, G., Delker, A., B\u00f6ning, G., Brendel, M., Ricke, J., Werner, R., Gu, S., Ingrisch, M., Geyer, T., &amp; Cyran, C. <i>A whole-body PSMA-PET/CT dataset with manually annotated tumor lesions</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/R7EP-3X37",
+    "bibtex": "@misc{https://doi.org/10.7937/r7ep-3x37,\n  doi = {10.7937/R7EP-3X37},\n  url = {https://www.cancerimagingarchive.net/collection/PSMA-PET-CT-Lesions/},\n  author = {Jeblick, Katharina and Schachtner, Balthasar and Mittermeier, Andreas and Dexl, Jakob and Wesp, Philipp and K\u00fcstner, Thomas and Gatidis, Sergios and Fr\u00fch, Marcel and Fabritius, Matthias and Unterrainer, Lena and Sheikh, Gabriel and Delker, Astrid and B\u00f6ning, Guido and Brendel, Matthias and Ricke, Jens and Werner, Rudolf and Gu, Sijing and Ingrisch, Michael and Geyer, Thomas and Cyran, Clemens},\n  title = {A whole-body PSMA-PET/CT dataset with manually annotated tumor lesions},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
