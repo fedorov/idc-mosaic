@@ -302,7 +302,7 @@
   "10.5281/zenodo.12690010": {
     "doi": "10.5281/zenodo.12690010",
     "url": "https://doi.org/10.5281/zenodo.12690010",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-GBM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690010",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-GBM collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690010",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690010,\n  doi = {10.5281/ZENODO.12690010},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690010},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-GBM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/3kq0-yk19": {
@@ -584,7 +584,7 @@
   "10.5281/zenodo.12689972": {
     "doi": "10.5281/zenodo.12689972",
     "url": "https://doi.org/10.5281/zenodo.12689972",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PAAD collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689972",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PAAD collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689972",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689972,\n  doi = {10.5281/ZENODO.12689972},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689972},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-PAAD collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.21juebh0": {
@@ -854,7 +854,7 @@
   "10.5281/zenodo.12666842": {
     "doi": "10.5281/zenodo.12666842",
     "url": "https://doi.org/10.5281/zenodo.12666842",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-OV collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666842",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-OV collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666842",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666842,\n  doi = {10.5281/ZENODO.12666842},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666842},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-OV collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689993": {
@@ -1036,5 +1036,17 @@
     "url": "https://doi.org/10.7937/r7ep-3x37",
     "apa": "Jeblick, K., Schachtner, B., Mittermeier, A., Dexl, J., Wesp, P., K\u00fcstner, T., Gatidis, S., Fr\u00fch, M., Fabritius, M., Unterrainer, L., Sheikh, G., Delker, A., B\u00f6ning, G., Brendel, M., Ricke, J., Werner, R., Gu, S., Ingrisch, M., Geyer, T., &amp; Cyran, C. <i>A whole-body PSMA-PET/CT dataset with manually annotated tumor lesions</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/R7EP-3X37",
     "bibtex": "@misc{https://doi.org/10.7937/r7ep-3x37,\n  doi = {10.7937/R7EP-3X37},\n  url = {https://www.cancerimagingarchive.net/collection/PSMA-PET-CT-Lesions/},\n  author = {Jeblick, Katharina and Schachtner, Balthasar and Mittermeier, Andreas and Dexl, Jakob and Wesp, Philipp and K\u00fcstner, Thomas and Gatidis, Sergios and Fr\u00fch, Marcel and Fabritius, Matthias and Unterrainer, Lena and Sheikh, Gabriel and Delker, Astrid and B\u00f6ning, Guido and Brendel, Matthias and Ricke, Jens and Werner, Rudolf and Gu, Sijing and Ingrisch, Michael and Geyer, Thomas and Cyran, Clemens},\n  title = {A whole-body PSMA-PET/CT dataset with manually annotated tumor lesions},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.17381404": {
+    "doi": "10.5281/zenodo.17381404",
+    "url": "https://doi.org/10.5281/zenodo.17381404",
+    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-HTMCP-CC: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Cervical Cancer</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381404",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381404,\n  doi = {10.5281/ZENODO.17381404},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381404},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-HTMCP-CC: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Cervical Cancer},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/jw9a-8k71": {
+    "doi": "10.7937/jw9a-8k71",
+    "url": "https://doi.org/10.7937/jw9a-8k71",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2026). <i>The Clinical Proteomic Tumor Analysis Consortium Stomach Adenocarcinoma Collection (CPTAC-STAD)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/JW9A-8K71",
+    "bibtex": "@misc{https://doi.org/10.7937/jw9a-8k71,\n  doi = {10.7937/JW9A-8K71},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-stad},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Stomach Adenocarcinoma Collection (CPTAC-STAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
