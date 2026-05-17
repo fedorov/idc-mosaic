@@ -290,7 +290,7 @@
   "10.7937/ghkn-md15": {
     "doi": "10.7937/ghkn-md15",
     "url": "https://doi.org/10.7937/ghkn-md15",
-    "apa": "The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network. (2024). <i>VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/GHKN-MD15",
+    "apa": "The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network. (2024). <i>VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/GHKN-MD15",
     "bibtex": "@misc{https://doi.org/10.7937/ghkn-md15,\n  doi = {10.7937/GHKN-MD15},\n  url = {https://www.cancerimagingarchive.net/collection/varepop-apollo/},\n  author = {{The Research for Precision Oncology Program  and the Applied Proteogenomics Organizational Learning and Outcomes (APOLLO) Research Network}},\n  title = {VA Research Precision Oncology Program - APOLLO (VAREPOP-APOLLO)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689935": {
@@ -992,7 +992,7 @@
   "10.7937/m87f-mz83": {
     "doi": "10.7937/m87f-mz83",
     "url": "https://doi.org/10.7937/m87f-mz83",
-    "apa": "Lung Image Database Consortium (LIDC). (2023). <i>RIDER Pilot</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/M87F-MZ83",
+    "apa": "Lung Image Database Consortium (LIDC). (2023). <i>RIDER Pilot</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/M87F-MZ83",
     "bibtex": "@misc{https://doi.org/10.7937/m87f-mz83,\n  doi = {10.7937/M87F-MZ83},\n  url = {https://www.cancerimagingarchive.net/collection/rider-pilot/},\n  author = {{Lung Image Database Consortium (LIDC)}},\n  title = {RIDER Pilot},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.16967600": {
