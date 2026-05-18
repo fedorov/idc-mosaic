@@ -344,7 +344,7 @@
   "10.7937/k9/tcia.2017.7hs46erv": {
     "doi": "10.7937/k9/tcia.2017.7hs46erv",
     "url": "https://doi.org/10.7937/k9/tcia.2017.7hs46erv",
-    "apa": "Bakr, S., Gevaert, O., Echegaray, S., Ayers, K., Zhou, M., Shafiq, M., Zheng, H., Zhang, W., Leung, A., Kadoch, M., Shrager, J., Quon, A., Rubin, D., Plevritis, S., &amp; Napel, S. (2017). <i>Data for NSCLC Radiogenomics Collection</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.7HS46ERV",
+    "apa": "Bakr, S., Gevaert, O., Echegaray, S., Ayers, K., Zhou, M., Shafiq, M., Zheng, H., Zhang, W., Leung, A., Kadoch, M., Shrager, J., Quon, A., Rubin, D., Plevritis, S., &amp; Napel, S. (2017). <i>Data for NSCLC Radiogenomics Collection</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.7HS46ERV",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2017.7hs46erv,\n  doi = {10.7937/K9/TCIA.2017.7HS46ERV},\n  url = {https://www.cancerimagingarchive.net/collection/nsclc-radiogenomics/},\n  author = {Bakr, Shaimaa and Gevaert, Olivier and Echegaray, Sebastian and Ayers, Kelsey and Zhou, Mu and Shafiq, Majid and Zheng, Hong and Zhang, Weiruo and Leung, Ann and Kadoch, Michael and Shrager, Joseph and Quon, Andrew and Rubin, Daniel and Plevritis, Sylvia and Napel, Sandy},\n  title = {Data for NSCLC Radiogenomics Collection},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/91ah-v663": {
@@ -380,7 +380,7 @@
   "10.5281/zenodo.12690045": {
     "doi": "10.5281/zenodo.12690045",
     "url": "https://doi.org/10.5281/zenodo.12690045",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-BLCA collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690045",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-BLCA collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690045",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690045,\n  doi = {10.5281/ZENODO.12690045},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690045},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-BLCA collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/vtw4-x588": {
@@ -410,7 +410,7 @@
   "10.5281/zenodo.12690002": {
     "doi": "10.5281/zenodo.12690002",
     "url": "https://doi.org/10.5281/zenodo.12690002",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LIHC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690002",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-LIHC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690002",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690002,\n  doi = {10.5281/ZENODO.12690002},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690002},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-LIHC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.gkj0zwac": {
@@ -620,7 +620,7 @@
   "10.7937/tcia.2021.v4z7-tc39": {
     "doi": "10.7937/tcia.2021.v4z7-tc39",
     "url": "https://doi.org/10.7937/tcia.2021.v4z7-tc39",
-    "apa": "Eisenbrey, J., Lyshchik, A., &amp; Wessner, C. (2021). <i>Ultrasound data of a variety of liver masses</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2021.V4Z7-TC39",
+    "apa": "Eisenbrey, J., Lyshchik, A., &amp; Wessner, C. (2021). <i>Ultrasound data of a variety of liver masses</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2021.V4Z7-TC39",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2021.v4z7-tc39,\n  doi = {10.7937/TCIA.2021.V4Z7-TC39},\n  url = {https://www.cancerimagingarchive.net/collection/b-mode-and-ceus-liver/},\n  author = {Eisenbrey, John and Lyshchik, Andrej and Wessner, Corinne},\n  title = {Ultrasound data of a variety of liver masses},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/djg7-gz87": {
