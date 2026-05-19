@@ -158,7 +158,7 @@
   "10.7937/3cx3-s132": {
     "doi": "10.7937/3cx3-s132",
     "url": "https://doi.org/10.7937/3cx3-s132",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3CX3-S132",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)</i> (Version 10) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/3CX3-S132",
     "bibtex": "@misc{https://doi.org/10.7937/3cx3-s132,\n  doi = {10.7937/3CX3-S132},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-lca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/hrzh-2n82": {
@@ -446,7 +446,7 @@
   "10.7937/tcia.eqde-4b16": {
     "doi": "10.7937/tcia.eqde-4b16",
     "url": "https://doi.org/10.7937/tcia.eqde-4b16",
-    "apa": "Cui, C., Li, L., Cai, H., Fan, Z., Zhang, L., Dan, T., Li, J., &amp; Wang, J. (2021). <i>The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.EQDE-4B16",
+    "apa": "Cui, C., Li, L., Cai, H., Fan, Z., Zhang, L., Dan, T., Li, J., &amp; Wang, J. (2021). <i>The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.EQDE-4B16",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.eqde-4b16,\n  doi = {10.7937/TCIA.EQDE-4B16},\n  url = {https://www.cancerimagingarchive.net/collection/cmmd/},\n  author = {Cui, Chunyan and Li, Li and Cai, Hongmin and Fan, Zhihao and Zhang, Ling and Dan, Tingting and Li, Jiao and Wang, Jinghua},\n  title = {The Chinese Mammography Database (CMMD): An online mammography database with biopsy confirmed types for machine diagnosis of breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.svqt-q016": {
@@ -548,7 +548,7 @@
   "10.7937/k9/tcia.2014.a2n1ixox": {
     "doi": "10.7937/k9/tcia.2014.a2n1ixox",
     "url": "https://doi.org/10.7937/k9/tcia.2014.a2n1ixox",
-    "apa": "Huang, W., Tudorica, A., Chui, S., Kemmer, K., Naik, A., Troxell, M., Oh, K., Roy, N., Afzal, A., &amp; Holtorf, M. (2014). <i>Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge (QIN Breast DCE-MRI)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
+    "apa": "Huang, W., Tudorica, A., Chui, S., Kemmer, K., Naik, A., Troxell, M., Oh, K., Roy, N., Afzal, A., &amp; Holtorf, M. (2014). <i>Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge (QIN Breast DCE-MRI)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2014.A2N1IXOX",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2014.a2n1ixox,\n  doi = {10.7937/K9/TCIA.2014.A2N1IXOX},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast-dce-mri/},\n  author = {Huang, Wei and Tudorica, Alina and Chui, Stephen and Kemmer, Kathleen and Naik, Arpana and Troxell, Megan and Oh, Karen and Roy, Nicole and Afzal, Aneela and Holtorf, Megan},\n  title = {Variations of dynamic contrast-enhanced magnetic resonance imaging in evaluation of breast cancer therapy response: a multicenter data analysis challenge (QIN Breast DCE-MRI)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2014},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/erz5-qz59": {
@@ -566,7 +566,7 @@
   "10.5281/zenodo.12666865": {
     "doi": "10.5281/zenodo.12666865",
     "url": "https://doi.org/10.5281/zenodo.12666865",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-UCEC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666865",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-UCEC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666865",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666865,\n  doi = {10.5281/ZENODO.12666865},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666865},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-UCEC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12690035": {
@@ -878,7 +878,7 @@
   "10.5281/zenodo.12666788": {
     "doi": "10.5281/zenodo.12666788",
     "url": "https://doi.org/10.5281/zenodo.12666788",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-GBM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666788",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-GBM collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666788",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666788,\n  doi = {10.5281/ZENODO.12666788},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666788},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-GBM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689981": {
