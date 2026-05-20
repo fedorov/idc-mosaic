@@ -242,7 +242,7 @@
   "10.7937/2bas-hr33": {
     "doi": "10.7937/2bas-hr33",
     "url": "https://doi.org/10.7937/2bas-hr33",
-    "apa": "Comstock, C. E., Gatsonis, C., Newstead, G. M., Snyder, B. S., Gareen, I. F., Bergin, J. T., Rahbar, H., Sung, J. S., Jacobs, C., Harvey, J. A., Nicholson, M. H., Ward, R. C., Holt, J., Prather, A., Miller, K. D., Schnall, M. D., &amp; Kuhl, C. K. (2023). <i>Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/2BAS-HR33",
+    "apa": "Comstock, C. E., Gatsonis, C., Newstead, G. M., Snyder, B. S., Gareen, I. F., Bergin, J. T., Rahbar, H., Sung, J. S., Jacobs, C., Harvey, J. A., Nicholson, M. H., Ward, R. C., Holt, J., Prather, A., Miller, K. D., Schnall, M. D., &amp; Kuhl, C. K. (2023). <i>Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/2BAS-HR33",
     "bibtex": "@misc{https://doi.org/10.7937/2bas-hr33,\n  doi = {10.7937/2BAS-HR33},\n  url = {https://www.cancerimagingarchive.net/collection/ea1141/},\n  author = {Comstock, Christopher E. and Gatsonis, Constantine and Newstead, Gillian M. and Snyder, Bradley S. and Gareen, Ilana F. and Bergin, Jennifer T. and Rahbar, Habib and Sung, Janice S. and Jacobs, Christina and Harvey, Jennifer A. and Nicholson, Mary H. and Ward, Robert C. and Holt, Jacqueline and Prather, Andrew and Miller, Kathy D. and Schnall, Mitchell D. and Kuhl, Christiane K.},\n  title = {Abbreviated Breast MRI and Digital Tomosynthesis Mammography in Screening Women With Dense Breasts (EA1141)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/dx22-8j71": {
@@ -278,7 +278,7 @@
   "10.7937/tcia.2020.nnc2-0461": {
     "doi": "10.7937/tcia.2020.nnc2-0461",
     "url": "https://doi.org/10.7937/tcia.2020.nnc2-0461",
-    "apa": "Li, P., Wang, S., Li, T., Lu, J., HuangFu, Y., &amp; Wang, D. (2020). <i>A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis</i> (Version 5) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.NNC2-0461",
+    "apa": "Li, P., Wang, S., Li, T., Lu, J., HuangFu, Y., &amp; Wang, D. (2020). <i>A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis</i> (Version 5) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.NNC2-0461",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.nnc2-0461,\n  doi = {10.7937/TCIA.2020.NNC2-0461},\n  url = {https://www.cancerimagingarchive.net/collection/lung-pet-ct-dx/},\n  author = {Li, Ping and Wang, Shuo and Li, Tang and Lu, Jingfeng and HuangFu, Yunxin and Wang, Dongxue},\n  title = {A Large-Scale CT and PET/CT Dataset for Lung Cancer Diagnosis},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2015.7go2gsks": {
@@ -308,7 +308,7 @@
   "10.7937/3kq0-yk19": {
     "doi": "10.7937/3kq0-yk19",
     "url": "https://doi.org/10.7937/3kq0-yk19",
-    "apa": "Kalen, J. D., Ileva, L. V., Riffle, L. A., Keita, S., Tatum, J. L., Jacobs, P. M., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Evrard, Y., Clunie, D. A., Miao, T., Wagner, U., Freymann, J., Kirby, J., &amp; Doroshow, J. H. (2023). <i>Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/3KQ0-YK19",
+    "apa": "Kalen, J. D., Ileva, L. V., Riffle, L. A., Keita, S., Tatum, J. L., Jacobs, P. M., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Evrard, Y., Clunie, D. A., Miao, T., Wagner, U., Freymann, J., Kirby, J., &amp; Doroshow, J. H. (2023). <i>Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/3KQ0-YK19",
     "bibtex": "@misc{https://doi.org/10.7937/3kq0-yk19,\n  doi = {10.7937/3KQ0-YK19},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-texture-analysis/},\n  author = {Kalen, Joseph D. and Ileva, Lilia V. and Riffle, Lisa A. and Keita, Saito and Tatum, James L. and Jacobs, Paula M. and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda G. and Evrard, Yvonne and Clunie, David A. and Miao, Tianyi and Wagner, Ulrike and Freymann, John and Kirby, Justin and Doroshow, James H.},\n  title = {Serial Non-contrast Non-gated T2w MRI Datasets of Patient Derived Xenograft Cancer Models for Development of Tissue Characterization Algorithms (PDMR-Texture Analysis)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2016.8lng8xdr": {
@@ -458,8 +458,8 @@
   "10.7937/k9/tcia.2016.yxoglm4y": {
     "doi": "10.7937/k9/tcia.2016.yxoglm4y",
     "url": "https://doi.org/10.7937/k9/tcia.2016.yxoglm4y",
-    "apa": null,
-    "bibtex": null
+    "apa": "Zuley, M. L., Jarosz, R., Drake, B. F., Rancilio, D., Klim, A., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Prostate Adenocarcinoma Collection (TCGA-PRAD)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.YXOGLM4Y",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.yxoglm4y,\n  doi = {10.7937/K9/TCIA.2016.YXOGLM4Y},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-prad/},\n  author = {Zuley, Margarita L. and Jarosz, Rose and Drake, Bettina F. and Rancilio, Danielle and Klim, Aleksandra and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Prostate Adenocarcinoma Collection (TCGA-PRAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689966": {
     "doi": "10.5281/zenodo.12689966",
@@ -542,7 +542,7 @@
   "10.7937/tcia.2019.ix49e8nx": {
     "doi": "10.7937/tcia.2019.ix49e8nx",
     "url": "https://doi.org/10.7937/tcia.2019.ix49e8nx",
-    "apa": "Heller, N., Sathianathen, N., Kalapara, A., Walczak, E., Moore, K., Kaluzniak, H., Rosenberg, J., Blake, P., Rengel, Z., Oestreich, M., Dean, J., Tradewell, M., Shah, A., Tejpaul, R., Edgerton, Z., Peterson, M., Raza, S., Regmi, S., Papanikolopoulos, N., &amp; Weight, C. (2019). <i>C4KC KiTS Challenge Kidney Tumor Segmentation Dataset</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.IX49E8NX",
+    "apa": "Heller, N., Sathianathen, N., Kalapara, A., Walczak, E., Moore, K., Kaluzniak, H., Rosenberg, J., Blake, P., Rengel, Z., Oestreich, M., Dean, J., Tradewell, M., Shah, A., Tejpaul, R., Edgerton, Z., Peterson, M., Raza, S., Regmi, S., Papanikolopoulos, N., &amp; Weight, C. (2019). <i>C4KC KiTS Challenge Kidney Tumor Segmentation Dataset</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.IX49E8NX",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.ix49e8nx,\n  doi = {10.7937/TCIA.2019.IX49E8NX},\n  url = {https://www.cancerimagingarchive.net/collection/c4kc-kits/},\n  author = {Heller, Nicholas and Sathianathen, Niranjan and Kalapara, Arveen and Walczak, Edward and Moore, Keenan and Kaluzniak, Heather and Rosenberg, Joel and Blake, Paul and Rengel, Zachary and Oestreich, Makinna and Dean, Joshua and Tradewell, Michael and Shah, Aneri and Tejpaul, Resha and Edgerton, Zachary and Peterson, Matthew and Raza, Shaneabbas and Regmi, Subodh and Papanikolopoulos, Nikolaos and Weight, Christopher},\n  title = {C4KC KiTS Challenge Kidney Tumor Segmentation Dataset},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2014.a2n1ixox": {
