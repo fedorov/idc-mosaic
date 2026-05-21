@@ -230,7 +230,7 @@
   "10.7937/m0pb-bh69": {
     "doi": "10.7937/m0pb-bh69",
     "url": "https://doi.org/10.7937/m0pb-bh69",
-    "apa": "Amirian, M., Bach, M., Jimenez del Toro, O. A., Aberle, C., Schaer, R., Andrearczyk, V., Maestrati, J.-F., Flouris, K., Obmann, M., Dromain, C., Dufour, B., Poletti, P.-A., von Tengg-Kobligk, H., Alkadhi, H., Konukoglu, E., M\u00fcller, H., Stieltjes, B., &amp; Depeursinge, A. (2025). <i>A Multi-Centric Anthropomorphic 3D CT Phantom-Based Benchmark Dataset for Harmonization (CT4Harmonization-Multicentric)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/M0PB-BH69",
+    "apa": "Amirian, M., Bach, M., Jimenez del Toro, O. A., Aberle, C., Schaer, R., Andrearczyk, V., Maestrati, J.-F., Flouris, K., Obmann, M., Dromain, C., Dufour, B., Poletti, P.-A., von Tengg-Kobligk, H., Alkadhi, H., Konukoglu, E., M\u00fcller, H., Stieltjes, B., &amp; Depeursinge, A. (2025). <i>A Multi-Centric Anthropomorphic 3D CT Phantom-Based Benchmark Dataset for Harmonization (CT4Harmonization-Multicentric)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/M0PB-BH69",
     "bibtex": "@misc{https://doi.org/10.7937/m0pb-bh69,\n  doi = {10.7937/M0PB-BH69},\n  url = {https://www.cancerimagingarchive.net/collection/ct4harmonization-multicentric/},\n  author = {Amirian, Mohammadreza and Bach, Michael and Jimenez del Toro, Oscar Alfonso and Aberle, Christoph and Schaer, Roger and Andrearczyk, Vincent and Maestrati, Jean-F\u00e9lix and Flouris, Kyriakos and Obmann, Markus and Dromain, Clarisse and Dufour, Benoit and Poletti, Pierre-Alexandre and von Tengg-Kobligk, Hendrik and Alkadhi, Hatem and Konukoglu, Ender and M\u00fcller, Henning and Stieltjes, Bram and Depeursinge, Adrien},\n  title = {A Multi-Centric Anthropomorphic 3D CT Phantom-Based Benchmark Dataset for Harmonization (CT4Harmonization-Multicentric)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9tcia.2017.murs5cl": {
@@ -794,7 +794,7 @@
   "10.5281/zenodo.12666740": {
     "doi": "10.5281/zenodo.12666740",
     "url": "https://doi.org/10.5281/zenodo.12666740",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-AML collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666740",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-AML collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666740",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666740,\n  doi = {10.5281/ZENODO.12666740},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666740},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-AML collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.eshq-4d90": {
