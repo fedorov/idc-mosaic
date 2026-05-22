@@ -50,7 +50,7 @@
   "10.7937/k9/tcia.2015.lo9ql9sx": {
     "doi": "10.7937/k9/tcia.2015.lo9ql9sx",
     "url": "https://doi.org/10.7937/k9/tcia.2015.lo9ql9sx",
-    "apa": "Armato III, Samuel G., McLennan, G., Bidaut, L., McNitt-Gray, M. F., Meyer, C. R., Reeves, A. P., Zhao, B., Aberle, D. R., Henschke, C. I., Hoffman, E. A., Kazerooni, E. A., MacMahon, H., Van Beek, E. J. R., Yankelevitz, D., Biancardi, A. M., Bland, P. H., Brown, M. S., Engelmann, R. M., Laderach, G. E., \u2026 Clarke, L. P. (2015). <i>Data From LIDC-IDRI</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
+    "apa": "Armato III, Samuel G., McLennan, G., Bidaut, L., McNitt-Gray, M. F., Meyer, C. R., Reeves, A. P., Zhao, B., Aberle, D. R., Henschke, C. I., Hoffman, E. A., Kazerooni, E. A., MacMahon, H., Van Beek, E. J. R., Yankelevitz, D., Biancardi, A. M., Bland, P. H., Brown, M. S., Engelmann, R. M., Laderach, G. E., \u2026 Clarke, L. P. (2015). <i>Data From LIDC-IDRI</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.LO9QL9SX",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.lo9ql9sx,\n  doi = {10.7937/K9/TCIA.2015.LO9QL9SX},\n  url = {https://www.cancerimagingarchive.net/collection/lidc-idri/},\n  author = {{Armato III, Samuel G.} and McLennan, Geoffrey and Bidaut, Luc and McNitt-Gray, Michael F. and Meyer, Charles R. and Reeves, Anthony P. and Zhao, Binsheng and Aberle, Denise R. and Henschke, Claudia I. and Hoffman, Eric A. and Kazerooni, Ella A. and MacMahon, Heber and Van Beek, Edwin J.R. and Yankelevitz, David and Biancardi, Alberto M. and Bland, Peyton H. and Brown, Matthew S. and Engelmann, Roger M. and Laderach, Gary E. and Max, Daniel and Pais, Richard C. and Qing, David P.Y. and Roberts, Rachael Y. and Smith, Amanda R. and Starkey, Adam and Batra, Poonam and Caligiuri, Philip and Farooqi, Ali and Gladish, Gregory W. and Jude, C. Matilda and Munden, Reginald F. and Petkovska, Iva and Quint, Leslie E. and Schwartz, Lawrence H. and Sundaram, Baskaran and Dodd, Lori E. and Fenimore, Charles and Gur, David and Petrick, Nicholas and Freymann, John and Kirby, Justin and Hughes, Brian and Casteele, Alessi Vande and Gupte, Sangeeta and Sallam, Maha and Heath, Michael D. and Kuhn, Michael H. and Dharaiya, Ekta and Burns, Richard and Fryd, David S. and Salganicoff, Marcos and Anand, Vikram and Shreter, Uri and Vastagh, Stephen and Croft, Barbara Y. and Clarke, Laurence P.},\n  title = {Data From LIDC-IDRI},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/c7x1-yn57": {
@@ -332,13 +332,13 @@
   "10.7937/tcia.2019.zjjwb9ip": {
     "doi": "10.7937/tcia.2019.zjjwb9ip",
     "url": "https://doi.org/10.7937/tcia.2019.zjjwb9ip",
-    "apa": "Patnana, M., Patel, S., &amp; Tsao, A. S. (2019). <i>Data from Anti-PD-1 Immunotherapy Lung</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.ZJJWB9IP",
+    "apa": "Patnana, M., Patel, S., &amp; Tsao, A. S. (2019). <i>Data from Anti-PD-1 Immunotherapy Lung</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.ZJJWB9IP",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.zjjwb9ip,\n  doi = {10.7937/TCIA.2019.ZJJWB9IP},\n  url = {https://www.cancerimagingarchive.net/collection/anti-pd-1_lung/},\n  author = {Patnana, Madhavi and Patel, Sapna and Tsao, Anne S},\n  title = {Data from Anti-PD-1 Immunotherapy Lung},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2015.ofip7tvm": {
     "doi": "10.7937/k9/tcia.2015.ofip7tvm",
     "url": "https://doi.org/10.7937/k9/tcia.2015.ofip7tvm",
-    "apa": "Muzi, P., Wanner, M., &amp; Kinahan, P. (2015). <i>Data From RIDER Lung PET-CT</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.OFIP7TVM",
+    "apa": "Muzi, P., Wanner, M., &amp; Kinahan, P. (2015). <i>Data From RIDER Lung PET-CT</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.OFIP7TVM",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.ofip7tvm,\n  doi = {10.7937/K9/TCIA.2015.OFIP7TVM},\n  url = {https://www.cancerimagingarchive.net/collection/rider-lung-pet-ct/},\n  author = {Muzi, Peter and Wanner, Michelle and Kinahan, Paul},\n  title = {Data From RIDER Lung PET-CT},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2017.7hs46erv": {
@@ -416,7 +416,7 @@
   "10.7937/k9/tcia.2016.gkj0zwac": {
     "doi": "10.7937/k9/tcia.2016.gkj0zwac",
     "url": "https://doi.org/10.7937/k9/tcia.2016.gkj0zwac",
-    "apa": "Erickson, B. J., Mutch, D., Lippmann, L., &amp; Jarosz, R. (2016). <i>The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma Collection (TCGA-UCEC)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
+    "apa": "Erickson, B. J., Mutch, D., Lippmann, L., &amp; Jarosz, R. (2016). <i>The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma Collection (TCGA-UCEC)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.GKJ0ZWAC",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.gkj0zwac,\n  doi = {10.7937/K9/TCIA.2016.GKJ0ZWAC},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-ucec/},\n  author = {Erickson, Bradley J. and Mutch, David and Lippmann, Lynne and Jarosz, Rose},\n  title = {The Cancer Genome Atlas Uterine Corpus Endometrial Carcinoma Collection (TCGA-UCEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2018.oblamn27": {
@@ -590,7 +590,7 @@
   "10.7937/k9/tcia.2016.21juebh0": {
     "doi": "10.7937/k9/tcia.2016.21juebh0",
     "url": "https://doi.org/10.7937/k9/tcia.2016.21juebh0",
-    "apa": "Li, X., Abramson, R. G., Arlinghaus, L. R., Chakravarthy, A. B., Abramson, V. G., Sanders, M., &amp; Yankeelov, T. E. (2016). <i>Data From QIN-Breast</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.21JUEBH0",
+    "apa": "Li, X., Abramson, R. G., Arlinghaus, L. R., Chakravarthy, A. B., Abramson, V. G., Sanders, M., &amp; Yankeelov, T. E. (2016). <i>Data From QIN-Breast</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.21JUEBH0",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.21juebh0,\n  doi = {10.7937/K9/TCIA.2016.21JUEBH0},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast/},\n  author = {Li, Xia and Abramson, Richard G. and Arlinghaus, Lori R. and Chakravarthy, Anuradha B. and Abramson, Vandana G. and Sanders, Melinda and Yankeelov, Thomas E.},\n  title = {Data From QIN-Breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.tygkkfmq": {
@@ -632,7 +632,7 @@
   "10.5281/zenodo.12689913": {
     "doi": "10.5281/zenodo.12689913",
     "url": "https://doi.org/10.5281/zenodo.12689913",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-THYM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689913",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-THYM collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689913",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689913,\n  doi = {10.5281/ZENODO.12689913},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689913},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-THYM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.ndo1mdfq": {
@@ -950,7 +950,7 @@
   "10.7937/k9/tcia.2016.sq4m8yp4": {
     "doi": "10.7937/k9/tcia.2016.sq4m8yp4",
     "url": "https://doi.org/10.7937/k9/tcia.2016.sq4m8yp4",
-    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection (TCGA-CESC)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
+    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection (TCGA-CESC)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.SQ4M8YP4",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.sq4m8yp4,\n  doi = {10.7937/K9/TCIA.2016.SQ4M8YP4},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-cesc/},\n  author = {Lucchesi, Fabiano R. and Aredes, Nat\u00e1lia D.},\n  title = {The Cancer Genome Atlas Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma Collection (TCGA-CESC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.gdhl9kim": {
