@@ -422,7 +422,7 @@
   "10.7937/k9/tcia.2018.oblamn27": {
     "doi": "10.7937/k9/tcia.2018.oblamn27",
     "url": "https://doi.org/10.7937/k9/tcia.2018.oblamn27",
-    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)</i> (Version 14) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)</i> (Version 14) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.OBLAMN27",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.oblamn27,\n  doi = {10.7937/K9/TCIA.2018.OBLAMN27},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-ccrcc/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Clear Cell Renal Cell Carcinoma Collection (CPTAC-CCRCC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.e3sv-re93": {
@@ -1048,5 +1048,11 @@
     "url": "https://doi.org/10.7937/jw9a-8k71",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2026). <i>The Clinical Proteomic Tumor Analysis Consortium Stomach Adenocarcinoma Collection (CPTAC-STAD)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/JW9A-8K71",
     "bibtex": "@misc{https://doi.org/10.7937/jw9a-8k71,\n  doi = {10.7937/JW9A-8K71},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-stad},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Stomach Adenocarcinoma Collection (CPTAC-STAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/9npb-2637": {
+    "doi": "10.7937/9npb-2637",
+    "url": "https://doi.org/10.7937/9npb-2637",
+    "apa": "McCollough, C., Chen, B., Holmes III, D. R., Duan, X., Yu, Z., Yu, L., Leng, S., &amp; Fletcher, J. (2020). <i>Low Dose CT Image and Projection Data (LDCT-and-Projection-data)</i> (Version 7) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/9NPB-2637",
+    "bibtex": "@misc{https://doi.org/10.7937/9npb-2637,\n  doi = {10.7937/9NPB-2637},\n  url = {https://www.cancerimagingarchive.net/collection/ldct-and-projection-data/},\n  author = {McCollough, Cynthia and Chen, Baiyu and Holmes III, David R and Duan, Xinhui and Yu, Zhicong and Yu, Lifeng and Leng, Shuai and Fletcher, Joel},\n  title = {Low Dose CT Image and Projection Data (LDCT-and-Projection-data)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {NIH Controlled Data Access Policy}\n}\n"
   }
 }
