@@ -8,7 +8,7 @@
   "10.5281/zenodo.12666775": {
     "doi": "10.5281/zenodo.12666775",
     "url": "https://doi.org/10.5281/zenodo.12666775",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-CM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666775",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-CM collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666775",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666775,\n  doi = {10.5281/ZENODO.12666775},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666775},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-CM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689917": {
@@ -152,7 +152,7 @@
   "10.7937/k9/tcia.2017.ol20zmxg": {
     "doi": "10.7937/k9/tcia.2017.ol20zmxg",
     "url": "https://doi.org/10.7937/k9/tcia.2017.ol20zmxg",
-    "apa": "Kinahan, P., Muzi, M., Bialecki, B., &amp; Coombs, L. (2017). <i>Data from ACRIN-FLT-Breast</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.OL20ZMXG",
+    "apa": "Kinahan, P., Muzi, M., Bialecki, B., &amp; Coombs, L. (2017). <i>Data from ACRIN-FLT-Breast</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.OL20ZMXG",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2017.ol20zmxg,\n  doi = {10.7937/K9/TCIA.2017.OL20ZMXG},\n  url = {https://www.cancerimagingarchive.net/collection/acrin-flt-breast/},\n  author = {Kinahan, Paul and Muzi, Mark and Bialecki, Brian and Coombs, Laura},\n  title = {Data from ACRIN-FLT-Breast},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/3cx3-s132": {
@@ -578,7 +578,7 @@
   "10.7937/k9/tcia.2016.jgnihep5": {
     "doi": "10.7937/k9/tcia.2016.jgnihep5",
     "url": "https://doi.org/10.7937/k9/tcia.2016.jgnihep5",
-    "apa": "Albertina, B., Watson, M., Holback, C., Jarosz, R., Kirk, S., Lee, Y., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Lung Adenocarcinoma Collection (TCGA-LUAD)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
+    "apa": "Albertina, B., Watson, M., Holback, C., Jarosz, R., Kirk, S., Lee, Y., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Lung Adenocarcinoma Collection (TCGA-LUAD)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.JGNIHEP5",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.jgnihep5,\n  doi = {10.7937/K9/TCIA.2016.JGNIHEP5},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-luad/},\n  author = {Albertina, Brad and Watson, Mark and Holback, Chandra and Jarosz, Rose and Kirk, Shanah and Lee, Yueh and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Lung Adenocarcinoma Collection (TCGA-LUAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689972": {
@@ -656,7 +656,7 @@
   "10.5281/zenodo.12689995": {
     "doi": "10.5281/zenodo.12689995",
     "url": "https://doi.org/10.5281/zenodo.12689995",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-TGCT collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689995",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-TGCT collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689995",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689995,\n  doi = {10.5281/ZENODO.12689995},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689995},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-TGCT collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2015.u1x8a5nr": {
