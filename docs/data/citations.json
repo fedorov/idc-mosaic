@@ -554,7 +554,7 @@
   "10.7937/erz5-qz59": {
     "doi": "10.7937/erz5-qz59",
     "url": "https://doi.org/10.7937/erz5-qz59",
-    "apa": "Mayr, N., Yuh, W. T. C., Bowen, S., Harkenrider, M., Knopp, M. V., Lee, E. Y.-P., Leung, E., Lo, S. S., Small Jr., W., &amp; Wolfson, A. H. (2023). <i>Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/ERZ5-QZ59",
+    "apa": "Mayr, N., Yuh, W. T. C., Bowen, S., Harkenrider, M., Knopp, M. V., Lee, E. Y.-P., Leung, E., Lo, S. S., Small Jr., W., &amp; Wolfson, A. H. (2023). <i>Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/ERZ5-QZ59",
     "bibtex": "@misc{https://doi.org/10.7937/erz5-qz59,\n  doi = {10.7937/ERZ5-QZ59},\n  url = {https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/},\n  author = {Mayr, Nina and Yuh, William T.C. and Bowen, Stephen and Harkenrider, Matthew and Knopp, Michael V. and Lee, Elaine Yuen-Phin and Leung, Eric and Lo, Simon S. and Small Jr., William and Wolfson, Aaron H.},\n  title = {Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2019.4cfm06rr": {
@@ -884,7 +884,7 @@
   "10.5281/zenodo.12689981": {
     "doi": "10.5281/zenodo.12689981",
     "url": "https://doi.org/10.5281/zenodo.12689981",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UCS collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689981",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UCS collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689981",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689981,\n  doi = {10.5281/ZENODO.12689981},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689981},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-UCS collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.yu3rbczn": {
