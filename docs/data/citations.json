@@ -320,7 +320,7 @@
   "10.5281/zenodo.12689998": {
     "doi": "10.5281/zenodo.12689998",
     "url": "https://doi.org/10.5281/zenodo.12689998",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-READ collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689998",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-READ collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689998",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689998,\n  doi = {10.5281/ZENODO.12689998},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689998},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-READ collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689948": {
