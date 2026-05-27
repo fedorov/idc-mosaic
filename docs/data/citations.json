@@ -68,7 +68,7 @@
   "10.5281/zenodo.12689964": {
     "doi": "10.5281/zenodo.12689964",
     "url": "https://doi.org/10.5281/zenodo.12689964",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PCPG collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689964",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-PCPG collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689964",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689964,\n  doi = {10.5281/ZENODO.12689964},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689964},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-PCPG collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689958": {
@@ -722,7 +722,7 @@
   "10.7937/tcia.5fna-0924": {
     "doi": "10.7937/tcia.5fna-0924",
     "url": "https://doi.org/10.7937/tcia.5fna-0924",
-    "apa": "Moawad, A. W., Fuentes, D., Morshid, A., Khalaf, A. M., Elmohr, M. M., Abusaif, A., Hazle, J. D., Kaseb, A. O., Hassan, M., Mahvash, A., Szklaruk, J., Qayyom, A., &amp; Elsayes, K. (2021). <i>Multimodality annotated HCC cases with and without advanced imaging segmentation</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.5FNA-0924",
+    "apa": "Moawad, A. W., Fuentes, D., Morshid, A., Khalaf, A. M., Elmohr, M. M., Abusaif, A., Hazle, J. D., Kaseb, A. O., Hassan, M., Mahvash, A., Szklaruk, J., Qayyom, A., &amp; Elsayes, K. (2021). <i>Multimodality annotated HCC cases with and without advanced imaging segmentation</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.5FNA-0924",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.5fna-0924,\n  doi = {10.7937/TCIA.5FNA-0924},\n  url = {https://www.cancerimagingarchive.net/collection/hcc-tace-seg/},\n  author = {Moawad, Ahmed W. and Fuentes, David and Morshid, Ali and Khalaf, Ahmed M. and Elmohr, Mohab M. and Abusaif, Abdelrahman and Hazle, John D. and Kaseb, Ahmed O. and Hassan, Manal and Mahvash, Armeen and Szklaruk, Janio and Qayyom, Aliyya and Elsayes, Khaled},\n  title = {Multimodality annotated HCC cases with and without advanced imaging segmentation},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666803": {
@@ -1054,5 +1054,11 @@
     "url": "https://doi.org/10.7937/9npb-2637",
     "apa": "McCollough, C., Chen, B., Holmes III, D. R., Duan, X., Yu, Z., Yu, L., Leng, S., &amp; Fletcher, J. (2020). <i>Low Dose CT Image and Projection Data (LDCT-and-Projection-data)</i> (Version 7) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/9NPB-2637",
     "bibtex": "@misc{https://doi.org/10.7937/9npb-2637,\n  doi = {10.7937/9NPB-2637},\n  url = {https://www.cancerimagingarchive.net/collection/ldct-and-projection-data/},\n  author = {McCollough, Cynthia and Chen, Baiyu and Holmes III, David R and Duan, Xinhui and Yu, Zhicong and Yu, Lifeng and Leng, Shuai and Fletcher, Joel},\n  title = {Low Dose CT Image and Projection Data (LDCT-and-Projection-data)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {NIH Controlled Data Access Policy}\n}\n"
+  },
+  "10.5281/zenodo.17257735": {
+    "doi": "10.5281/zenodo.17257735",
+    "url": "https://doi.org/10.5281/zenodo.17257735",
+    "apa": "Kinahan, P., Muzi, M., Fedorov, A., Miyaoka, R., &amp; Houghton, A. M. G. (2026). <i>Genetically-engineered mouse model (GEMM) of lung carcinoma imaged with 18F-FDG before and after a novel combination therapy (immune checkpoint inhibitor with neutrophil depletion therapy)</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17257735",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.17257735,\n  doi = {10.5281/ZENODO.17257735},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17257735},\n  author = {Kinahan, Paul and Muzi, Mark and Fedorov, Andrey and Miyaoka, Robert and Houghton, A. McGarry},\n  title = {Genetically-engineered mouse model (GEMM) of lung carcinoma imaged with 18F-FDG before and after a novel combination therapy (immune checkpoint inhibitor with neutrophil depletion therapy)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
