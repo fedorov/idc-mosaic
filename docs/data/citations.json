@@ -248,7 +248,7 @@
   "10.7937/dx22-8j71": {
     "doi": "10.7937/dx22-8j71",
     "url": "https://doi.org/10.7937/dx22-8j71",
-    "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/DX22-8J71",
+    "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/DX22-8J71",
     "bibtex": "@misc{https://doi.org/10.7937/dx22-8j71,\n  doi = {10.7937/DX22-8J71},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-brca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12690037": {
@@ -266,7 +266,7 @@
   "10.7937/k9/tcia.2018.sc20fo18": {
     "doi": "10.7937/k9/tcia.2018.sc20fo18",
     "url": "https://doi.org/10.7937/k9/tcia.2018.sc20fo18",
-    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)</i> (Version 15) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)</i> (Version 15) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.SC20FO18",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.sc20fo18,\n  doi = {10.7937/K9/TCIA.2018.SC20FO18},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-pda/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Pancreatic Ductal Adenocarcinoma Collection (CPTAC-PDA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666807": {
@@ -440,7 +440,7 @@
   "10.7937/k9/tcia.2015.sdnrqxxr": {
     "doi": "10.7937/k9/tcia.2015.sdnrqxxr",
     "url": "https://doi.org/10.7937/k9/tcia.2015.sdnrqxxr",
-    "apa": "Bloch, B. N., Jain, A., &amp; jaffe, conrade carl. (2015). <i>Data From BREAST-DIAGNOSIS</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
+    "apa": "Bloch, B. N., Jain, A., &amp; jaffe, conrade carl. (2015). <i>Data From BREAST-DIAGNOSIS</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.SDNRQXXR",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.sdnrqxxr,\n  doi = {10.7937/K9/TCIA.2015.SDNRQXXR},\n  url = {https://www.cancerimagingarchive.net/collection/breast-diagnosis/},\n  author = {Bloch, B. Nicolas and Jain, Ashali and jaffe, conrade carl},\n  title = {Data From BREAST-DIAGNOSIS},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.eqde-4b16": {
@@ -560,7 +560,7 @@
   "10.7937/tcia.2019.4cfm06rr": {
     "doi": "10.7937/tcia.2019.4cfm06rr",
     "url": "https://doi.org/10.7937/tcia.2019.4cfm06rr",
-    "apa": "Yankeelov, T. E., Karczmar, G. S., &amp; Abramson, R. G. (2019). <i>Data from QIN-BREAST-02</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.4CFM06RR",
+    "apa": "Yankeelov, T. E., Karczmar, G. S., &amp; Abramson, R. G. (2019). <i>Data from QIN-BREAST-02</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.4CFM06RR",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.4cfm06rr,\n  doi = {10.7937/TCIA.2019.4CFM06RR},\n  url = {https://www.cancerimagingarchive.net/collection/qin-breast-02/},\n  author = {Yankeelov, Thomas E. and Karczmar, Gregory S. and Abramson, Richard G.},\n  title = {Data from QIN-BREAST-02},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {NIH Controlled Data Access Policy}\n}\n"
   },
   "10.5281/zenodo.12666865": {
@@ -692,7 +692,7 @@
   "10.7937/k9/tcia.2015.aqiidcnm": {
     "doi": "10.7937/k9/tcia.2015.aqiidcnm",
     "url": "https://doi.org/10.7937/k9/tcia.2015.aqiidcnm",
-    "apa": "Roth, H., Lu, L., Seff, A., Cherry, K. M., Hoffman, J., Wang, S., Liu, J., Turkbey, E., &amp; Summers, R. M. (2015). <i>A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
+    "apa": "Roth, H., Lu, L., Seff, A., Cherry, K. M., Hoffman, J., Wang, S., Liu, J., Turkbey, E., &amp; Summers, R. M. (2015). <i>A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.AQIIDCNM",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.aqiidcnm,\n  doi = {10.7937/K9/TCIA.2015.AQIIDCNM},\n  url = {https://www.cancerimagingarchive.net/collection/ct-lymph-nodes/},\n  author = {Roth, Holger and Lu, Le and Seff, Ari and Cherry, Kevin M and Hoffman, Joanne and Wang, Shijun and Liu, Jiamin and Turkbey, Evrim and Summers, Ronald M.},\n  title = {A new 2.5 D representation for lymph node detection in CT (CT Lymph Nodes)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.2019.9bt23r95": {
@@ -734,7 +734,7 @@
   "10.5281/zenodo.12689990": {
     "doi": "10.5281/zenodo.12689990",
     "url": "https://doi.org/10.5281/zenodo.12689990",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CHOL collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689990",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-CHOL collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689990",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689990,\n  doi = {10.5281/ZENODO.12689990},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689990},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-CHOL collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.2019.4l24tz5g": {
@@ -926,7 +926,7 @@
   "10.7937/p5k5-tg43": {
     "doi": "10.7937/p5k5-tg43",
     "url": "https://doi.org/10.7937/p5k5-tg43",
-    "apa": "Tong, T., &amp; Li, M. (2022). <i>Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/P5K5-TG43",
+    "apa": "Tong, T., &amp; Li, M. (2022). <i>Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/P5K5-TG43",
     "bibtex": "@misc{https://doi.org/10.7937/p5k5-tg43,\n  doi = {10.7937/P5K5-TG43},\n  url = {https://www.cancerimagingarchive.net/collection/stageii-colorectal-ct/},\n  author = {Tong, Tong and Li, Menglei},\n  title = {Abdominal or pelvic enhanced CT images within 10 days before surgery of 230 patients with stage II colorectal cancer},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2016.6046gudv": {
