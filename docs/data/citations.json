@@ -164,13 +164,13 @@
   "10.7937/hrzh-2n82": {
     "doi": "10.7937/hrzh-2n82",
     "url": "https://doi.org/10.7937/hrzh-2n82",
-    "apa": "Kujawa, A., Dorent, R., Wijethilake, N., Connor, S., Thomson, S., Ivory, M., Bradford, R., Kitchen, N., Bisdas, S., Ourselin, S., Vercauteren, T., &amp; Shapey, J. (2023). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/HRZH-2N82",
+    "apa": "Kujawa, A., Dorent, R., Wijethilake, N., Connor, S., Thomson, S., Ivory, M., Bradford, R., Kitchen, N., Bisdas, S., Ourselin, S., Vercauteren, T., &amp; Shapey, J. (2023). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/HRZH-2N82",
     "bibtex": "@misc{https://doi.org/10.7937/hrzh-2n82,\n  doi = {10.7937/HRZH-2N82},\n  url = {https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-mc-rc/},\n  author = {Kujawa, Aaron and Dorent, Reuben and Wijethilake, Navodini and Connor, Stephen and Thomson, Suki and Ivory, Marina and Bradford, Robert and Kitchen, Neil and Bisdas, Sotirios and Ourselin, Sebastien and Vercauteren, Tom and Shapey, Jonathan},\n  title = {Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666768": {
     "doi": "10.5281/zenodo.12666768",
     "url": "https://doi.org/10.5281/zenodo.12666768",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-CCRCC collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12666768",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-CCRCC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666768",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666768,\n  doi = {10.5281/ZENODO.12666768},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666768},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-CCRCC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689954": {
@@ -956,7 +956,7 @@
   "10.7937/k9/tcia.2016.gdhl9kim": {
     "doi": "10.7937/k9/tcia.2016.gdhl9kim",
     "url": "https://doi.org/10.7937/k9/tcia.2016.gdhl9kim",
-    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Stomach Adenocarcinoma Collection (TCGA-STAD)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
+    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Stomach Adenocarcinoma Collection (TCGA-STAD)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.GDHL9KIM",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.gdhl9kim,\n  doi = {10.7937/K9/TCIA.2016.GDHL9KIM},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-stad/},\n  author = {Lucchesi, Fabiano R. and Aredes, Nat\u00e1lia D.},\n  title = {The Cancer Genome Atlas Stomach Adenocarcinoma Collection (TCGA-STAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.2019.b6foe619": {
@@ -1060,5 +1060,11 @@
     "url": "https://doi.org/10.5281/zenodo.17257735",
     "apa": "Kinahan, P., Muzi, M., Fedorov, A., Miyaoka, R., &amp; Houghton, A. M. G. (2026). <i>Genetically-engineered mouse model (GEMM) of lung carcinoma imaged with 18F-FDG before and after a novel combination therapy (immune checkpoint inhibitor with neutrophil depletion therapy)</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17257735",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17257735,\n  doi = {10.5281/ZENODO.17257735},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17257735},\n  author = {Kinahan, Paul and Muzi, Mark and Fedorov, Andrey and Miyaoka, Robert and Houghton, A. McGarry},\n  title = {Genetically-engineered mouse model (GEMM) of lung carcinoma imaged with 18F-FDG before and after a novel combination therapy (immune checkpoint inhibitor with neutrophil depletion therapy)},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.17381412": {
+    "doi": "10.5281/zenodo.17381412",
+    "url": "https://doi.org/10.5281/zenodo.17381412",
+    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-HTMCP-DLBCL: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Diffuse Large B-CellLymphoma</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381412",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381412,\n  doi = {10.5281/ZENODO.17381412},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381412},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-HTMCP-DLBCL: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Diffuse Large B-CellLymphoma},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
