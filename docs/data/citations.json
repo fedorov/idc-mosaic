@@ -356,7 +356,7 @@
   "10.7937/szkb-sw39": {
     "doi": "10.7937/szkb-sw39",
     "url": "https://doi.org/10.7937/szkb-sw39",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)</i> (Version 9) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/SZKB-SW39",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)</i> (Version 10) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/SZKB-SW39",
     "bibtex": "@misc{https://doi.org/10.7937/szkb-sw39,\n  doi = {10.7937/SZKB-SW39},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-mml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.8347011": {
@@ -536,7 +536,7 @@
   "10.7937/25t7-6y12": {
     "doi": "10.7937/25t7-6y12",
     "url": "https://doi.org/10.7937/25t7-6y12",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)</i> (Version 10) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/25T7-6Y12",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/25T7-6Y12",
     "bibtex": "@misc{https://doi.org/10.7937/25t7-6y12,\n  doi = {10.7937/25T7-6Y12},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-pca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Prostate Cancer Collection (CMB-PCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2019.ix49e8nx": {
