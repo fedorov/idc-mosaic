@@ -464,7 +464,7 @@
   "10.5281/zenodo.12689966": {
     "doi": "10.5281/zenodo.12689966",
     "url": "https://doi.org/10.5281/zenodo.12689966",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-MESO collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689966",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-MESO collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689966",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689966,\n  doi = {10.5281/ZENODO.12689966},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689966},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-MESO collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2015.isoqthko": {
@@ -716,7 +716,7 @@
   "10.7937/qxk2-qg03": {
     "doi": "10.7937/qxk2-qg03",
     "url": "https://doi.org/10.7937/qxk2-qg03",
-    "apa": "Simpson, A. L., Peoples, J., Creasy, J. M., Fichtinger, G., Gangai, N., Lasso, A., Keshava Murthy, K. N., Shia, J., D'Angelica, M. I., &amp; Do, R. K. G. (2023). <i>Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/QXK2-QG03",
+    "apa": "Simpson, A. L., Peoples, J., Creasy, J. M., Fichtinger, G., Gangai, N., Lasso, A., Keshava Murthy, K. N., Shia, J., D'Angelica, M. I., &amp; Do, R. K. G. (2023). <i>Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/QXK2-QG03",
     "bibtex": "@misc{https://doi.org/10.7937/qxk2-qg03,\n  doi = {10.7937/QXK2-QG03},\n  url = {https://www.cancerimagingarchive.net/collection/colorectal-liver-metastases/},\n  author = {Simpson, Amber L. and Peoples, Jacob and Creasy, John M. and Fichtinger, Gabor and Gangai, Natalie and Lasso, Andras and Keshava Murthy, Krishna Nand and Shia, Jinru and D'Angelica, Michael I. and Do, Richard K. G.},\n  title = {Preoperative CT and Survival Data for Patients Undergoing Resection of Colorectal Liver Metastases (Colorectal-Liver-Metastases)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.5fna-0924": {
