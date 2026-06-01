@@ -626,7 +626,7 @@
   "10.7937/djg7-gz87": {
     "doi": "10.7937/djg7-gz87",
     "url": "https://doi.org/10.7937/djg7-gz87",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)</i> (Version 9) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/DJG7-GZ87",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)</i> (Version 10) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/DJG7-GZ87",
     "bibtex": "@misc{https://doi.org/10.7937/djg7-gz87,\n  doi = {10.7937/DJG7-GZ87},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-crc/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Colorectal Cancer Collection (CMB-CRC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689913": {
@@ -776,7 +776,7 @@
   "10.7937/tcia.x0h0-1706": {
     "doi": "10.7937/tcia.x0h0-1706",
     "url": "https://doi.org/10.7937/tcia.x0h0-1706",
-    "apa": "Jordan, P., Adamson, P. M., Bhattbhatt, V., Beriwal, S., Shen, S., Radermecker, O., Bose, S., Strain, L. S., Offe, M., Fraley, D., Principi, S., Ye, D. H., Wang, A. S., Van Heteren, J., Vo, N.-J., &amp; Schmidt, T. G. (2021). <i>Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.X0H0-1706",
+    "apa": "Jordan, P., Adamson, P. M., Bhattbhatt, V., Beriwal, S., Shen, S., Radermecker, O., Bose, S., Strain, L. S., Offe, M., Fraley, D., Principi, S., Ye, D. H., Wang, A. S., Van Heteren, J., Vo, N.-J., &amp; Schmidt, T. G. (2021). <i>Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.X0H0-1706",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.x0h0-1706,\n  doi = {10.7937/TCIA.X0H0-1706},\n  url = {https://www.cancerimagingarchive.net/collection/pediatric-ct-seg/},\n  author = {Jordan, Petr and Adamson, Philip M. and Bhattbhatt, Vrunda and Beriwal, Surabhi and Shen, Sangyu and Radermecker, Oskar and Bose, Supratik and Strain, Linda S. and Offe, Michael and Fraley, David and Principi, Sara and Ye, Dong Hye and Wang, Adam S. and Van Heteren, John and Vo, Nghia-Jack and Schmidt, Taly Gilat},\n  title = {Pediatric Chest/Abdomen/Pelvic CT Exams with Expert Organ Contours (Pediatric-CT-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12690000": {
@@ -1066,5 +1066,11 @@
     "url": "https://doi.org/10.5281/zenodo.17381412",
     "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-HTMCP-DLBCL: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Diffuse Large B-CellLymphoma</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381412",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381412,\n  doi = {10.5281/ZENODO.17381412},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381412},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-HTMCP-DLBCL: DICOM converted whole slide images from the Cancer Genome Characterization Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Diffuse Large B-CellLymphoma},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k4qv-hh78": {
+    "doi": "10.7937/k4qv-hh78",
+    "url": "https://doi.org/10.7937/k4qv-hh78",
+    "apa": "Nohel, M., Valek, V., Rohan, T., Stork, M., Jakubicek, R., Chmelik, J., &amp; Dost\u00e1l, M. (2026). <i>Segmentation of spinal multiple myeloma lesions in dual-energy CT (Spinal-Multiple-Myeloma-SEG)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K4QV-HH78",
+    "bibtex": "@misc{https://doi.org/10.7937/k4qv-hh78,\n  doi = {10.7937/K4QV-HH78},\n  url = {https://www.cancerimagingarchive.net/collection/Spinal-Multiple-Myeloma-SEG},\n  author = {Nohel, Michal and Valek, Vlastimil and Rohan, Tomas and Stork, Martin and Jakubicek, Roman and Chmelik, Jiri and Dost\u00e1l, Marek},\n  title = {Segmentation of spinal multiple myeloma lesions in dual-energy CT (Spinal-Multiple-Myeloma-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
