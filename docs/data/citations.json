@@ -752,7 +752,7 @@
   "10.7937/gwsp-wh72": {
     "doi": "10.7937/gwsp-wh72",
     "url": "https://doi.org/10.7937/gwsp-wh72",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)</i> (Version 10) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/GWSP-WH72",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/GWSP-WH72",
     "bibtex": "@misc{https://doi.org/10.7937/gwsp-wh72,\n  doi = {10.7937/GWSP-WH72},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-mel/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2018.6emub5l2": {
@@ -932,7 +932,7 @@
   "10.7937/k9/tcia.2016.6046gudv": {
     "doi": "10.7937/k9/tcia.2016.6046gudv",
     "url": "https://doi.org/10.7937/k9/tcia.2016.6046gudv",
-    "apa": "Choyke, P., Turkbey, B., Pinto, P., Merino, M., &amp; Wood, B. (2016). <i>Data From PROSTATE-MRI</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.6046GUDV",
+    "apa": "Choyke, P., Turkbey, B., Pinto, P., Merino, M., &amp; Wood, B. (2016). <i>Data From PROSTATE-MRI</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.6046GUDV",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.6046gudv,\n  doi = {10.7937/K9/TCIA.2016.6046GUDV},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-mri/},\n  author = {Choyke, Peter and Turkbey, Baris and Pinto, Peter and Merino, Maria and Wood, Brad},\n  title = {Data From PROSTATE-MRI},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.13993796": {
