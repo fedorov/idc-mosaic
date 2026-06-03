@@ -116,7 +116,7 @@
   "10.7937/pcte-6m66": {
     "doi": "10.7937/pcte-6m66",
     "url": "https://doi.org/10.7937/pcte-6m66",
-    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 7) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
+    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 8) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
     "bibtex": "@misc{https://doi.org/10.7937/pcte-6m66,\n  doi = {10.7937/PCTE-6M66},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-aml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689962": {
@@ -452,7 +452,7 @@
   "10.7937/tcia.svqt-q016": {
     "doi": "10.7937/tcia.svqt-q016",
     "url": "https://doi.org/10.7937/tcia.svqt-q016",
-    "apa": "Amin, S. B., Anderson, K. J., Boudreau, C. E., Martinez-Ledesma, E., Kocakavuk, E., Johnson, K. C., Barthel, F. P., Varn, F. S., Kassab, C., Ling, X., Kim, H., Barter, M., Lau, C. C., Yee Ngan, C., Chapman, M., Koehler, J. W., Miller, A. D., Long, J. P., Miller, C. R., \u2026 Verhaak, R. G. W. (2020). <i>Canine glioma characterization project for ICDC (ICDC-Glioma) 01</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.SVQT-Q016",
+    "apa": "Amin, S. B., Anderson, K. J., Boudreau, C. E., Martinez-Ledesma, E., Kocakavuk, E., Johnson, K. C., Barthel, F. P., Varn, F. S., Kassab, C., Ling, X., Kim, H., Barter, M., Lau, C. C., Yee Ngan, C., Chapman, M., Koehler, J. W., Miller, A. D., Long, J. P., Miller, C. R., \u2026 Verhaak, R. G. W. (2020). <i>Canine glioma characterization project for ICDC (ICDC-Glioma) 01</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.SVQT-Q016",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.svqt-q016,\n  doi = {10.7937/TCIA.SVQT-Q016},\n  url = {https://www.cancerimagingarchive.net/collection/icdc-glioma/},\n  author = {Amin, Samirkumar B. and Anderson, Kevin J. and Boudreau, C. Elizabeth and Martinez-Ledesma, Emmanuel and Kocakavuk, Emre and Johnson, Kevin C. and Barthel, Floris P. and Varn, Frederick S. and Kassab, Cynthia and Ling, Xiaoyang and Kim, Hoon and Barter, Mary and Lau, Ching C. and Yee Ngan, Chew and Chapman, Margaret and Koehler, Jennifer W. and Miller, Andrew D. and Long, James P. and Miller, C. Ryan and Porter, Brian F. and Rissi, Daniel R. and Mazcko, Christina and LeBlanc, Amy K. and Dickinson, Peter J. and Packer, Rebecca A. and Taylor, Amanda R. and Rossmeisl Jr., John H. and Woolard, Kevin D. and Heimberger, Amy B. and Levine, Jonathan M. and Verhaak, Roel G.W.},\n  title = {Canine glioma characterization project for ICDC (ICDC-Glioma) 01},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2016.yxoglm4y": {
@@ -896,7 +896,7 @@
   "10.5281/zenodo.8225131": {
     "doi": "10.5281/zenodo.8225131",
     "url": "https://doi.org/10.5281/zenodo.8225131",
-    "apa": "Clunie, D., Khan, J., Milewski, D., Jung, H., Bowen, J., Lisle, C., Brown, T., Liu, Y., Collins, J., Linardic, C. M., Hawkins, D. S., Venkatramani, R., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2023). <i>DICOM converted whole slide hematoxylin and eosin images of rhabdomyosarcoma from Children's Oncology Group trials</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.8225131",
+    "apa": "Clunie, D., Khan, J., Milewski, D., Jung, H., Bowen, J., Lisle, C., Brown, T., Liu, Y., Collins, J., Linardic, C. M., Hawkins, D. S., Venkatramani, R., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2023). <i>DICOM converted whole slide hematoxylin and eosin images of rhabdomyosarcoma from Children's Oncology Group trials</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.8225131",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.8225131,\n  doi = {10.5281/ZENODO.8225131},\n  url = {https://zenodo.org/doi/10.5281/zenodo.8225131},\n  author = {Clunie, David and Khan, Javed and Milewski, David and Jung, Hyun and Bowen, Jay and Lisle, Curtis and Brown, Thomas and Liu, Yanling and Collins, Jack and Linardic, Corinne M. and Hawkins, Douglas S. and Venkatramani, Rajkumar and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  keywords = {cancer imaging, DICOM, whole slide imaging, rhabdomyosarcoma, public data},\n  title = {DICOM converted whole slide hematoxylin and eosin images of rhabdomyosarcoma from Children's Oncology Group trials},\n  publisher = {Zenodo},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2016.tlpmr1am": {
