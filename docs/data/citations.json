@@ -314,7 +314,7 @@
   "10.7937/k9/tcia.2016.8lng8xdr": {
     "doi": "10.7937/k9/tcia.2016.8lng8xdr",
     "url": "https://doi.org/10.7937/k9/tcia.2016.8lng8xdr",
-    "apa": "Kirk, S., Lee, Y., Lucchesi, F. R., Aredes, N. D., Gruszauskas, N., Catto, J., Garcia, K., Jarosz, R., Duddalwar, V., Varghese, B., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)</i> (Version 8) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
+    "apa": "Kirk, S., Lee, Y., Lucchesi, F. R., Aredes, N. D., Gruszauskas, N., Catto, J., Garcia, K., Jarosz, R., Duddalwar, V., Varghese, B., Rieger-Christ, K., &amp; Lemmerman, J. (2016). <i>The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)</i> (Version 8) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.8LNG8XDR",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.8lng8xdr,\n  doi = {10.7937/K9/TCIA.2016.8LNG8XDR},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-blca/},\n  author = {Kirk, Shanah and Lee, Yueh and Lucchesi, Fabiano R. and Aredes, Natalia D. and Gruszauskas, Nicholas and Catto, James and Garcia, Kimberly and Jarosz, Rose and Duddalwar, Vinay and Varghese, Bino and Rieger-Christ, Kimberly and Lemmerman, John},\n  title = {The Cancer Genome Atlas Urothelial Bladder Carcinoma Collection (TCGA-BLCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689998": {
@@ -374,7 +374,7 @@
   "10.5281/zenodo.12690041": {
     "doi": "10.5281/zenodo.12690041",
     "url": "https://doi.org/10.5281/zenodo.12690041",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UVM collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12690041",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-UVM collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690041",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690041,\n  doi = {10.5281/ZENODO.12690041},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690041},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-UVM collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12690045": {
