@@ -260,7 +260,7 @@
   "10.7937/e7kh-r486": {
     "doi": "10.7937/e7kh-r486",
     "url": "https://doi.org/10.7937/e7kh-r486",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)</i> (Version 7) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/E7KH-R486",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)</i> (Version 8) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/E7KH-R486",
     "bibtex": "@misc{https://doi.org/10.7937/e7kh-r486,\n  doi = {10.7937/E7KH-R486},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-gec/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2018.sc20fo18": {
@@ -602,7 +602,7 @@
   "10.7937/k9/tcia.2015.foqeujvt": {
     "doi": "10.7937/k9/tcia.2015.foqeujvt",
     "url": "https://doi.org/10.7937/k9/tcia.2015.foqeujvt",
-    "apa": "Bloch, B. N., Jain, A., &amp; Jaffe, C. C. (2015). <i>Data From PROSTATE-DIAGNOSIS</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
+    "apa": "Bloch, B. N., Jain, A., &amp; Jaffe, C. C. (2015). <i>Data From PROSTATE-DIAGNOSIS</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.FOQEUJVT",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.foqeujvt,\n  doi = {10.7937/K9/TCIA.2015.FOQEUJVT},\n  url = {https://www.cancerimagingarchive.net/collection/prostate-diagnosis/},\n  author = {Bloch, B Nicolas and Jain, Ashali and Jaffe, C. Carl},\n  title = {Data From PROSTATE-DIAGNOSIS},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.13993769": {
@@ -824,7 +824,7 @@
   "10.7937/q37d-vh79": {
     "doi": "10.7937/q37d-vh79",
     "url": "https://doi.org/10.7937/q37d-vh79",
-    "apa": "Tatum, J., Kalen, J., Jacobs, P., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M., Evrard, Y., Edmondson, E., Clunie, D., Liu, Y., Suloway, C., Smith, K., Wagner, U., \u2026 Doroshow, J. (2022). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/Q37D-VH79",
+    "apa": "Tatum, J., Kalen, J., Jacobs, P., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M., Evrard, Y., Edmondson, E., Clunie, D., Liu, Y., Suloway, C., Smith, K., Wagner, U., \u2026 Doroshow, J. (2022). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/Q37D-VH79",
     "bibtex": "@misc{https://doi.org/10.7937/q37d-vh79,\n  doi = {10.7937/Q37D-VH79},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-521955-158-r4/},\n  author = {Tatum, James and Kalen, Joseph and Jacobs, Paula and Ileva, lilia and Riffle, Lisa and Keita, Saito and Patel, Nimit and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda and Evrard, Yvonne and Edmondson, Elijah and Clunie, David and Liu, Yanling and Suloway, Christian and Smith, Kirk and Wagner, Ulrike and Freymann, John B. and Kirby, Justin and Doroshow, James},\n  title = {Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: (PDMR-521955-158-R4)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2020.rmwvzwix": {
@@ -842,7 +842,7 @@
   "10.7937/a1v1-rc66": {
     "doi": "10.7937/a1v1-rc66",
     "url": "https://doi.org/10.7937/a1v1-rc66",
-    "apa": "Schaer, R., Bach, M., Obmann, M., Flouris, K., Konukoglu, E., Stieltjes, B., M\u00fcller, H., Aberle, C., Jimenez del Toro, O. A., &amp; Depeursinge, A. (2023). <i>Task-Based Anthropomorphic CT Phantom for Radiomics Stability and Discriminatory Power Analyses (CT-Phantom4Radiomics)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/A1V1-RC66",
+    "apa": "Schaer, R., Bach, M., Obmann, M., Flouris, K., Konukoglu, E., Stieltjes, B., M\u00fcller, H., Aberle, C., Jimenez del Toro, O. A., &amp; Depeursinge, A. (2023). <i>Task-Based Anthropomorphic CT Phantom for Radiomics Stability and Discriminatory Power Analyses (CT-Phantom4Radiomics)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/A1V1-RC66",
     "bibtex": "@misc{https://doi.org/10.7937/a1v1-rc66,\n  doi = {10.7937/A1V1-RC66},\n  url = {https://www.cancerimagingarchive.net/collection/ct-phantom4radiomics/},\n  author = {Schaer, Roger and Bach, Michael and Obmann, Markus and Flouris, Kyriakos and Konukoglu, Ender and Stieltjes, Bram and M\u00fcller, Henning and Aberle, Christoph and Jimenez del Toro, Oscar Alfonso and Depeursinge, Adrien},\n  title = {Task-Based Anthropomorphic CT Phantom for Radiomics Stability and Discriminatory Power Analyses (CT-Phantom4Radiomics)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666859": {
