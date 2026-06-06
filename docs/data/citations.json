@@ -1072,5 +1072,11 @@
     "url": "https://doi.org/10.7937/k4qv-hh78",
     "apa": "Nohel, M., Valek, V., Rohan, T., Stork, M., Jakubicek, R., Chmelik, J., &amp; Dost\u00e1l, M. (2026). <i>Segmentation of spinal multiple myeloma lesions in dual-energy CT (Spinal-Multiple-Myeloma-SEG)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K4QV-HH78",
     "bibtex": "@misc{https://doi.org/10.7937/k4qv-hh78,\n  doi = {10.7937/K4QV-HH78},\n  url = {https://www.cancerimagingarchive.net/collection/Spinal-Multiple-Myeloma-SEG},\n  author = {Nohel, Michal and Valek, Vlastimil and Rohan, Tomas and Stork, Martin and Jakubicek, Roman and Chmelik, Jiri and Dost\u00e1l, Marek},\n  title = {Segmentation of spinal multiple myeloma lesions in dual-energy CT (Spinal-Multiple-Myeloma-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/t062-8262": {
+    "doi": "10.7937/t062-8262",
+    "url": "https://doi.org/10.7937/t062-8262",
+    "apa": "Jaggi, A., Mattonen, S. A., McNitt-Gray, M., &amp; Napel, S. (2020). <i>Stanford DRO Toolkit: Digital Reference Objects for Standardization of Radiomic Features</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/T062-8262",
+    "bibtex": "@misc{https://doi.org/10.7937/t062-8262,\n  doi = {10.7937/T062-8262},\n  url = {https://www.cancerimagingarchive.net/collection/dro-toolkit/},\n  author = {Jaggi, Akshay and Mattonen, Sarah A. and McNitt-Gray, Michael and Napel, Sandy},\n  title = {Stanford DRO Toolkit: Digital Reference Objects for Standardization of Radiomic Features},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
