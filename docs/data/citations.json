@@ -284,7 +284,7 @@
   "10.7937/k9/tcia.2015.7go2gsks": {
     "doi": "10.7937/k9/tcia.2015.7go2gsks",
     "url": "https://doi.org/10.7937/k9/tcia.2015.7go2gsks",
-    "apa": "Valli\u00e8res, M., Freeman, C. R., Skamene, S. R., &amp; El Naqa, I. (2015). <i>A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
+    "apa": "Valli\u00e8res, M., Freeman, C. R., Skamene, S. R., &amp; El Naqa, I. (2015). <i>A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.7GO2GSKS",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.7go2gsks,\n  doi = {10.7937/K9/TCIA.2015.7GO2GSKS},\n  url = {https://www.cancerimagingarchive.net/collection/soft-tissue-sarcoma/},\n  author = {Valli\u00e8res, Martin and Freeman, Carolyn R. and Skamene, Sonia R. and El Naqa, Issam},\n  title = {A radiomics model from joint FDG-PET and MRI texture features for the prediction of lung metastases in soft-tissue sarcomas of the extremities},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/ghkn-md15": {
@@ -368,7 +368,7 @@
   "10.7937/k9tcia.2017.sgw7caqw": {
     "doi": "10.7937/k9tcia.2017.sgw7caqw",
     "url": "https://doi.org/10.7937/k9tcia.2017.sgw7caqw",
-    "apa": "Jansen, S., &amp; Van Dyke, T. (2017). <i>TCIA Mouse-Astrocytoma Collection</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9TCIA.2017.SGW7CAQW",
+    "apa": "Jansen, S., &amp; Van Dyke, T. (2017). <i>TCIA Mouse-Astrocytoma Collection</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9TCIA.2017.SGW7CAQW",
     "bibtex": "@misc{https://doi.org/10.7937/k9tcia.2017.sgw7caqw,\n  doi = {10.7937/K9TCIA.2017.SGW7CAQW},\n  url = {https://www.cancerimagingarchive.net/collection/mouse-astrocytoma/},\n  author = {Jansen, Sunny and Van Dyke, Terry},\n  title = {TCIA Mouse-Astrocytoma Collection},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12690041": {
