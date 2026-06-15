@@ -938,7 +938,7 @@
   "10.5281/zenodo.13993796": {
     "doi": "10.5281/zenodo.13993796",
     "url": "https://doi.org/10.5281/zenodo.13993796",
-    "apa": "Clunie, D. (2025). <i>CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993796",
+    "apa": "Clunie, D. (2025). <i>CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.13993796",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993796,\n  doi = {10.5281/ZENODO.13993796},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993796},\n  author = {Clunie, David},\n  title = {CMB-OV: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Ovarian Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689950": {
