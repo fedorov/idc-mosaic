@@ -800,7 +800,7 @@
   "10.7937/tcia.eshq-4d90": {
     "doi": "10.7937/tcia.eshq-4d90",
     "url": "https://doi.org/10.7937/tcia.eshq-4d90",
-    "apa": "Hong, J., Reyngold, M., Crane, C., Cuaron, J., Hajj, C., Mann, J., Zinovoy, M., Yorke, E., LoCastro, E., Apte, A. P., &amp; Mageras, G. (2021). <i>Breath-hold CT and cone-beam CT images with expert manual organ-at-risk segmentations from radiation treatments of locally advanced pancreatic cancer (Pancreatic-CT-CBCT-SEG)</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.ESHQ-4D90",
+    "apa": "Hong, J., Reyngold, M., Crane, C., Cuaron, J., Hajj, C., Mann, J., Zinovoy, M., Yorke, E., LoCastro, E., Apte, A. P., &amp; Mageras, G. (2021). <i>Breath-hold CT and cone-beam CT images with expert manual organ-at-risk segmentations from radiation treatments of locally advanced pancreatic cancer (Pancreatic-CT-CBCT-SEG)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.ESHQ-4D90",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.eshq-4d90,\n  doi = {10.7937/TCIA.ESHQ-4D90},\n  url = {https://www.cancerimagingarchive.net/collection/pancreatic-ct-cbct-seg/},\n  author = {Hong, Jun and Reyngold, Marsha and Crane, Christopher and Cuaron, John and Hajj, Carla and Mann, Justin and Zinovoy, Melissa and Yorke, Ellen and LoCastro, Eve and Apte, Aditya P. and Mageras, Gig},\n  title = {Breath-hold CT and cone-beam CT images with expert manual organ-at-risk segmentations from radiation treatments of locally advanced pancreatic cancer (Pancreatic-CT-CBCT-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2018.pat12tbs": {
@@ -1090,5 +1090,17 @@
     "url": "https://doi.org/10.7937/k9/tcia.2015.a6v7jiwx",
     "apa": "Grove, O., Berglund, A. E., Schabath, M. B., Aerts, H. J. W. L., Dekker, A., Wang, H., Velazquez, E. R., Lambin, P., Gu, Y., Balagurunathan, Y., Eikman, E., Gatenby, R. A., Eschrich, S., &amp; Gillies, R. J. (2015). <i>Data from: Quantitative computed tomographic descriptors associate tumor shape complexity and intratumor heterogeneity with prognosis in lung adenocarcinoma</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.A6V7JIWX",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.a6v7jiwx,\n  doi = {10.7937/K9/TCIA.2015.A6V7JIWX},\n  url = {https://www.cancerimagingarchive.net/collection/lungct-diagnosis/},\n  author = {Grove, Olya and Berglund, Anders E. and Schabath, Matthew B. and Aerts, Hugo J.W.L. and Dekker, Andre and Wang, Hua and Velazquez, Emmanuel Rios and Lambin, Philippe and Gu, Yuhua and Balagurunathan, Yoganand and Eikman, Edward and Gatenby, Robert A. and Eschrich, Steven and Gillies, Robert J.},\n  title = {Data from: Quantitative computed tomographic descriptors associate tumor shape complexity and intratumor heterogeneity with prognosis in lung adenocarcinoma},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690047": {
+    "doi": "10.5281/zenodo.12690047",
+    "url": "https://doi.org/10.5281/zenodo.12690047",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-DLBC collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690047",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690047,\n  doi = {10.5281/ZENODO.12690047},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690047},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-DLBC collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2018.odu24gze": {
+    "doi": "10.7937/k9/tcia.2018.odu24gze",
+    "url": "https://doi.org/10.7937/k9/tcia.2018.odu24gze",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma Collection (CPTAC-CM)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.odu24gze,\n  doi = {10.7937/K9/TCIA.2018.ODU24GZE},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-cm/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma Collection (CPTAC-CM)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
