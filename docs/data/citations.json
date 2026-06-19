@@ -614,7 +614,7 @@
   "10.7937/1fpg-vm46": {
     "doi": "10.7937/1fpg-vm46",
     "url": "https://doi.org/10.7937/1fpg-vm46",
-    "apa": "Moawad, A. W., Ahmed, A. A., ElMohr, M., Eltaher, M., Habra, M. A., Fisher, S., Perrier, N., Zhang, M., Fuentes, D., &amp; Elsayes, K. (2023). <i>Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression (Adrenal-ACC-Ki67-Seg)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/1FPG-VM46",
+    "apa": "Moawad, A. W., Ahmed, A. A., ElMohr, M., Eltaher, M., Habra, M. A., Fisher, S., Perrier, N., Zhang, M., Fuentes, D., &amp; Elsayes, K. (2023). <i>Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression (Adrenal-ACC-Ki67-Seg)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/1FPG-VM46",
     "bibtex": "@misc{https://doi.org/10.7937/1fpg-vm46,\n  doi = {10.7937/1FPG-VM46},\n  url = {https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/},\n  author = {Moawad, Ahmed W. and Ahmed, Ayahallah A. and ElMohr, Mohab and Eltaher, Mohamed and Habra, Mouhammed Amir and Fisher, Sarah and Perrier, Nancy and Zhang, Miao and Fuentes, David and Elsayes, Khaled},\n  title = {Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression (Adrenal-ACC-Ki67-Seg)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2021.v4z7-tc39": {
