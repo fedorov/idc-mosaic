@@ -1102,5 +1102,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2018.odu24gze",
     "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma Collection (CPTAC-CM)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.ODU24GZE",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.odu24gze,\n  doi = {10.7937/K9/TCIA.2018.ODU24GZE},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-cm/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Cutaneous Melanoma Collection (CPTAC-CM)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.5281/zenodo.13993786": {
+    "doi": "10.5281/zenodo.13993786",
+    "url": "https://doi.org/10.5281/zenodo.13993786",
+    "apa": "Clunie, D. (2025). <i>CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.13993786",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993786,\n  doi = {10.5281/ZENODO.13993786},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993786},\n  author = {Clunie, David},\n  title = {CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
