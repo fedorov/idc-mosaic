@@ -1108,5 +1108,11 @@
     "url": "https://doi.org/10.5281/zenodo.13993786",
     "apa": "Clunie, D. (2025). <i>CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.13993786",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993786,\n  doi = {10.5281/ZENODO.13993786},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993786},\n  author = {Clunie, David},\n  title = {CMB-MEL: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Melanoma collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2017.3r3fvz08": {
+    "doi": "10.7937/k9/tcia.2017.3r3fvz08",
+    "url": "https://doi.org/10.7937/k9/tcia.2017.3r3fvz08",
+    "apa": "Yang, J., Sharp, G., Veeraraghavan, H., Van Elmpt, W., Dekker, A., Lustberg, T., &amp; Gooding, M. (2017). <i>Data from Lung CT Segmentation Challenge 2017 (LCTSC)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.3R3FVZ08",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2017.3r3fvz08,\n  doi = {10.7937/K9/TCIA.2017.3R3FVZ08},\n  url = {https://www.cancerimagingarchive.net/collection/lctsc/},\n  author = {Yang, Jinzhong and Sharp, Greg and Veeraraghavan, Harini and Van Elmpt, Wouter and Dekker, Andre and Lustberg, Tim and Gooding, Mark},\n  title = {Data from Lung CT Segmentation Challenge 2017 (LCTSC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
