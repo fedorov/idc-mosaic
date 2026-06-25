@@ -638,7 +638,7 @@
   "10.7937/k9/tcia.2016.ndo1mdfq": {
     "doi": "10.7937/k9/tcia.2016.ndo1mdfq",
     "url": "https://doi.org/10.7937/k9/tcia.2016.ndo1mdfq",
-    "apa": "Holback, C., Jarosz, R., Prior, F., Mutch, D. G., Bhosale, P., Garcia, K., Lee, Y., Kirk, S., Sadow, C. A., Levine, S., Sala, E., Elnajjar, P., Morgan, T., &amp; Erickson, B. J. (2016). <i>The Cancer Genome Atlas Ovarian Cancer Collection (TCGA-OV)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
+    "apa": "Holback, C., Jarosz, R., Prior, F., Mutch, D. G., Bhosale, P., Garcia, K., Lee, Y., Kirk, S., Sadow, C. A., Levine, S., Sala, E., Elnajjar, P., Morgan, T., &amp; Erickson, B. J. (2016). <i>The Cancer Genome Atlas Ovarian Cancer Collection (TCGA-OV)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.NDO1MDFQ",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.ndo1mdfq,\n  doi = {10.7937/K9/TCIA.2016.NDO1MDFQ},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-ov/},\n  author = {Holback, Chandra and Jarosz, Rose and Prior, Fred and Mutch, David G. and Bhosale, Priya and Garcia, Kimberly and Lee, Yueh and Kirk, Shanah and Sadow, Cheryl A. and Levine, Seth and Sala, Evis and Elnajjar, Pierre and Morgan, Tara and Erickson, Bradley J.},\n  title = {The Cancer Genome Atlas Ovarian Cancer Collection (TCGA-OV)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12689650": {
@@ -1114,5 +1114,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2017.3r3fvz08",
     "apa": "Yang, J., Sharp, G., Veeraraghavan, H., Van Elmpt, W., Dekker, A., Lustberg, T., &amp; Gooding, M. (2017). <i>Data from Lung CT Segmentation Challenge 2017 (LCTSC)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2017.3R3FVZ08",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2017.3r3fvz08,\n  doi = {10.7937/K9/TCIA.2017.3R3FVZ08},\n  url = {https://www.cancerimagingarchive.net/collection/lctsc/},\n  author = {Yang, Jinzhong and Sharp, Greg and Veeraraghavan, Harini and Van Elmpt, Wouter and Dekker, Andre and Lustberg, Tim and Gooding, Mark},\n  title = {Data from Lung CT Segmentation Challenge 2017 (LCTSC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.2020.bry9-4n29": {
+    "doi": "10.7937/tcia.2020.bry9-4n29",
+    "url": "https://doi.org/10.7937/tcia.2020.bry9-4n29",
+    "apa": "Tatum, J. L., Kalen, J. D., Ileva, L. V., Riffle, L. A., Keita, S., Patel, N., Jacobs, P. M., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Phillips, J., Evrard, Y., Clunie, D. A., Liu, Y., Suloway, C., Smith, K. E., Wagner, U., \u2026 Doroshow, J. H. (2020). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma colon: PDMR-997537-175-T</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.BRY9-4N29",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.bry9-4n29,\n  doi = {10.7937/TCIA.2020.BRY9-4N29},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-997537-175-t/},\n  author = {Tatum, James L. and Kalen, Joseph D. and Ileva, Lilia V. and Riffle, Lisa A. and Keita, Saito and Patel, Nimit and Jacobs, Paula M. and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda G. and Phillips, Jessica and Evrard, Yvonne and Clunie, David A. and Liu, Yanling and Suloway, Christian and Smith, Kirk E. and Wagner, Ulrike and Freymann, John B. and Kirby, Justin and Doroshow, James H.},\n  title = {Imaging characterization of a metastatic patient derived model of adenocarcinoma colon: PDMR-997537-175-T},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
