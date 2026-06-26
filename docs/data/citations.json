@@ -1004,7 +1004,7 @@
   "10.5281/zenodo.17381428": {
     "doi": "10.5281/zenodo.17381428",
     "url": "https://doi.org/10.5281/zenodo.17381428",
-    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-HTMCP-LC: DICOM converted whole slide images from the Cancer Genome Characterization\nInitiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Lung Cancer</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.17381428",
+    "apa": "Clunie, D., Clifford, W., &amp; Fedorov, A. (2026). <i>CGCI-HTMCP-LC: DICOM converted whole slide images from the Cancer Genome Characterization\nInitiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Lung Cancer</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17381428",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17381428,\n  doi = {10.5281/ZENODO.17381428},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17381428},\n  author = {Clunie, David and Clifford, William and Fedorov, Andrey},\n  title = {CGCI-HTMCP-LC: DICOM converted whole slide images from the Cancer Genome Characterization\n  Initiative (CGCI) HIV+ Tumor Molecular Characterization Project (HTMCP) - Lung Cancer},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.13993761": {
@@ -1120,5 +1120,11 @@
     "url": "https://doi.org/10.7937/tcia.2020.bry9-4n29",
     "apa": "Tatum, J. L., Kalen, J. D., Ileva, L. V., Riffle, L. A., Keita, S., Patel, N., Jacobs, P. M., Sanders, C., James, A., Difilippantonio, S., Thang, L., Hollingshead, M. G., Phillips, J., Evrard, Y., Clunie, D. A., Liu, Y., Suloway, C., Smith, K. E., Wagner, U., \u2026 Doroshow, J. H. (2020). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma colon: PDMR-997537-175-T</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.BRY9-4N29",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.bry9-4n29,\n  doi = {10.7937/TCIA.2020.BRY9-4N29},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-997537-175-t/},\n  author = {Tatum, James L. and Kalen, Joseph D. and Ileva, Lilia V. and Riffle, Lisa A. and Keita, Saito and Patel, Nimit and Jacobs, Paula M. and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and Hollingshead, Melinda G. and Phillips, Jessica and Evrard, Yvonne and Clunie, David A. and Liu, Yanling and Suloway, Christian and Smith, Kirk E. and Wagner, Ulrike and Freymann, John B. and Kirby, Justin and Doroshow, James H.},\n  title = {Imaging characterization of a metastatic patient derived model of adenocarcinoma colon: PDMR-997537-175-T},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2016.yxgr4blu": {
+    "doi": "10.7937/k9/tcia.2016.yxgr4blu",
+    "url": "https://doi.org/10.7937/k9/tcia.2016.yxgr4blu",
+    "apa": "Fenimore, C., McNitt-Gray, M. F., Clunie, D., Gavrielides, M. A., Petrick, N., Samei, E., Chen, B., Saiprasad, G., Jen-Sho Chen, J., Boedeker, K., Chen-Mayer, H., Barudin, J., Beute, B., Byrne, K., Edeburn, G., Kaplan, S., Sherman, J., &amp; Slazak, K. (2016). <i>Data from QIBA CT-1C</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.YXGR4BLU",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.yxgr4blu,\n  doi = {10.7937/K9/TCIA.2016.YXGR4BLU},\n  url = {https://www.cancerimagingarchive.net/collection/qiba-ct-1c/},\n  author = {Fenimore, Charles and McNitt-Gray, Michael F. and Clunie, David and Gavrielides, Marios A. and Petrick, Nicholas and Samei, Ehsan and Chen, Baiyu and Saiprasad, Ganesh and Jen-Sho Chen, Joseph and Boedeker, Kirsten and Chen-Mayer, Heather and Barudin, Julie and Beute, Bernard and Byrne, Kevin and Edeburn, George and Kaplan, Steven and Sherman, Joyce and Slazak, Katherine},\n  title = {Data from QIBA CT-1C},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
