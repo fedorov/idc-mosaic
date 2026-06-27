@@ -164,7 +164,7 @@
   "10.7937/hrzh-2n82": {
     "doi": "10.7937/hrzh-2n82",
     "url": "https://doi.org/10.7937/hrzh-2n82",
-    "apa": "Kujawa, A., Dorent, R., Wijethilake, N., Connor, S., Thomson, S., Ivory, M., Bradford, R., Kitchen, N., Bisdas, S., Ourselin, S., Vercauteren, T., &amp; Shapey, J. (2023). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/HRZH-2N82",
+    "apa": "Kujawa, A., Dorent, R., Wijethilake, N., Connor, S., Thomson, S., Ivory, M., Bradford, R., Kitchen, N., Bisdas, S., Ourselin, S., Vercauteren, T., &amp; Shapey, J. (2023). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/HRZH-2N82",
     "bibtex": "@misc{https://doi.org/10.7937/hrzh-2n82,\n  doi = {10.7937/HRZH-2N82},\n  url = {https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-mc-rc/},\n  author = {Kujawa, Aaron and Dorent, Reuben and Wijethilake, Navodini and Connor, Stephen and Thomson, Suki and Ivory, Marina and Bradford, Robert and Kitchen, Neil and Bisdas, Sotirios and Ourselin, Sebastien and Vercauteren, Tom and Shapey, Jonathan},\n  title = {Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Annotated Multi-Center Routine Clinical Dataset (Vestibular-Schwannoma-MC-RC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666768": {
