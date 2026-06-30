@@ -44,8 +44,8 @@
   "10.7937/tcia.d8z0-9t85": {
     "doi": "10.7937/tcia.d8z0-9t85",
     "url": "https://doi.org/10.7937/tcia.d8z0-9t85",
-    "apa": "Li, W., Newitt, D. C., Gibbs, J., Wilmes, L. J., Jones, E. F., Arasu, V. A., Strand, F., Onishi, N., Nguyen, A. A.-T., Kornak, J., Joe, B. N., Price, E. R., Ojeda-Fournier, H., Eghtedari, M., Zamora, K. W., Woodard, S. A., Umphrey, H., Bernreuter, W., Nelson, M., \u2026 Hylton, N. M. (2022). <i>I-SPY 2 Breast Dynamic Contrast Enhanced MRI (I-SPY2 TRIAL)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.D8Z0-9T85",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.d8z0-9t85,\n  doi = {10.7937/TCIA.D8Z0-9T85},\n  url = {https://www.cancerimagingarchive.net/collection/ispy2/},\n  author = {Li, Wen and Newitt, David C. and Gibbs, Jessica and Wilmes, Lisa J. and Jones, Ella F. and Arasu, Vignesh A. and Strand, Fredrik and Onishi, Natsuko and Nguyen, Alex Anh-Tu and Kornak, John and Joe, Bonnie N. and Price, Elissa R. and Ojeda-Fournier, Haydee and Eghtedari, Mohammad and Zamora, Kathryn W. and Woodard, Stefanie A. and Umphrey, Heidi and Bernreuter, Wanda and Nelson, Michael and Church, An Ly and Bolan, Patrick and Kuritza, Theresa and Ward, Kathleen and Morley, Kevin and Wolverton, Dulcy and Fountain, Kelly and Lopez-Paniagua, Dan and Hardesty, Lara and Brandt, Kathy and McDonald, Elizabeth S. and Rosen, Mark and Kontos, Despina and Abe, Hiroyuki and Sheth, Deepa and Crane, Erin P. and Dillis, Charlotte and Sheth, Pulin and Hovanessian-Larsen, Linda and Bang, Dae Hee and Porter, Bruce and Oh, Karen Y. and Jafarian, Neda and Tudorica, Alina and Niell, Bethany L. and Drukteinis, Jennifer and Newell, Mary S. and Cohen, Michael A. and Giurescu, Marina and Berman, Elise and Lehman, Constance and Partridge, Savannah C. and Fitzpatrick, Kimberly A. and Borders, Marisa H. and Yang, Wei T. and Dogan, Basak and Goudreau, Sally and Chenevert, Thomas and Yau, Christina and DeMichele, Angela and Berry, Don and Esserman, Laura J. and Hylton, Nola M.},\n  title = {I-SPY 2 Breast Dynamic Contrast Enhanced MRI (I-SPY2 TRIAL)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/k9/tcia.2015.lo9ql9sx": {
     "doi": "10.7937/k9/tcia.2015.lo9ql9sx",
@@ -80,14 +80,14 @@
   "10.7937/tcia.2019.ho23nxaw": {
     "doi": "10.7937/tcia.2019.ho23nxaw",
     "url": "https://doi.org/10.7937/tcia.2019.ho23nxaw",
-    "apa": "Badano, A., Graff, C. G., Badal, A., Sharma, D., Zeng, R., Samuelson, F. W., Glick, S., &amp; Myers, K. J. (2019). <i>Data from THE VICTRE TRIAL: OPEN-SOURCE, IN-SILICO CLINICAL TRIAL FOR EVALUATING DIGITAL BREAST TOMOSYNTHESIS (VICTRE)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.HO23NXAW",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.ho23nxaw,\n  doi = {10.7937/TCIA.2019.HO23NXAW},\n  url = {https://www.cancerimagingarchive.net/collection/victre/},\n  author = {Badano, Aldo and Graff, Christian G. and Badal, Andreu and Sharma, Diksha and Zeng, Rongping and Samuelson, Frank W. and Glick, Stephen and Myers, Kyle J.},\n  title = {Data from THE VICTRE TRIAL: OPEN-SOURCE, IN-SILICO CLINICAL TRIAL FOR EVALUATING DIGITAL BREAST TOMOSYNTHESIS (VICTRE)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/tcia.bbag-2923": {
     "doi": "10.7937/tcia.bbag-2923",
     "url": "https://doi.org/10.7937/tcia.bbag-2923",
-    "apa": "Saltz, J., Saltz, M., Prasanna, P., Moffitt, R., Hajagos, J., Bremer, E., Balsamo, J., &amp; Kurc, T. (2021). <i>Stony Brook University COVID-19 Positive Cases</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.BBAG-2923",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.bbag-2923,\n  doi = {10.7937/TCIA.BBAG-2923},\n  url = {https://www.cancerimagingarchive.net/collection/covid-19-ny-sbu/},\n  author = {Saltz, Joel and Saltz, Mary and Prasanna, Prateek and Moffitt, Richard and Hajagos, Janos and Bremer, Erich and Balsamo, Joseph and Kurc, Tahsin},\n  title = {Stony Brook University COVID-19 Positive Cases},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/e4wt-cd02": {
     "doi": "10.7937/e4wt-cd02",
@@ -146,8 +146,8 @@
   "10.5281/zenodo.11099086": {
     "doi": "10.5281/zenodo.11099086",
     "url": "https://doi.org/10.5281/zenodo.11099086",
-    "apa": "Clunie, D., Hawkins, D., Smith, M., Rudzinski, E., Ramirez, N., Thomas, D., Mardis, E., Cottrell, C., Leary, S., Fouladi, M., Shern, J., Venkatramani, R., Laetsch, T., Chen, K., Irwin, M., Clifford, W., Pot, D., Wagner, U., Kim, E., \u2026 Fedorov, A. (2025). <i>CCDI-MCI: DICOM converted whole slide hematoxylin and eosin stained images from the Molecular Characterization Initiative of the National Cancer Institute's Childhood Cancer Data Initiative</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.11099086",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.11099086,\n  doi = {10.5281/ZENODO.11099086},\n  url = {https://zenodo.org/doi/10.5281/zenodo.11099086},\n  author = {Clunie, David and Hawkins, Doug and Smith, Malcolm and Rudzinski, Erin and Ramirez, Nilsa and Thomas, Diana and Mardis, Elaine and Cottrell, Catherine and Leary, Sarah and Fouladi, Maryam and Shern, John and Venkatramani, Rajkumar and Laetsch, Ted and Chen, Kenneth and Irwin, Meredeth and Clifford, William and Pot, David and Wagner, Ulrike and Kim, Erika and Sutton, Granger and Fedorov, Andrey},\n  title = {CCDI-MCI: DICOM converted whole slide hematoxylin and eosin stained images from the Molecular Characterization Initiative of the National Cancer Institute's Childhood Cancer Data Initiative},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/k9/tcia.2017.ol20zmxg": {
     "doi": "10.7937/k9/tcia.2017.ol20zmxg",
@@ -236,8 +236,8 @@
   "10.7937/k9tcia.2017.murs5cl": {
     "doi": "10.7937/k9tcia.2017.murs5cl",
     "url": "https://doi.org/10.7937/k9tcia.2017.murs5cl",
-    "apa": "Litjens, G., Debats, O., Barentsz, J., Karssemeijer, N., &amp; Huisman, H. (2017). <i>SPIE-AAPM PROSTATEx Challenge Data</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9TCIA.2017.MURS5CL",
-    "bibtex": "@misc{https://doi.org/10.7937/k9tcia.2017.murs5cl,\n  doi = {10.7937/K9TCIA.2017.MURS5CL},\n  url = {https://www.cancerimagingarchive.net/collection/prostatex/},\n  author = {Litjens, Geert and Debats, Oscar and Barentsz, Jelle and Karssemeijer, Nico and Huisman, Henkjan},\n  title = {SPIE-AAPM PROSTATEx Challenge Data},\n  publisher = {The Cancer Imaging Archive},\n  year = {2017},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/2bas-hr33": {
     "doi": "10.7937/2bas-hr33",
@@ -542,8 +542,8 @@
   "10.7937/tcia.2019.ix49e8nx": {
     "doi": "10.7937/tcia.2019.ix49e8nx",
     "url": "https://doi.org/10.7937/tcia.2019.ix49e8nx",
-    "apa": "Heller, N., Sathianathen, N., Kalapara, A., Walczak, E., Moore, K., Kaluzniak, H., Rosenberg, J., Blake, P., Rengel, Z., Oestreich, M., Dean, J., Tradewell, M., Shah, A., Tejpaul, R., Edgerton, Z., Peterson, M., Raza, S., Regmi, S., Papanikolopoulos, N., &amp; Weight, C. (2019). <i>C4KC KiTS Challenge Kidney Tumor Segmentation Dataset</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.IX49E8NX",
-    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.ix49e8nx,\n  doi = {10.7937/TCIA.2019.IX49E8NX},\n  url = {https://www.cancerimagingarchive.net/collection/c4kc-kits/},\n  author = {Heller, Nicholas and Sathianathen, Niranjan and Kalapara, Arveen and Walczak, Edward and Moore, Keenan and Kaluzniak, Heather and Rosenberg, Joel and Blake, Paul and Rengel, Zachary and Oestreich, Makinna and Dean, Joshua and Tradewell, Michael and Shah, Aneri and Tejpaul, Resha and Edgerton, Zachary and Peterson, Matthew and Raza, Shaneabbas and Regmi, Subodh and Papanikolopoulos, Nikolaos and Weight, Christopher},\n  title = {C4KC KiTS Challenge Kidney Tumor Segmentation Dataset},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/k9/tcia.2014.a2n1ixox": {
     "doi": "10.7937/k9/tcia.2014.a2n1ixox",
@@ -554,8 +554,8 @@
   "10.7937/erz5-qz59": {
     "doi": "10.7937/erz5-qz59",
     "url": "https://doi.org/10.7937/erz5-qz59",
-    "apa": "Mayr, N., Yuh, W. T. C., Bowen, S., Harkenrider, M., Knopp, M. V., Lee, E. Y.-P., Leung, E., Lo, S. S., Small Jr., W., &amp; Wolfson, A. H. (2023). <i>Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/ERZ5-QZ59",
-    "bibtex": "@misc{https://doi.org/10.7937/erz5-qz59,\n  doi = {10.7937/ERZ5-QZ59},\n  url = {https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/},\n  author = {Mayr, Nina and Yuh, William T.C. and Bowen, Stephen and Harkenrider, Matthew and Knopp, Michael V. and Lee, Elaine Yuen-Phin and Leung, Eric and Lo, Simon S. and Small Jr., William and Wolfson, Aaron H.},\n  title = {Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/tcia.2019.4cfm06rr": {
     "doi": "10.7937/tcia.2019.4cfm06rr",
@@ -656,8 +656,8 @@
   "10.5281/zenodo.12689995": {
     "doi": "10.5281/zenodo.12689995",
     "url": "https://doi.org/10.5281/zenodo.12689995",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the TCGA-TGCT collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689995",
-    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689995,\n  doi = {10.5281/ZENODO.12689995},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689995},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the TCGA-TGCT collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+    "apa": null,
+    "bibtex": null
   },
   "10.7937/k9/tcia.2015.u1x8a5nr": {
     "doi": "10.7937/k9/tcia.2015.u1x8a5nr",
