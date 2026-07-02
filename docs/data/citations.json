@@ -80,8 +80,8 @@
   "10.7937/tcia.2019.ho23nxaw": {
     "doi": "10.7937/tcia.2019.ho23nxaw",
     "url": "https://doi.org/10.7937/tcia.2019.ho23nxaw",
-    "apa": null,
-    "bibtex": null
+    "apa": "Badano, A., Graff, C. G., Badal, A., Sharma, D., Zeng, R., Samuelson, F. W., Glick, S., &amp; Myers, K. J. (2019). <i>Data from THE VICTRE TRIAL: OPEN-SOURCE, IN-SILICO CLINICAL TRIAL FOR EVALUATING DIGITAL BREAST TOMOSYNTHESIS (VICTRE)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.HO23NXAW",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.ho23nxaw,\n  doi = {10.7937/TCIA.2019.HO23NXAW},\n  url = {https://www.cancerimagingarchive.net/collection/victre/},\n  author = {Badano, Aldo and Graff, Christian G. and Badal, Andreu and Sharma, Diksha and Zeng, Rongping and Samuelson, Frank W. and Glick, Stephen and Myers, Kyle J.},\n  title = {Data from THE VICTRE TRIAL: OPEN-SOURCE, IN-SILICO CLINICAL TRIAL FOR EVALUATING DIGITAL BREAST TOMOSYNTHESIS (VICTRE)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/tcia.bbag-2923": {
     "doi": "10.7937/tcia.bbag-2923",
@@ -146,8 +146,8 @@
   "10.5281/zenodo.11099086": {
     "doi": "10.5281/zenodo.11099086",
     "url": "https://doi.org/10.5281/zenodo.11099086",
-    "apa": null,
-    "bibtex": null
+    "apa": "Clunie, D., Hawkins, D., Smith, M., Rudzinski, E., Ramirez, N., Thomas, D., Mardis, E., Cottrell, C., Leary, S., Fouladi, M., Shern, J., Venkatramani, R., Laetsch, T., Chen, K., Irwin, M., Clifford, W., Pot, D., Wagner, U., Kim, E., \u2026 Fedorov, A. (2025). <i>CCDI-MCI: DICOM converted whole slide hematoxylin and eosin stained images from the Molecular Characterization Initiative of the National Cancer Institute's Childhood Cancer Data Initiative</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.11099086",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.11099086,\n  doi = {10.5281/ZENODO.11099086},\n  url = {https://zenodo.org/doi/10.5281/zenodo.11099086},\n  author = {Clunie, David and Hawkins, Doug and Smith, Malcolm and Rudzinski, Erin and Ramirez, Nilsa and Thomas, Diana and Mardis, Elaine and Cottrell, Catherine and Leary, Sarah and Fouladi, Maryam and Shern, John and Venkatramani, Rajkumar and Laetsch, Ted and Chen, Kenneth and Irwin, Meredeth and Clifford, William and Pot, David and Wagner, Ulrike and Kim, Erika and Sutton, Granger and Fedorov, Andrey},\n  title = {CCDI-MCI: DICOM converted whole slide hematoxylin and eosin stained images from the Molecular Characterization Initiative of the National Cancer Institute's Childhood Cancer Data Initiative},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2017.ol20zmxg": {
     "doi": "10.7937/k9/tcia.2017.ol20zmxg",
@@ -356,7 +356,7 @@
   "10.7937/szkb-sw39": {
     "doi": "10.7937/szkb-sw39",
     "url": "https://doi.org/10.7937/szkb-sw39",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)</i> (Version 10) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/SZKB-SW39",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/SZKB-SW39",
     "bibtex": "@misc{https://doi.org/10.7937/szkb-sw39,\n  doi = {10.7937/SZKB-SW39},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-mml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Multiple Myeloma Collection (CMB-MML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.8347011": {
