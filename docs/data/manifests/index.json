@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T08:17:53.652907+00:00",
+  "updated": "2026-07-03T08:06:38.469916+00:00",
   "manifests": {
     "ct": [
       "manifests/ct/2026-02-14.json",
@@ -140,7 +140,8 @@
       "manifests/ct/2026-06-29.json",
       "manifests/ct/2026-06-30.json",
       "manifests/ct/2026-07-01.json",
-      "manifests/ct/2026-07-02.json"
+      "manifests/ct/2026-07-02.json",
+      "manifests/ct/2026-07-03.json"
     ],
     "diverse": [
       "manifests/diverse/2026-02-14.json",
@@ -281,7 +282,8 @@
       "manifests/diverse/2026-06-29.json",
       "manifests/diverse/2026-06-30.json",
       "manifests/diverse/2026-07-01.json",
-      "manifests/diverse/2026-07-02.json"
+      "manifests/diverse/2026-07-02.json",
+      "manifests/diverse/2026-07-03.json"
     ]
   }
 }
