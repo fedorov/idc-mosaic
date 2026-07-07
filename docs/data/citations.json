@@ -248,7 +248,7 @@
   "10.7937/dx22-8j71": {
     "doi": "10.7937/dx22-8j71",
     "url": "https://doi.org/10.7937/dx22-8j71",
-    "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)</i> (Version 5) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/DX22-8J71",
+    "apa": "Cancer Moonshot Biobank. (2024). <i>Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)</i> (Version 6) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/DX22-8J71",
     "bibtex": "@misc{https://doi.org/10.7937/dx22-8j71,\n  doi = {10.7937/DX22-8J71},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-brca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Invasive Breast Carcinoma Cancer Collection (CMB-BRCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12690037": {
