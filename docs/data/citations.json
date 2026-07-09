@@ -158,7 +158,7 @@
   "10.7937/3cx3-s132": {
     "doi": "10.7937/3cx3-s132",
     "url": "https://doi.org/10.7937/3cx3-s132",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/3CX3-S132",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)</i> (Version 12) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/3CX3-S132",
     "bibtex": "@misc{https://doi.org/10.7937/3cx3-s132,\n  doi = {10.7937/3CX3-S132},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-lca/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Lung Cancer Collection (CMB-LCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/hrzh-2n82": {
@@ -860,7 +860,7 @@
   "10.5281/zenodo.12689993": {
     "doi": "10.5281/zenodo.12689993",
     "url": "https://doi.org/10.5281/zenodo.12689993",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the HTAN-WUSTL collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689993",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the HTAN-WUSTL collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689993",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689993,\n  doi = {10.5281/ZENODO.12689993},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689993},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the HTAN-WUSTL collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2016.acwogbef": {
@@ -1126,5 +1126,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2016.yxgr4blu",
     "apa": "Fenimore, C., McNitt-Gray, M. F., Clunie, D., Gavrielides, M. A., Petrick, N., Samei, E., Chen, B., Saiprasad, G., Jen-Sho Chen, J., Boedeker, K., Chen-Mayer, H., Barudin, J., Beute, B., Byrne, K., Edeburn, G., Kaplan, S., Sherman, J., &amp; Slazak, K. (2016). <i>Data from QIBA CT-1C</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.YXGR4BLU",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.yxgr4blu,\n  doi = {10.7937/K9/TCIA.2016.YXGR4BLU},\n  url = {https://www.cancerimagingarchive.net/collection/qiba-ct-1c/},\n  author = {Fenimore, Charles and McNitt-Gray, Michael F. and Clunie, David and Gavrielides, Marios A. and Petrick, Nicholas and Samei, Ehsan and Chen, Baiyu and Saiprasad, Ganesh and Jen-Sho Chen, Joseph and Boedeker, Kirsten and Chen-Mayer, Heather and Barudin, Julie and Beute, Bernard and Byrne, Kevin and Edeburn, George and Kaplan, Steven and Sherman, Joyce and Slazak, Katherine},\n  title = {Data from QIBA CT-1C},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/tcia.9ytj-5q73": {
+    "doi": "10.7937/tcia.9ytj-5q73",
+    "url": "https://doi.org/10.7937/tcia.9ytj-5q73",
+    "apa": "Shapey, J., Kujawa, A., Dorent, R., Wang, G., Bisdas, S., Dimitriadis, A., Grishchuck, D., Paddick, I., Kitchen, N., Bradford, R., Saeed, S., Ourselin, S., &amp; Vercauteren, T. (2021). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Open Annotated Dataset and Baseline Algorithm (Vestibular-Schwannoma-SEG)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.9YTJ-5Q73",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.9ytj-5q73,\n  doi = {10.7937/TCIA.9YTJ-5Q73},\n  url = {https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg/},\n  author = {Shapey, Jonathan and Kujawa, Aaron and Dorent, Reuben and Wang, Guotai and Bisdas, Sotirios and Dimitriadis, Alexis and Grishchuck, Diana and Paddick, Ian and Kitchen, Neil and Bradford, Robert and Saeed, Shakeel and Ourselin, Sebastien and Vercauteren, Tom},\n  title = {Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Open Annotated Dataset and Baseline Algorithm (Vestibular-Schwannoma-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
