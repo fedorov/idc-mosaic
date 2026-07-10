@@ -1132,5 +1132,11 @@
     "url": "https://doi.org/10.7937/tcia.9ytj-5q73",
     "apa": "Shapey, J., Kujawa, A., Dorent, R., Wang, G., Bisdas, S., Dimitriadis, A., Grishchuck, D., Paddick, I., Kitchen, N., Bradford, R., Saeed, S., Ourselin, S., &amp; Vercauteren, T. (2021). <i>Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Open Annotated Dataset and Baseline Algorithm (Vestibular-Schwannoma-SEG)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.9YTJ-5Q73",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.9ytj-5q73,\n  doi = {10.7937/TCIA.9YTJ-5Q73},\n  url = {https://www.cancerimagingarchive.net/collection/vestibular-schwannoma-seg/},\n  author = {Shapey, Jonathan and Kujawa, Aaron and Dorent, Reuben and Wang, Guotai and Bisdas, Sotirios and Dimitriadis, Alexis and Grishchuck, Diana and Paddick, Ian and Kitchen, Neil and Bradford, Robert and Saeed, Shakeel and Ourselin, Sebastien and Vercauteren, Tom},\n  title = {Segmentation of Vestibular Schwannoma from Magnetic Resonance Imaging: An Open Annotated Dataset and Baseline Algorithm (Vestibular-Schwannoma-SEG)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2021},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.zpukhckb": {
+    "doi": "10.7937/k9/tcia.2015.zpukhckb",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.zpukhckb",
+    "apa": "Beichel, R., Ulrich, E. J., Bauer, C., Byrd, D. W., Muzi, J. P., Muzi, M., Kinahan, P. E., Sunderland, J. J., Graham, M. M., &amp; Buatti, J. M. (2015). <i>QIN PET Phantom</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.ZPUKHCKB",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.zpukhckb,\n  doi = {10.7937/K9/TCIA.2015.ZPUKHCKB},\n  url = {https://www.cancerimagingarchive.net/collection/qin-pet-phantom/},\n  author = {Beichel, Reinhard and Ulrich, Ethan J. and Bauer, Christian and Byrd, Darrin W. and Muzi, John P. and Muzi, Mark and Kinahan, Paul E. and Sunderland, John J. and Graham, Michael M. and Buatti, John M.},\n  title = {QIN PET Phantom},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
