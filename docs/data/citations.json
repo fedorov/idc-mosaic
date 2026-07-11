@@ -554,8 +554,8 @@
   "10.7937/erz5-qz59": {
     "doi": "10.7937/erz5-qz59",
     "url": "https://doi.org/10.7937/erz5-qz59",
-    "apa": null,
-    "bibtex": null
+    "apa": "Mayr, N., Yuh, W. T. C., Bowen, S., Harkenrider, M., Knopp, M. V., Lee, E. Y.-P., Leung, E., Lo, S. S., Small Jr., W., &amp; Wolfson, A. H. (2023). <i>Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/ERZ5-QZ59",
+    "bibtex": "@misc{https://doi.org/10.7937/erz5-qz59,\n  doi = {10.7937/ERZ5-QZ59},\n  url = {https://www.cancerimagingarchive.net/collection/cc-tumor-heterogeneity/},\n  author = {Mayr, Nina and Yuh, William T.C. and Bowen, Stephen and Harkenrider, Matthew and Knopp, Michael V. and Lee, Elaine Yuen-Phin and Leung, Eric and Lo, Simon S. and Small Jr., William and Wolfson, Aaron H.},\n  title = {Cervical Cancer - Tumor Heterogeneity: Serial Functional and Molecular Imaging Across the Radiation Therapy Course in Advanced Cervical Cancer (CC-Tumor-Heterogeneity)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2019.4cfm06rr": {
     "doi": "10.7937/tcia.2019.4cfm06rr",
@@ -752,7 +752,7 @@
   "10.7937/gwsp-wh72": {
     "doi": "10.7937/gwsp-wh72",
     "url": "https://doi.org/10.7937/gwsp-wh72",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)</i> (Version 11) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/GWSP-WH72",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)</i> (Version 12) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/GWSP-WH72",
     "bibtex": "@misc{https://doi.org/10.7937/gwsp-wh72,\n  doi = {10.7937/GWSP-WH72},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-mel/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Melanoma Collection (CMB-MEL)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2018.6emub5l2": {
