@@ -512,7 +512,7 @@
   "10.7937/k9/tcia.2016.vptnrgfy": {
     "doi": "10.7937/k9/tcia.2016.vptnrgfy",
     "url": "https://doi.org/10.7937/k9/tcia.2016.vptnrgfy",
-    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Esophageal Carcinoma Collection (TCGA-ESCA)</i> (Version 3) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
+    "apa": "Lucchesi, F. R., &amp; Aredes, N. D. (2016). <i>The Cancer Genome Atlas Esophageal Carcinoma Collection (TCGA-ESCA)</i> (Version 3) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.VPTNRGFY",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.vptnrgfy,\n  doi = {10.7937/K9/TCIA.2016.VPTNRGFY},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-esca/},\n  author = {Lucchesi, Fabiano R. and Aredes, Nat\u00e1lia D.},\n  title = {The Cancer Genome Atlas Esophageal Carcinoma Collection (TCGA-ESCA)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2016.immqw8uq": {
