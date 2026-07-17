@@ -806,7 +806,7 @@
   "10.7937/k9/tcia.2018.pat12tbs": {
     "doi": "10.7937/k9/tcia.2018.pat12tbs",
     "url": "https://doi.org/10.7937/k9/tcia.2018.pat12tbs",
-    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)</i> (Version 13) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)</i> (Version 13) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.PAT12TBS",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.pat12tbs,\n  doi = {10.7937/K9/TCIA.2018.PAT12TBS},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-luad/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Lung Adenocarcinoma Collection (CPTAC-LUAD)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.14933087": {
