@@ -644,7 +644,7 @@
   "10.5281/zenodo.12689650": {
     "doi": "10.5281/zenodo.12689650",
     "url": "https://doi.org/10.5281/zenodo.12689650",
-    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2025). <i>DICOM converted Slide Microscopy images for the NLST collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.12689650",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2025). <i>DICOM converted Slide Microscopy images for the NLST collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12689650",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12689650,\n  doi = {10.5281/ZENODO.12689650},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12689650},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the NLST collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2015.9p42kse6": {
