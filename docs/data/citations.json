@@ -968,7 +968,7 @@
   "10.5281/zenodo.13993759": {
     "doi": "10.5281/zenodo.13993759",
     "url": "https://doi.org/10.5281/zenodo.13993759",
-    "apa": "Clunie, D. (2025). <i>CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993759",
+    "apa": "Clunie, D. (2025). <i>CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.13993759",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993759,\n  doi = {10.5281/ZENODO.13993759},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993759},\n  author = {Clunie, David},\n  title = {CMB-AML: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Acute Myeloid Leukemia collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.17381396": {
