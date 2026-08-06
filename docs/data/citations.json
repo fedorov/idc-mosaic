@@ -1144,5 +1144,11 @@
     "url": "https://doi.org/10.7937/tcia.2020.pcak-8z10",
     "apa": "Tatum, J., Kalen, J., Ileva, lilia, L, R., S, K., N, P., Jacobs, P., Sanders, C., A, J., Difilippantonio, S., L, T., hollingshead, melinda, J, P., Y, E., Clunie, D., Y, L., Suloway, C., Smith, K., U, W., \u2026 Doroshow, J. (2020). <i>Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: PDMR-292921-168-R</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2020.PCAK-8Z10",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2020.pcak-8z10,\n  doi = {10.7937/TCIA.2020.PCAK-8Z10},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-292921-168-r/},\n  author = {Tatum, James and Kalen, Joseph and Ileva, lilia and L, Riffle and S, Keita and N, Patel and Jacobs, Paula and Sanders, Chelsea and A, James and Difilippantonio, Simone and L, Thang and hollingshead, melinda and J, Phillips and Y, Evrard and Clunie, David and Y, Liu and Suloway, Christian and Smith, Kirk and U, Wagner and J, Freymann and Kirby, Justin and Doroshow, James},\n  title = {Imaging characterization of a metastatic patient derived model of adenocarcinoma pancreas: PDMR-292921-168-R},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/tcia.2019.woskq5oo": {
+    "doi": "10.7937/tcia.2019.woskq5oo",
+    "url": "https://doi.org/10.7937/tcia.2019.woskq5oo",
+    "apa": "Yorke, A. A., McDonald, G. C., Solis, D., &amp; Guerrero, T. (2019). <i>Pelvic Reference Data</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.WOSKQ5OO",
+    "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.woskq5oo,\n  doi = {10.7937/TCIA.2019.WOSKQ5OO},\n  url = {https://www.cancerimagingarchive.net/collection/pelvic-reference-data/},\n  author = {Yorke, Afua A. and McDonald, Gary C. and Solis, David and Guerrero, Thomas},\n  title = {Pelvic Reference Data},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
