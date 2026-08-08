@@ -1150,5 +1150,11 @@
     "url": "https://doi.org/10.7937/tcia.2019.woskq5oo",
     "apa": "Yorke, A. A., McDonald, G. C., Solis, D., &amp; Guerrero, T. (2019). <i>Pelvic Reference Data</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.WOSKQ5OO",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.woskq5oo,\n  doi = {10.7937/TCIA.2019.WOSKQ5OO},\n  url = {https://www.cancerimagingarchive.net/collection/pelvic-reference-data/},\n  author = {Yorke, Afua A. and McDonald, Gary C. and Solis, David and Guerrero, Thomas},\n  title = {Pelvic Reference Data},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.17372206": {
+    "doi": "10.5281/zenodo.17372206",
+    "url": "https://doi.org/10.5281/zenodo.17372206",
+    "apa": "Clunie, D. A., Clifford, W., &amp; Fedorov, A. (2026). <i>CDDP-EAGLE-1: DICOM converted whole slide images from the Environment And Genetics in Lung\ncancer Etiology (EAGLE) study</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17372206",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.17372206,\n  doi = {10.5281/ZENODO.17372206},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17372206},\n  author = {Clunie, David A and Clifford, William and Fedorov, Andrey},\n  title = {CDDP-EAGLE-1: DICOM converted whole slide images from the Environment And Genetics in Lung\n  cancer Etiology (EAGLE) study},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
