@@ -1156,5 +1156,11 @@
     "url": "https://doi.org/10.5281/zenodo.17372206",
     "apa": "Clunie, D. A., Clifford, W., &amp; Fedorov, A. (2026). <i>CDDP-EAGLE-1: DICOM converted whole slide images from the Environment And Genetics in Lung\ncancer Etiology (EAGLE) study</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.17372206",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.17372206,\n  doi = {10.5281/ZENODO.17372206},\n  url = {https://zenodo.org/doi/10.5281/zenodo.17372206},\n  author = {Clunie, David A and Clifford, William and Fedorov, Andrey},\n  title = {CDDP-EAGLE-1: DICOM converted whole slide images from the Environment And Genetics in Lung\n  cancer Etiology (EAGLE) study},\n  publisher = {Zenodo},\n  year = {2026},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.h1sxnuxl": {
+    "doi": "10.7937/k9/tcia.2015.h1sxnuxl",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.h1sxnuxl",
+    "apa": "Meyer, C. R., Chenevert, T. L., Galb\u00e1n, C. J., Johnson, T. D., Hamstra, D. A., Rehemtulla, A., &amp; Ross, B. D. (2015). <i>RIDER Breast MRI</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.H1SXNUXL",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.h1sxnuxl,\n  doi = {10.7937/K9/TCIA.2015.H1SXNUXL},\n  url = {https://www.cancerimagingarchive.net/collection/rider-breast-mri/},\n  author = {Meyer, Charles R and Chenevert, Thomas L and Galb\u00e1n, Craig J and Johnson, Timothy D and Hamstra, Daniel A and Rehemtulla, Alnawaz and Ross, Brian D},\n  title = {RIDER Breast MRI},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
