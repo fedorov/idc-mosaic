@@ -758,7 +758,7 @@
   "10.7937/k9/tcia.2018.6emub5l2": {
     "doi": "10.7937/k9/tcia.2018.6emub5l2",
     "url": "https://doi.org/10.7937/k9/tcia.2018.6emub5l2",
-    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Squamous Cell Carcinoma Collection (CPTAC-LSCC)</i> (Version 15) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
+    "apa": "National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC). (2018). <i>The Clinical Proteomic Tumor Analysis Consortium Lung Squamous Cell Carcinoma Collection (CPTAC-LSCC)</i> (Version 15) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.6EMUB5L2",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.6emub5l2,\n  doi = {10.7937/K9/TCIA.2018.6EMUB5L2},\n  url = {https://www.cancerimagingarchive.net/collection/cptac-lscc/},\n  author = {{National Cancer Institute Clinical Proteomic Tumor Analysis Consortium (CPTAC)}},\n  title = {The Clinical Proteomic Tumor Analysis Consortium Lung Squamous Cell Carcinoma Collection (CPTAC-LSCC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/tcia.2020.7yrs-7j97": {
