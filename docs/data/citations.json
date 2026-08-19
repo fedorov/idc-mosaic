@@ -1168,5 +1168,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2018.smt36lpn",
     "apa": "Madabhushi, A., &amp; Rusu, M. (2018). <i>Fused Radiology-Pathology Lung (Lung-Fused-CT-Pathology)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.SMT36LPN",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.smt36lpn,\n  doi = {10.7937/K9/TCIA.2018.SMT36LPN},\n  url = {https://www.cancerimagingarchive.net/collection/lung-fused-ct-pathology/},\n  author = {Madabhushi, Anant and Rusu, Mirabela},\n  keywords = {Invasive Adenocarcinoma, Computed Tomography, Pathology, Pulmonary Nodules},\n  title = {Fused Radiology-Pathology Lung (Lung-Fused-CT-Pathology)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2018},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12666759": {
+    "doi": "10.5281/zenodo.12666759",
+    "url": "https://doi.org/10.5281/zenodo.12666759",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-BRCA collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666759",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666759,\n  doi = {10.5281/ZENODO.12666759},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666759},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-BRCA collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
