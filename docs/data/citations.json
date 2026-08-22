@@ -668,7 +668,7 @@
   "10.7937/qvaz-ja09": {
     "doi": "10.7937/qvaz-ja09",
     "url": "https://doi.org/10.7937/qvaz-ja09",
-    "apa": "Idris, T., Somarouthu, S., Jacene, H., LaCasce, A., Ziegler, E., Pieper, S., Khajavi, R., Dorent, R., Pujol, S., Kikinis, R., &amp; Harris, G. (2024). <i>Mediastinal Lymph Node Quantification (LNQ): Segmentation of Heterogeneous CT Data</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/QVAZ-JA09",
+    "apa": "Idris, T., Somarouthu, S., Jacene, H., LaCasce, A., Ziegler, E., Pieper, S., Khajavi, R., Dorent, R., Pujol, S., Kikinis, R., &amp; Harris, G. (2024). <i>Mediastinal Lymph Node Quantification (LNQ): Segmentation of Heterogeneous CT Data</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/QVAZ-JA09",
     "bibtex": "@misc{https://doi.org/10.7937/qvaz-ja09,\n  doi = {10.7937/QVAZ-JA09},\n  url = {https://cancerimagingarchive.net/collection/mediastinal-lymph-node-seg/},\n  author = {Idris, Tagwa and Somarouthu, Supriya and Jacene, Heather and LaCasce, A and Ziegler, Erik and Pieper, Steve and Khajavi, Roya and Dorent, Reuben and Pujol, Sonia and Kikinis, Ron and Harris, Gordon},\n  title = {Mediastinal Lymph Node Quantification (LNQ): Segmentation of Heterogeneous CT Data},\n  publisher = {The Cancer Imaging Archive},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666784": {
