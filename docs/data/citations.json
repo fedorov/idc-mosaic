@@ -608,7 +608,7 @@
   "10.5281/zenodo.13993769": {
     "doi": "10.5281/zenodo.13993769",
     "url": "https://doi.org/10.5281/zenodo.13993769",
-    "apa": "Clunie, D. (2025). <i>CMB-CRC: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Colorectal Cancer collection</i> [Data set]. Zenodo. https://doi.org/10.5281/ZENODO.13993769",
+    "apa": "Clunie, D. (2025). <i>CMB-CRC: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Colorectal Cancer collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.13993769",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.13993769,\n  doi = {10.5281/ZENODO.13993769},\n  url = {https://zenodo.org/doi/10.5281/zenodo.13993769},\n  author = {Clunie, David},\n  title = {CMB-CRC: DICOM converted Slide Microscopy images for the Cancer Moonshot Biobank initiative Colorectal Cancer collection},\n  publisher = {Zenodo},\n  year = {2025},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/1fpg-vm46": {
