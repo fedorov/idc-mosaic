@@ -218,7 +218,7 @@
   "10.7937/k9/tcia.2015.nwtesay1": {
     "doi": "10.7937/k9/tcia.2015.nwtesay1",
     "url": "https://doi.org/10.7937/k9/tcia.2015.nwtesay1",
-    "apa": "Smith, K., Clark, K., Bennett, W. C., Nolan, T., Kirby, J., Wolfsberger, M., Moulton, J., Vendt, B., &amp; Freymann, J. (2015). <i>Data From CT COLONOGRAPHY (ACRIN 6664)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
+    "apa": "Smith, K., Clark, K., Bennett, W. C., Nolan, T., Kirby, J., Wolfsberger, M., Moulton, J., Vendt, B., &amp; Freymann, J. (2015). <i>Data From CT COLONOGRAPHY (ACRIN 6664)</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.NWTESAY1",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.nwtesay1,\n  doi = {10.7937/K9/TCIA.2015.NWTESAY1},\n  url = {https://www.cancerimagingarchive.net/collection/ct-colonography/},\n  author = {Smith, Kirk and Clark, Kenneth and Bennett, William C. and Nolan, Tracy and Kirby, Justin and Wolfsberger, Mary and Moulton, Joan and Vendt, Bruce and Freymann, John},\n  title = {Data From CT COLONOGRAPHY (ACRIN 6664)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12690008": {
