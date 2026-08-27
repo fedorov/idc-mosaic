@@ -788,7 +788,7 @@
   "10.7937/tcia.2019.b6u7wmqw": {
     "doi": "10.7937/tcia.2019.b6u7wmqw",
     "url": "https://doi.org/10.7937/tcia.2019.b6u7wmqw",
-    "apa": "Tatum, J. L., Kalen, J. D., Ileva, L. V., Riffle, L. A., Jacobs, P. M., Hollingshead, M. G., Doroshow, J. H., Clunie, D. A., Smith, K. E., Wagner, U., &amp; Freymann, J. B. (2019). <i>Imaging characterization of a metastatic patient derived model of bladder cancer: BL0293F (PDMR-BL0293-F563)</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.B6U7WMQW",
+    "apa": "Tatum, J. L., Kalen, J. D., Ileva, L. V., Riffle, L. A., Jacobs, P. M., Hollingshead, M. G., Doroshow, J. H., Clunie, D. A., Smith, K. E., Wagner, U., &amp; Freymann, J. B. (2019). <i>Imaging characterization of a metastatic patient derived model of bladder cancer: BL0293F (PDMR-BL0293-F563)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.2019.B6U7WMQW",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.2019.b6u7wmqw,\n  doi = {10.7937/TCIA.2019.B6U7WMQW},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-bl0293-f563/},\n  author = {Tatum, James L and Kalen, Joseph D and Ileva, Lilia V and Riffle, Lisa A and Jacobs, Paula M and Hollingshead, Melinda G and Doroshow, James H and Clunie, David A and Smith, Kirk E and Wagner, Ulrike and Freymann, John B},\n  title = {Imaging characterization of a metastatic patient derived model of bladder cancer: BL0293F (PDMR-BL0293-F563)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12666740": {
