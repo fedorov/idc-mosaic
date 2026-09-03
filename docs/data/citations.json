@@ -866,13 +866,13 @@
   "10.7937/k9/tcia.2016.acwogbef": {
     "doi": "10.7937/k9/tcia.2016.acwogbef",
     "url": "https://doi.org/10.7937/k9/tcia.2016.acwogbef",
-    "apa": "Linehan, M., Gautam, R., Kirk, S., Lee, Y., Roche, C., Bonaccio, E., Filippini, J., Rieger-Christ, K., Lemmerman, J., &amp; Jarosz, R. (2016). <i>The Cancer Genome Atlas Cervical Kidney Renal Papillary Cell Carcinoma Collection (TCGA-KIRP)</i> (Version 4) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
+    "apa": "Linehan, M., Gautam, R., Kirk, S., Lee, Y., Roche, C., Bonaccio, E., Filippini, J., Rieger-Christ, K., Lemmerman, J., &amp; Jarosz, R. (2016). <i>The Cancer Genome Atlas Cervical Kidney Renal Papillary Cell Carcinoma Collection (TCGA-KIRP)</i> (Version 4) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2016.ACWOGBEF",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2016.acwogbef,\n  doi = {10.7937/K9/TCIA.2016.ACWOGBEF},\n  url = {https://www.cancerimagingarchive.net/collection/tcga-kirp/},\n  author = {Linehan, Marston and Gautam, Rabindra and Kirk, Shanah and Lee, Yueh and Roche, Charles and Bonaccio, Ermelinda and Filippini, Joe and Rieger-Christ, Kimberly and Lemmerman, John and Jarosz, Rose},\n  title = {The Cancer Genome Atlas Cervical Kidney Renal Papillary Cell Carcinoma Collection (TCGA-KIRP)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2016},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.7937/k9/tcia.2018.mr1ckgnd": {
     "doi": "10.7937/k9/tcia.2018.mr1ckgnd",
     "url": "https://doi.org/10.7937/k9/tcia.2018.mr1ckgnd",
-    "apa": "Fedorov, A., Tempany, C., &amp; Fennessy, F. (2019). <i>Data From QIN-PROSTATE-Repeatability</i> (Version 2) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.MR1CKGND",
+    "apa": "Fedorov, A., Tempany, C., &amp; Fennessy, F. (2019). <i>Data From QIN-PROSTATE-Repeatability</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2018.MR1CKGND",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2018.mr1ckgnd,\n  doi = {10.7937/K9/TCIA.2018.MR1CKGND},\n  url = {https://www.cancerimagingarchive.net/collection/qin-prostate-repeatability/},\n  author = {Fedorov, Andriy and Tempany, Clare and Fennessy, Fiona},\n  title = {Data From QIN-PROSTATE-Repeatability},\n  publisher = {The Cancer Imaging Archive},\n  year = {2019},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12666788": {
