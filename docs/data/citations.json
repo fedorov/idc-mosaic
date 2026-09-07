@@ -404,7 +404,7 @@
   "10.7937/tcia.0eck-c338": {
     "doi": "10.7937/tcia.0eck-c338",
     "url": "https://doi.org/10.7937/tcia.0eck-c338",
-    "apa": "Tatum, J., Kalen, J., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Jacobs, P., Sanders, C., James, A., Difilippantonio, S., Thang, L., hollingshead, melinda, Phillips, J., Evrard, Y., Clunie, D., Yanling, Smith, K., Wagner, U., Freymann, J., \u2026 Doroshow, J. (2020). <i>Imaging tissue characterization of a patient derived xenograft model of adenocarcinoma pancreas: PDMR-833975-119-R</i> (Version 1) [Data set]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.0ECK-C338",
+    "apa": "Tatum, J., Kalen, J., Ileva, lilia, Riffle, L., Keita, S., Patel, N., Jacobs, P., Sanders, C., James, A., Difilippantonio, S., Thang, L., hollingshead, melinda, Phillips, J., Evrard, Y., Clunie, D., Yanling, Smith, K., Wagner, U., Freymann, J., \u2026 Doroshow, J. (2020). <i>Imaging tissue characterization of a patient derived xenograft model of adenocarcinoma pancreas: PDMR-833975-119-R</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/TCIA.0ECK-C338",
     "bibtex": "@misc{https://doi.org/10.7937/tcia.0eck-c338,\n  doi = {10.7937/TCIA.0ECK-C338},\n  url = {https://www.cancerimagingarchive.net/collection/pdmr-833975-119-r/},\n  author = {Tatum, James and Kalen, Joseph and Ileva, lilia and Riffle, Lisa and Keita, Saito and Patel, Nimit and Jacobs, Paula and Sanders, Chelsea and James, Amy and Difilippantonio, Simone and Thang, Lai and hollingshead, melinda and Phillips, Jessica and Evrard, Yvonne and Clunie, David and {Yanling} and Smith, Kirk and Wagner, Ulrike and Freymann, John and Kirby, Justin and Doroshow, James},\n  title = {Imaging tissue characterization of a patient derived xenograft model of adenocarcinoma pancreas: PDMR-833975-119-R},\n  publisher = {The Cancer Imaging Archive},\n  year = {2020},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   },
   "10.5281/zenodo.12690002": {
@@ -1174,5 +1174,11 @@
     "url": "https://doi.org/10.5281/zenodo.12666759",
     "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the CPTAC-BRCA collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12666759",
     "bibtex": "@misc{https://doi.org/10.5281/zenodo.12666759,\n  doi = {10.5281/ZENODO.12666759},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12666759},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the CPTAC-BRCA collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/k9/tcia.2015.npgzyzbz": {
+    "doi": "10.7937/k9/tcia.2015.npgzyzbz",
+    "url": "https://doi.org/10.7937/k9/tcia.2015.npgzyzbz",
+    "apa": "Goldgof, D., Hall, L., Hawkins, S., Schabath, M., Stringfield, O., Garcia, A., Balagurunathan, Y., Kim, J., Eschrich, S., Berglund, A., Gatenby, R., &amp; Gillies, R. (2015). <i>Data From QIN LUNG CT</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.NPGZYZBZ",
+    "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.npgzyzbz,\n  doi = {10.7937/K9/TCIA.2015.NPGZYZBZ},\n  url = {https://www.cancerimagingarchive.net/collection/qin-lung-ct/},\n  author = {Goldgof, Dmitry and Hall, Lawrence and Hawkins, Samuel and Schabath, Matthew and Stringfield, Olya and Garcia, Alberto and Balagurunathan, Yoganand and Kim, Jongphil and Eschrich, Steven and Berglund, Anders and Gatenby, Robert and Gillies, Robert},\n  title = {Data From QIN LUNG CT},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
   }
 }
