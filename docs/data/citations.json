@@ -1180,5 +1180,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2015.npgzyzbz",
     "apa": "Goldgof, D., Hall, L., Hawkins, S., Schabath, M., Stringfield, O., Garcia, A., Balagurunathan, Y., Kim, J., Eschrich, S., Berglund, A., Gatenby, R., &amp; Gillies, R. (2015). <i>Data From QIN LUNG CT</i> (Version 2) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.NPGZYZBZ",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.npgzyzbz,\n  doi = {10.7937/K9/TCIA.2015.NPGZYZBZ},\n  url = {https://www.cancerimagingarchive.net/collection/qin-lung-ct/},\n  author = {Goldgof, Dmitry and Hall, Lawrence and Hawkins, Samuel and Schabath, Matthew and Stringfield, Olya and Garcia, Alberto and Balagurunathan, Yoganand and Kim, Jongphil and Eschrich, Steven and Berglund, Anders and Gatenby, Robert and Gillies, Robert},\n  title = {Data From QIN LUNG CT},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution 3.0 Unported}\n}\n"
+  },
+  "10.7937/3ppx-7s22": {
+    "doi": "10.7937/3ppx-7s22",
+    "url": "https://doi.org/10.7937/3ppx-7s22",
+    "apa": "Eslick, E. M., Kipritidis, J., Gradinscak, D., Stevens, M. J., Bailey, D. L., Harris, B., Booth, J. T., &amp; Keall, P. J. (2022). <i>CT Ventilation as a functional imaging modality for lung cancer radiotherapy (CT-vs-PET-Ventilation-Imaging)</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/3PPX-7S22",
+    "bibtex": "@misc{https://doi.org/10.7937/3ppx-7s22,\n  doi = {10.7937/3PPX-7S22},\n  url = {https://www.cancerimagingarchive.net/collection/ct-vs-pet-ventilation-imaging/},\n  author = {Eslick, Enid M. and Kipritidis, John and Gradinscak, Denis and Stevens, Mark J. and Bailey, Dale L. and Harris, Benjamin and Booth, Jeremy T. and Keall, Paul J.},\n  title = {CT Ventilation as a functional imaging modality for lung cancer radiotherapy (CT-vs-PET-Ventilation-Imaging)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
