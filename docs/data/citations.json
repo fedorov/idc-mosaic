@@ -116,8 +116,8 @@
   "10.7937/pcte-6m66": {
     "doi": "10.7937/pcte-6m66",
     "url": "https://doi.org/10.7937/pcte-6m66",
-    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 9) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
-    "bibtex": "@misc{https://doi.org/10.7937/pcte-6m66,\n  doi = {10.7937/PCTE-6M66},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-aml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshoot Biobank - Acute Myeloid Leukemia (CMB-AML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
+    "apa": "Cancer Moonshot Biobank. (2023). <i>Cancer Moonshot Biobank - Acute Myeloid Leukemia (CMB-AML)</i> (Version 9) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/PCTE-6M66",
+    "bibtex": "@misc{https://doi.org/10.7937/pcte-6m66,\n  doi = {10.7937/PCTE-6M66},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-aml/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Acute Myeloid Leukemia (CMB-AML)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2023},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.5281/zenodo.12689962": {
     "doi": "10.5281/zenodo.12689962",
