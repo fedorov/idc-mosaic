@@ -1192,5 +1192,11 @@
     "url": "https://doi.org/10.7937/k9/tcia.2015.l4fret6z",
     "apa": "Aerts, H. J. W. L., Rios Velazquez, E., Leijenaar, R. T. H., Parmar, C., Grossmann, P., Carvalho, S., Bussink, J., Monshouwer, R., Haibe-Kains, B., Rietveld, D., Hoebers, F., Rietbergen, M. M., Leemans, C. R., Dekker, A., Quackenbush, J., Gillies, R. J., &amp; Lambin, P. (2015). <i>Data From NSCLC-Radiomics-Genomics</i> (Version 1) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/K9/TCIA.2015.L4FRET6Z",
     "bibtex": "@misc{https://doi.org/10.7937/k9/tcia.2015.l4fret6z,\n  doi = {10.7937/K9/TCIA.2015.L4FRET6Z},\n  url = {https://www.cancerimagingarchive.net/collection/nsclc-radiomics-genomics/},\n  author = {Aerts, Hugo J. W. L. and Rios Velazquez, Emmanuel and Leijenaar, Ralph T. H. and Parmar, Chintan and Grossmann, Patrick and Carvalho, Sara and Bussink, Johan and Monshouwer, Ren\u00e9 and Haibe-Kains, Benjamin and Rietveld, Derek and Hoebers, Frank and Rietbergen, Michelle M. and Leemans, C. Ren\u00e9 and Dekker, Andre and Quackenbush, John and Gillies, Robert J. and Lambin, Philippe},\n  title = {Data From NSCLC-Radiomics-Genomics},\n  publisher = {The Cancer Imaging Archive},\n  year = {2015},\n  copyright = {Creative Commons Attribution Non Commercial 3.0 Unported}\n}\n"
+  },
+  "10.5281/zenodo.12690006": {
+    "doi": "10.5281/zenodo.12690006",
+    "url": "https://doi.org/10.5281/zenodo.12690006",
+    "apa": "Clunie, D., Clifford, W., Pot, D., Wagner, U., Farahani, K., Kim, E., &amp; Fedorov, A. (2024). <i>DICOM converted Slide Microscopy images for the HTAN-VANDERBILT collection</i> [Dataset]. Zenodo. https://doi.org/10.5281/ZENODO.12690006",
+    "bibtex": "@misc{https://doi.org/10.5281/zenodo.12690006,\n  doi = {10.5281/ZENODO.12690006},\n  url = {https://zenodo.org/doi/10.5281/zenodo.12690006},\n  author = {Clunie, David and Clifford, William and Pot, David and Wagner, Ulrike and Farahani, Keyvan and Kim, Erika and Fedorov, Andrey},\n  title = {DICOM converted Slide Microscopy images for the HTAN-VANDERBILT collection},\n  publisher = {Zenodo},\n  year = {2024},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   }
 }
