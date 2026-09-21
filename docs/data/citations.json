@@ -260,7 +260,7 @@
   "10.7937/e7kh-r486": {
     "doi": "10.7937/e7kh-r486",
     "url": "https://doi.org/10.7937/e7kh-r486",
-    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)</i> (Version 8) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/E7KH-R486",
+    "apa": "Cancer Moonshot Biobank. (2022). <i>Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)</i> (Version 9) [Dataset]. The Cancer Imaging Archive. https://doi.org/10.7937/E7KH-R486",
     "bibtex": "@misc{https://doi.org/10.7937/e7kh-r486,\n  doi = {10.7937/E7KH-R486},\n  url = {https://www.cancerimagingarchive.net/collection/cmb-gec/},\n  author = {{Cancer Moonshot Biobank}},\n  title = {Cancer Moonshot Biobank - Gastroesophageal Cancer Collection (CMB-GEC)},\n  publisher = {The Cancer Imaging Archive},\n  year = {2022},\n  copyright = {Creative Commons Attribution 4.0 International}\n}\n"
   },
   "10.7937/k9/tcia.2018.sc20fo18": {
